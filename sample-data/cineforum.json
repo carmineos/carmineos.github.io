@@ -1,0 +1,2241 @@
+[
+  {
+    "Name": "Season 1",
+    "Movies": [
+      {
+        "OriginalTitle": "I Am Sam",
+        "TitleIT": "Mi chiamo Sam",
+        "Year": 2001,
+        "TitleId": "tt0277027",
+        "Directors": "Jessie Nelson"
+      },
+      {
+        "OriginalTitle": "Jian yu",
+        "TitleIT": "La congiura della pietra nera",
+        "Year": 2010,
+        "TitleId": "tt1460743",
+        "Directors": "Chao-Bin Su, John Woo"
+      },
+      {
+        "OriginalTitle": "Safe House",
+        "TitleIT": "Safe House - Nessuno è al sicuro",
+        "Year": 2012,
+        "TitleId": "tt1599348",
+        "Directors": "Daniel Espinosa"
+      },
+      {
+        "OriginalTitle": "Stand by Me",
+        "TitleIT": "Stand by Me - Ricordo di un'estate",
+        "Year": 1986,
+        "TitleId": "tt0092005",
+        "Directors": "Rob Reiner"
+      },
+      {
+        "OriginalTitle": "Et maintenant on va où?",
+        "TitleIT": "E ora dove andiamo?",
+        "Year": 2011,
+        "TitleId": "tt1772424",
+        "Directors": "Nadine Labaki"
+      },
+      {
+        "OriginalTitle": "The King's Speech",
+        "TitleIT": "Il discorso del Re",
+        "Year": 2010,
+        "TitleId": "tt1504320",
+        "Directors": "Tom Hooper"
+      },
+      {
+        "OriginalTitle": "Fargo",
+        "TitleIT": null,
+        "Year": 1996,
+        "TitleId": "tt0116282",
+        "Directors": "Joel Coen, Ethan Coen"
+      },
+      {
+        "OriginalTitle": "Il vento fa il suo giro",
+        "TitleIT": null,
+        "Year": 2005,
+        "TitleId": "tt0483206",
+        "Directors": "Giorgio Diritti"
+      },
+      {
+        "OriginalTitle": "Life of Pi",
+        "TitleIT": "Vita di Pi",
+        "Year": 2012,
+        "TitleId": "tt0454876",
+        "Directors": "Ang Lee"
+      },
+      {
+        "OriginalTitle": "Alice",
+        "TitleIT": null,
+        "Year": 1990,
+        "TitleId": "tt0099012",
+        "Directors": "Woody Allen"
+      },
+      {
+        "OriginalTitle": "El laberinto del fauno",
+        "TitleIT": "Il labirinto del fauno",
+        "Year": 2006,
+        "TitleId": "tt0457430",
+        "Directors": "Guillermo del Toro"
+      },
+      {
+        "OriginalTitle": "Requiem for a Dream",
+        "TitleIT": null,
+        "Year": 2000,
+        "TitleId": "tt0180093",
+        "Directors": "Darren Aronofsky"
+      },
+      {
+        "OriginalTitle": "The Departed",
+        "TitleIT": "The Departed - Il bene e il male",
+        "Year": 2006,
+        "TitleId": "tt0407887",
+        "Directors": "Martin Scorsese"
+      },
+      {
+        "OriginalTitle": "Drive",
+        "TitleIT": null,
+        "Year": 2011,
+        "TitleId": "tt0780504",
+        "Directors": "Nicolas Winding Refn"
+      },
+      {
+        "OriginalTitle": "Se7en",
+        "TitleIT": "Seven",
+        "Year": 1995,
+        "TitleId": "tt0114369",
+        "Directors": "David Fincher"
+      },
+      {
+        "OriginalTitle": "Remember the Titans",
+        "TitleIT": "Il sapore della vittoria - Uniti si vince",
+        "Year": 2000,
+        "TitleId": "tt0210945",
+        "Directors": "Boaz Yakin"
+      },
+      {
+        "OriginalTitle": "Easy Rider",
+        "TitleIT": null,
+        "Year": 1969,
+        "TitleId": "tt0064276",
+        "Directors": "Dennis Hopper"
+      },
+      {
+        "OriginalTitle": "Perfume: The Story of a Murderer",
+        "TitleIT": "Profumo - Storia di un assassino",
+        "Year": 2006,
+        "TitleId": "tt0396171",
+        "Directors": "Tom Tykwer"
+      },
+      {
+        "OriginalTitle": "Mery per sempre",
+        "TitleIT": null,
+        "Year": 1989,
+        "TitleId": "tt0097870",
+        "Directors": "Marco Risi"
+      },
+      {
+        "OriginalTitle": "Pulp Fiction",
+        "TitleIT": null,
+        "Year": 1994,
+        "TitleId": "tt0110912",
+        "Directors": "Quentin Tarantino"
+      },
+      {
+        "OriginalTitle": "Goodfellas",
+        "TitleIT": "Quei bravi ragazzi",
+        "Year": 1990,
+        "TitleId": "tt0099685",
+        "Directors": "Martin Scorsese"
+      },
+      {
+        "OriginalTitle": "The Hangover Part III",
+        "TitleIT": "Una notte da leoni 3",
+        "Year": 2013,
+        "TitleId": "tt1951261",
+        "Directors": "Todd Phillips"
+      },
+      {
+        "OriginalTitle": "Looper",
+        "TitleIT": null,
+        "Year": 2012,
+        "TitleId": "tt1276104",
+        "Directors": "Rian Johnson"
+      },
+      {
+        "OriginalTitle": "Memento",
+        "TitleIT": null,
+        "Year": 2000,
+        "TitleId": "tt0209144",
+        "Directors": "Christopher Nolan"
+      },
+      {
+        "OriginalTitle": "Choke",
+        "TitleIT": "Soffocare",
+        "Year": 2008,
+        "TitleId": "tt1024715",
+        "Directors": "Clark Gregg"
+      },
+      {
+        "OriginalTitle": "Hard Candy",
+        "TitleIT": null,
+        "Year": 2005,
+        "TitleId": "tt0424136",
+        "Directors": "David Slade"
+      },
+      {
+        "OriginalTitle": "Carlito's Way",
+        "TitleIT": null,
+        "Year": 1993,
+        "TitleId": "tt0106519",
+        "Directors": "Brian De Palma"
+      },
+      {
+        "OriginalTitle": "The Amityville Horror",
+        "TitleIT": "Amityville Horror",
+        "Year": 2005,
+        "TitleId": "tt0384806",
+        "Directors": "Andrew Douglas"
+      },
+      {
+        "OriginalTitle": "Gone Baby Gone",
+        "TitleIT": null,
+        "Year": 2007,
+        "TitleId": "tt0452623",
+        "Directors": "Ben Affleck"
+      }
+    ]
+  },
+  {
+    "Name": "Season 2",
+    "Movies": [
+      {
+        "OriginalTitle": "Star Trek",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0796366",
+        "Directors": "J.J. Abrams"
+      },
+      {
+        "OriginalTitle": "The Jacket",
+        "TitleIT": null,
+        "Year": 2005,
+        "TitleId": "tt0366627",
+        "Directors": "John Maybury"
+      },
+      {
+        "OriginalTitle": "The Shining",
+        "TitleIT": "Shining",
+        "Year": 1980,
+        "TitleId": "tt0081505",
+        "Directors": "Stanley Kubrick"
+      },
+      {
+        "OriginalTitle": "Scusate il ritardo",
+        "TitleIT": null,
+        "Year": 1983,
+        "TitleId": "tt0084646",
+        "Directors": "Massimo Troisi"
+      },
+      {
+        "OriginalTitle": "My Sister's Keeper",
+        "TitleIT": "La custode di mia sorella",
+        "Year": 2009,
+        "TitleId": "tt1078588",
+        "Directors": "Nick Cassavetes"
+      },
+      {
+        "OriginalTitle": "Amici miei",
+        "TitleIT": null,
+        "Year": 1975,
+        "TitleId": "tt0072637",
+        "Directors": "Mario Monicelli"
+      },
+      {
+        "OriginalTitle": "Annie Hall",
+        "TitleIT": "Io e Annie",
+        "Year": 1977,
+        "TitleId": "tt0075686",
+        "Directors": "Woody Allen"
+      },
+      {
+        "OriginalTitle": "La migliore offerta",
+        "TitleIT": null,
+        "Year": 2013,
+        "TitleId": "tt1924396",
+        "Directors": "Giuseppe Tornatore"
+      },
+      {
+        "OriginalTitle": "Dumbo",
+        "TitleIT": null,
+        "Year": 1941,
+        "TitleId": "tt0033563",
+        "Directors": "Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte"
+      },
+      {
+        "OriginalTitle": "The Matrix",
+        "TitleIT": "Matrix",
+        "Year": 1999,
+        "TitleId": "tt0133093",
+        "Directors": "Lana Wachowski, Lilly Wachowski"
+      },
+      {
+        "OriginalTitle": "Hercules",
+        "TitleIT": null,
+        "Year": 1997,
+        "TitleId": "tt0119282",
+        "Directors": "Ron Clements, John Musker"
+      },
+      {
+        "OriginalTitle": "Pearl Jam Twenty",
+        "TitleIT": null,
+        "Year": 2011,
+        "TitleId": "tt1417592",
+        "Directors": "Cameron Crowe"
+      },
+      {
+        "OriginalTitle": "Eyes Wide Shut",
+        "TitleIT": null,
+        "Year": 1999,
+        "TitleId": "tt0120663",
+        "Directors": "Stanley Kubrick"
+      },
+      {
+        "OriginalTitle": "I vitelloni",
+        "TitleIT": null,
+        "Year": 1953,
+        "TitleId": "tt0046521",
+        "Directors": "Federico Fellini"
+      },
+      {
+        "OriginalTitle": "The Hitchhiker's Guide to the Galaxy",
+        "TitleIT": "Guida galattica per autostoppisti",
+        "Year": 2005,
+        "TitleId": "tt0371724",
+        "Directors": "Garth Jennings"
+      },
+      {
+        "OriginalTitle": "American Gangster",
+        "TitleIT": null,
+        "Year": 2007,
+        "TitleId": "tt0765429",
+        "Directors": "Ridley Scott"
+      },
+      {
+        "OriginalTitle": "The Holiday",
+        "TitleIT": "L'amore non va in vacanza",
+        "Year": 2006,
+        "TitleId": "tt0457939",
+        "Directors": "Nancy Meyers"
+      },
+      {
+        "OriginalTitle": "The Usual Suspects",
+        "TitleIT": "I soliti sospetti",
+        "Year": 1995,
+        "TitleId": "tt0114814",
+        "Directors": "Bryan Singer"
+      }
+    ]
+  },
+  {
+    "Name": "Season 3",
+    "Movies": [
+      {
+        "OriginalTitle": "Blue Valentine",
+        "TitleIT": null,
+        "Year": 2010,
+        "TitleId": "tt1120985",
+        "Directors": "Derek Cianfrance"
+      },
+      {
+        "OriginalTitle": "Basic",
+        "TitleIT": null,
+        "Year": 2003,
+        "TitleId": "tt0264395",
+        "Directors": "John McTiernan"
+      },
+      {
+        "OriginalTitle": "Big Fish",
+        "TitleIT": "Big Fish - Le storie di una vita incredibile",
+        "Year": 2003,
+        "TitleId": "tt0319061",
+        "Directors": "Tim Burton"
+      },
+      {
+        "OriginalTitle": "The Basketball Diaries",
+        "TitleIT": "Ritorno dal nulla",
+        "Year": 1995,
+        "TitleId": "tt0112461",
+        "Directors": "Scott Kalvert"
+      },
+      {
+        "OriginalTitle": "No Country for Old Men",
+        "TitleIT": "Non è un paese per vecchi",
+        "Year": 2007,
+        "TitleId": "tt0477348",
+        "Directors": "Ethan Coen, Joel Coen"
+      },
+      {
+        "OriginalTitle": "Side Effects",
+        "TitleIT": "Effetti Collaterali",
+        "Year": 2013,
+        "TitleId": "tt2053463",
+        "Directors": "Steven Soderbergh"
+      },
+      {
+        "OriginalTitle": "Alien",
+        "TitleIT": null,
+        "Year": 1979,
+        "TitleId": "tt0078748",
+        "Directors": "Ridley Scott"
+      },
+      {
+        "OriginalTitle": "Sen to Chihiro no kamikakushi",
+        "TitleIT": "La città incantata",
+        "Year": 2001,
+        "TitleId": "tt0245429",
+        "Directors": "Hayao Miyazaki"
+      },
+      {
+        "OriginalTitle": "Shaun of the Dead",
+        "TitleIT": "L'alba dei morti dementi",
+        "Year": 2004,
+        "TitleId": "tt0365748",
+        "Directors": "Edgar Wright"
+      },
+      {
+        "OriginalTitle": "Crash",
+        "TitleIT": "Crash: Contatto fisico",
+        "Year": 2004,
+        "TitleId": "tt0375679",
+        "Directors": "Paul Haggis"
+      },
+      {
+        "OriginalTitle": "Profondo rosso",
+        "TitleIT": null,
+        "Year": 1975,
+        "TitleId": "tt0073582",
+        "Directors": "Dario Argento"
+      },
+      {
+        "OriginalTitle": "The Last Samurai",
+        "TitleIT": "L'ultimo samurai",
+        "Year": 2003,
+        "TitleId": "tt0325710",
+        "Directors": "Edward Zwick"
+      },
+      {
+        "OriginalTitle": "Seven Psychopaths",
+        "TitleIT": "7 Psicopatici",
+        "Year": 2012,
+        "TitleId": "tt1931533",
+        "Directors": "Martin McDonagh"
+      },
+      {
+        "OriginalTitle": "Silver Linings Playbook",
+        "TitleIT": "Il lato positivo - Silver Linings Playbook",
+        "Year": 2012,
+        "TitleId": "tt1045658",
+        "Directors": "David O. Russell"
+      },
+      {
+        "OriginalTitle": "Alexander",
+        "TitleIT": null,
+        "Year": 2004,
+        "TitleId": "tt0346491",
+        "Directors": "Oliver Stone"
+      },
+      {
+        "OriginalTitle": "Ocean's Eleven",
+        "TitleIT": "Ocean's Eleven - Fate il vostro gioco",
+        "Year": 2001,
+        "TitleId": "tt0240772",
+        "Directors": "Steven Soderbergh"
+      },
+      {
+        "OriginalTitle": "Seven Pounds",
+        "TitleIT": "Sette Anime",
+        "Year": 2008,
+        "TitleId": "tt0814314",
+        "Directors": "Gabriele Muccino"
+      },
+      {
+        "OriginalTitle": "The English Patient",
+        "TitleIT": "Il paziente inglese",
+        "Year": 1996,
+        "TitleId": "tt0116209",
+        "Directors": "Anthony Minghella"
+      },
+      {
+        "OriginalTitle": "Jack the Giant Slayer",
+        "TitleIT": "Il cacciatore di giganti",
+        "Year": 2013,
+        "TitleId": "tt1351685",
+        "Directors": "Bryan Singer"
+      },
+      {
+        "OriginalTitle": "The Rocky Horror Picture Show",
+        "TitleIT": null,
+        "Year": 1975,
+        "TitleId": "tt0073629",
+        "Directors": "Jim Sharman"
+      },
+      {
+        "OriginalTitle": "Dogville",
+        "TitleIT": null,
+        "Year": 2003,
+        "TitleId": "tt0276919",
+        "Directors": "Lars von Trier"
+      },
+      {
+        "OriginalTitle": "The Town",
+        "TitleIT": null,
+        "Year": 2010,
+        "TitleId": "tt0840361",
+        "Directors": "Ben Affleck"
+      },
+      {
+        "OriginalTitle": "The Silence of the Lambs",
+        "TitleIT": "Il silenzio degli innocenti",
+        "Year": 1991,
+        "TitleId": "tt0102926",
+        "Directors": "Jonathan Demme"
+      },
+      {
+        "OriginalTitle": "Corpse Bride",
+        "TitleIT": "La sposa cadavere",
+        "Year": 2005,
+        "TitleId": "tt0121164",
+        "Directors": "Tim Burton, Mike Johnson"
+      },
+      {
+        "OriginalTitle": "Ghost",
+        "TitleIT": "Ghost - Fantasma",
+        "Year": 1990,
+        "TitleId": "tt0099653",
+        "Directors": "Jerry Zucker"
+      },
+      {
+        "OriginalTitle": "Take the Money and Run",
+        "TitleIT": "Prendi i soldi e scappa",
+        "Year": 1969,
+        "TitleId": "tt0065063",
+        "Directors": "Woody Allen"
+      },
+      {
+        "OriginalTitle": "What's Eating Gilbert Grape",
+        "TitleIT": "Buon compleanno Mr. Grape",
+        "Year": 1993,
+        "TitleId": "tt0108550",
+        "Directors": "Lasse Hallström"
+      },
+      {
+        "OriginalTitle": "Watchmen",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0409459",
+        "Directors": "Zack Snyder"
+      },
+      {
+        "OriginalTitle": "The Devil's Advocate",
+        "TitleIT": "L'avvocato del diavolo",
+        "Year": 1997,
+        "TitleId": "tt0118971",
+        "Directors": "Taylor Hackford"
+      }
+    ]
+  },
+  {
+    "Name": "Season 4",
+    "Movies": [
+      {
+        "OriginalTitle": "La mafia uccide solo d'estate",
+        "TitleIT": null,
+        "Year": 2013,
+        "TitleId": "tt3374966",
+        "Directors": "Pif"
+      },
+      {
+        "OriginalTitle": "Prisoners",
+        "TitleIT": null,
+        "Year": 2013,
+        "TitleId": "tt1392214",
+        "Directors": "Denis Villeneuve"
+      },
+      {
+        "OriginalTitle": "Man on Fire",
+        "TitleIT": "Man on Fire - Il fuoco della vendetta",
+        "Year": 2004,
+        "TitleId": "tt0328107",
+        "Directors": "Tony Scott"
+      },
+      {
+        "OriginalTitle": "The Fisher King",
+        "TitleIT": "La leggenda del re pescatore",
+        "Year": 1991,
+        "TitleId": "tt0101889",
+        "Directors": "Terry Gilliam"
+      },
+      {
+        "OriginalTitle": "The Shawshank Redemption",
+        "TitleIT": "Le ali della libertà",
+        "Year": 1994,
+        "TitleId": "tt0111161",
+        "Directors": "Frank Darabont"
+      },
+      {
+        "OriginalTitle": "The Master",
+        "TitleIT": null,
+        "Year": 2012,
+        "TitleId": "tt1560747",
+        "Directors": "Paul Thomas Anderson"
+      },
+      {
+        "OriginalTitle": "First Blood",
+        "TitleIT": "Rambo",
+        "Year": 1982,
+        "TitleId": "tt0083944",
+        "Directors": "Ted Kotcheff"
+      },
+      {
+        "OriginalTitle": "The Human Centipede (First Sequence)",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt1467304",
+        "Directors": "Tom Six"
+      },
+      {
+        "OriginalTitle": "Indecent Proposal",
+        "TitleIT": "Proposta indecente",
+        "Year": 1993,
+        "TitleId": "tt0107211",
+        "Directors": "Adrian Lyne"
+      },
+      {
+        "OriginalTitle": "Walk the Line",
+        "TitleIT": "Quando l'amore brucia l'anima",
+        "Year": 2005,
+        "TitleId": "tt0358273",
+        "Directors": "James Mangold"
+      },
+      {
+        "OriginalTitle": "Interstellar",
+        "TitleIT": null,
+        "Year": 2014,
+        "TitleId": "tt0816692",
+        "Directors": "Christopher Nolan"
+      },
+      {
+        "OriginalTitle": "A Scanner Darkly",
+        "TitleIT": "A Scanner Darkly - Un oscuro scrutare",
+        "Year": 2006,
+        "TitleId": "tt0405296",
+        "Directors": "Richard Linklater"
+      },
+      {
+        "OriginalTitle": "A ruota libera",
+        "TitleIT": null,
+        "Year": 2000,
+        "TitleId": "tt0268879",
+        "Directors": "Vincenzo Salemme"
+      },
+      {
+        "OriginalTitle": "Léon",
+        "TitleIT": null,
+        "Year": 1994,
+        "TitleId": "tt0110413",
+        "Directors": "Luc Besson"
+      },
+      {
+        "OriginalTitle": "La nuit américaine",
+        "TitleIT": "Effetto notte",
+        "Year": 1973,
+        "TitleId": "tt0070460",
+        "Directors": "François Truffaut"
+      },
+      {
+        "OriginalTitle": "Oldeuboi",
+        "TitleIT": "Oldboy",
+        "Year": 2003,
+        "TitleId": "tt0364569",
+        "Directors": "Chan-wook Park"
+      },
+      {
+        "OriginalTitle": "Tarzan",
+        "TitleIT": null,
+        "Year": 1999,
+        "TitleId": "tt0120855",
+        "Directors": "Chris Buck, Kevin Lima"
+      },
+      {
+        "OriginalTitle": "Terminator 2: Judgment Day",
+        "TitleIT": "Terminator 2 - Il giorno del giudizio",
+        "Year": 1991,
+        "TitleId": "tt0103064",
+        "Directors": "James Cameron"
+      },
+      {
+        "OriginalTitle": "Schindler's List",
+        "TitleIT": null,
+        "Year": 1993,
+        "TitleId": "tt0108052",
+        "Directors": "Steven Spielberg"
+      },
+      {
+        "OriginalTitle": "Divorzio all'italiana",
+        "TitleIT": null,
+        "Year": 1961,
+        "TitleId": "tt0055913",
+        "Directors": "Pietro Germi"
+      }
+    ]
+  },
+  {
+    "Name": "Season 5",
+    "Movies": [
+      {
+        "OriginalTitle": "Stagecoach",
+        "TitleIT": "Ombre Rosse",
+        "Year": 1939,
+        "TitleId": "tt0031971",
+        "Directors": "John Ford"
+      },
+      {
+        "OriginalTitle": "Interview with the Vampire: The Vampire Chronicles",
+        "TitleIT": "Intervista col vampiro",
+        "Year": 1994,
+        "TitleId": "tt0110148",
+        "Directors": "Neil Jordan"
+      },
+      {
+        "OriginalTitle": "Training Day",
+        "TitleIT": null,
+        "Year": 2001,
+        "TitleId": "tt0139654",
+        "Directors": "Antoine Fuqua"
+      },
+      {
+        "OriginalTitle": "La leggenda del pianista sull'oceano",
+        "TitleIT": null,
+        "Year": 1998,
+        "TitleId": "tt0120731",
+        "Directors": "Giuseppe Tornatore"
+      },
+      {
+        "OriginalTitle": "American Graffiti",
+        "TitleIT": null,
+        "Year": 1973,
+        "TitleId": "tt0069704",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "My Left Foot: The Story of Christy Brown",
+        "TitleIT": "Il mio piede sinistro",
+        "Year": 1989,
+        "TitleId": "tt0097937",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Any Given Sunday",
+        "TitleIT": "Ogni maledetta domenica",
+        "Year": 1999,
+        "TitleId": "tt0146838",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Yip Man",
+        "TitleIT": "Ip Man",
+        "Year": 2008,
+        "TitleId": "tt1220719",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Graduate",
+        "TitleIT": "Il laureato",
+        "Year": 1967,
+        "TitleId": "tt0061722",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "L'arte della felicità",
+        "TitleIT": null,
+        "Year": 2013,
+        "TitleId": "tt2990836",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Extremely Loud & Incredibly Close",
+        "TitleIT": "Molto forte, incredibilmente vicino",
+        "Year": 2011,
+        "TitleId": "tt0477302",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Un giorno perfetto",
+        "TitleIT": null,
+        "Year": 2008,
+        "TitleId": "tt1056067",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "La vie d'Adèle",
+        "TitleIT": "La vita di Adele",
+        "Year": 2013,
+        "TitleId": "tt2278871",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Finding Forrester",
+        "TitleIT": "Scoprendo Forrester",
+        "Year": 2000,
+        "TitleId": "tt0181536",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Mr. Nobody",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0485947",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Elephant Man",
+        "TitleIT": null,
+        "Year": 1980,
+        "TitleId": "tt0080678",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Magnolia",
+        "TitleIT": null,
+        "Year": 1999,
+        "TitleId": "tt0175880",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Indagine su un cittadino al di sopra di ogni sospetto",
+        "TitleIT": null,
+        "Year": 1970,
+        "TitleId": "tt0065889",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Youth",
+        "TitleIT": "Youth - La giovinezza",
+        "Year": 2015,
+        "TitleId": "tt3312830",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "From Hell",
+        "TitleIT": "La vera storia di Jack lo squartatore",
+        "Year": 2001,
+        "TitleId": "tt0120681",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Up",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt1049413",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Wo hu cang long",
+        "TitleIT": "La tigre e il dragone",
+        "Year": 2000,
+        "TitleId": "tt0190332",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Chinatown",
+        "TitleIT": null,
+        "Year": 1974,
+        "TitleId": "tt0071315",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Skeleton Key",
+        "TitleIT": null,
+        "Year": 2005,
+        "TitleId": "tt0397101",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Gandhi",
+        "TitleIT": "1982",
+        "Year": 1982,
+        "TitleId": "tt0083987",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "12 Angry Men",
+        "TitleIT": "La parola ai giurati",
+        "Year": 1957,
+        "TitleId": "tt0050083",
+        "Directors": null
+      }
+    ]
+  },
+  {
+    "Name": "Season 6",
+    "Movies": [
+      {
+        "OriginalTitle": "Zelig",
+        "TitleIT": null,
+        "Year": 1983,
+        "TitleId": "tt0086637",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Ray",
+        "TitleIT": null,
+        "Year": 2004,
+        "TitleId": "tt0350258",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Beaver",
+        "TitleIT": "Mr. Beaver",
+        "Year": 2011,
+        "TitleId": "tt1321860",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "True Romance",
+        "TitleIT": "Una vita al massimo ",
+        "Year": 1993,
+        "TitleId": "tt0108399",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Big Lebowski",
+        "TitleIT": "Il grande Lebowski",
+        "Year": 1998,
+        "TitleId": "tt0118715",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Darjeeling Limited",
+        "TitleIT": "Il treno per il Darjeeling",
+        "Year": 2007,
+        "TitleId": "tt0838221",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Suburra",
+        "TitleIT": null,
+        "Year": 2015,
+        "TitleId": "tt4025514",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Man Who Wasn't There",
+        "TitleIT": "L'uomo che non c'era",
+        "Year": 2001,
+        "TitleId": "tt0243133",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Unforgiven",
+        "TitleIT": "Gli spietati",
+        "Year": 1992,
+        "TitleId": "tt0105695",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars",
+        "TitleIT": "Guerre Stellari",
+        "Year": 1977,
+        "TitleId": "tt0076759",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars: Episode V - The Empire Strikes Back",
+        "TitleIT": "L'Impero colpisce ancora",
+        "Year": 1980,
+        "TitleId": "tt0080684",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars: Episode VI - Return of the Jedi",
+        "TitleIT": "Il ritorno dello Jedi",
+        "Year": 1983,
+        "TitleId": "tt0086190",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars: Episode I - The Phantom Menace",
+        "TitleIT": "Star Wars: Episodio I - La minaccia fantasma",
+        "Year": 1999,
+        "TitleId": "tt0120915",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars: Episode II - Attack of the Clones",
+        "TitleIT": "Star Wars: Episodio II - L'attacco dei cloni",
+        "Year": 2002,
+        "TitleId": "tt0121765",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars: Episode III - Revenge of the Sith",
+        "TitleIT": "Star Wars: Episodio III - La vendetta dei Sith",
+        "Year": 2005,
+        "TitleId": "tt0121766",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Godfather",
+        "TitleIT": "Il padrino",
+        "Year": 1972,
+        "TitleId": "tt0068646",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Godfather: Part II",
+        "TitleIT": "Il padrino - Parte II",
+        "Year": 1974,
+        "TitleId": "tt0071562",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Star Wars: Episode VII - The Force Awakens",
+        "TitleIT": "Star Wars - Il risveglio della Forza",
+        "Year": 2015,
+        "TitleId": "tt2488496",
+        "Directors": null
+      }
+    ]
+  },
+  {
+    "Name": "Season 7-8",
+    "Movies": [
+      {
+        "OriginalTitle": "Cidade de Deus",
+        "TitleIT": "City of God",
+        "Year": 2002,
+        "TitleId": "tt0317248",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Mission: Impossible - Rogue Nation",
+        "TitleIT": null,
+        "Year": 2015,
+        "TitleId": "tt2381249",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Sting",
+        "TitleIT": "La stangata",
+        "Year": 1973,
+        "TitleId": "tt0070735",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "La proprietà non è più un furto",
+        "TitleIT": null,
+        "Year": 1973,
+        "TitleId": "tt0070568",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Antichrist",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0870984",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Still Alice",
+        "TitleIT": null,
+        "Year": 2014,
+        "TitleId": "tt3316960",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Uccellacci e uccellini",
+        "TitleIT": null,
+        "Year": 1966,
+        "TitleId": "tt0061132",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "TitleIT": "Il dottor Stranamore - Ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
+        "Year": 1964,
+        "TitleId": "tt0057012",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Jaws",
+        "TitleIT": "Lo squalo",
+        "Year": 1975,
+        "TitleId": "tt0073195",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Ex Machina",
+        "TitleIT": null,
+        "Year": 2014,
+        "TitleId": "tt0470752",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Life of Brian",
+        "TitleIT": "Brian di Nazareth",
+        "Year": 1979,
+        "TitleId": "tt0079470",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Der Name der Rose",
+        "TitleIT": "Il nome della rosa",
+        "Year": 1986,
+        "TitleId": "tt0091605",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "[Rec]",
+        "TitleIT": "Rec",
+        "Year": 2007,
+        "TitleId": "tt1038988",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Road",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0898367",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "...altrimenti ci arrabbiamo!",
+        "TitleIT": null,
+        "Year": 1974,
+        "TitleId": "tt0069697",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "La ragazza del lago",
+        "TitleIT": null,
+        "Year": 2007,
+        "TitleId": "tt0770829",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Er ist wieder da",
+        "TitleIT": "Lui è tornato",
+        "Year": 2015,
+        "TitleId": "tt4176826",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Paycheck",
+        "TitleIT": null,
+        "Year": 2003,
+        "TitleId": "tt0338337",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Elizabeth: The Golden Age",
+        "TitleIT": null,
+        "Year": 2007,
+        "TitleId": "tt0414055",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Il racconto dei racconti - Tale of Tales",
+        "TitleIT": null,
+        "Year": 2015,
+        "TitleId": "tt3278330",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Hollywood Party",
+        "TitleIT": "La grande festa",
+        "Year": 1934,
+        "TitleId": "tt0025263",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "127 Hours",
+        "TitleIT": "127 ore",
+        "Year": 2010,
+        "TitleId": "tt1542344",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Lincoln Lawyer",
+        "TitleIT": null,
+        "Year": 2011,
+        "TitleId": "tt1189340",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Boris - Il film",
+        "TitleIT": null,
+        "Year": 2011,
+        "TitleId": "tt1680058",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Natural Born Killers",
+        "TitleIT": "Assassini nati - Natural Born Killers",
+        "Year": 1994,
+        "TitleId": "tt0110632",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Goonies",
+        "TitleIT": "I Goonies",
+        "Year": 1985,
+        "TitleId": "tt0089218",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Nebraska",
+        "TitleIT": null,
+        "Year": 2013,
+        "TitleId": "tt1821549",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Network",
+        "TitleIT": "Quinto potere",
+        "Year": 1976,
+        "TitleId": "tt0074958",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Crimes and Misdemeanors",
+        "TitleIT": "Crimini e misfatti",
+        "Year": 1989,
+        "TitleId": "tt0097123",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Fantastic Mr. Fox",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0432283",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Great Dictator",
+        "TitleIT": "Il grande dittatore",
+        "Year": 1940,
+        "TitleId": "tt0032553",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Nice Guys",
+        "TitleIT": null,
+        "Year": 2016,
+        "TitleId": "tt3799694",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Naked Lunch",
+        "TitleIT": "Il pasto nudo",
+        "Year": 1991,
+        "TitleId": "tt0102511",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Les quatre cents coups",
+        "TitleIT": "I 400 colpi",
+        "Year": 1959,
+        "TitleId": "tt0053198",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Following",
+        "TitleIT": null,
+        "Year": 1998,
+        "TitleId": "tt0154506",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Majestic",
+        "TitleIT": null,
+        "Year": 2001,
+        "TitleId": "tt0268995",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Män som hatar kvinnor",
+        "TitleIT": "Uomini che odiano le donne",
+        "Year": 2009,
+        "TitleId": "tt1132620",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Steve Jobs",
+        "TitleIT": null,
+        "Year": 2015,
+        "TitleId": "tt2080374",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Braveheart",
+        "TitleIT": "Braveheart - Cuore impavido",
+        "Year": 1995,
+        "TitleId": "tt0112573",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Changeling",
+        "TitleIT": null,
+        "Year": 2008,
+        "TitleId": "tt0824747",
+        "Directors": null
+      }
+    ]
+  },
+  {
+    "Name": "Season 9",
+    "Movies": [
+      {
+        "OriginalTitle": "Toy Story",
+        "TitleIT": "Toy Story - Il mondo dei giocattoli",
+        "Year": 1995,
+        "TitleId": "tt0114709",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Disturbia",
+        "TitleIT": null,
+        "Year": 2007,
+        "TitleId": "tt0486822",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The VVitch: A New-England Folktale",
+        "TitleIT": "The Witch - Vuoi ascoltare una favola?",
+        "Year": 2015,
+        "TitleId": "tt4263482",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Full Monty",
+        "TitleIT": "Full Monty - Squattrinati organizzati",
+        "Year": 1997,
+        "TitleId": "tt0119164",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Dope",
+        "TitleIT": "Dope: Follia e riscatto",
+        "Year": 2015,
+        "TitleId": "tt3850214",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Melancholia",
+        "TitleIT": null,
+        "Year": 2011,
+        "TitleId": "tt1527186",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Memoirs of a Geisha",
+        "TitleIT": "Memorie di una geisha",
+        "Year": 2005,
+        "TitleId": "tt0397535",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Merchant of Venice",
+        "TitleIT": "Il mercante di Venezia",
+        "Year": 2004,
+        "TitleId": "tt0379889",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Accountant",
+        "TitleIT": null,
+        "Year": 2016,
+        "TitleId": "tt2140479",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Suspiria",
+        "TitleIT": null,
+        "Year": 1977,
+        "TitleId": "tt0076786",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "They Live",
+        "TitleIT": "Essi vivono",
+        "Year": 1988,
+        "TitleId": "tt0096256",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Chariots of Fire",
+        "TitleIT": "Momenti di gloria",
+        "Year": 1981,
+        "TitleId": "tt0082158",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Awakenings",
+        "TitleIT": "Risvegli",
+        "Year": 1990,
+        "TitleId": "tt0099077",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Box",
+        "TitleIT": null,
+        "Year": 2009,
+        "TitleId": "tt0362478",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Candy",
+        "TitleIT": "Paradiso + Inferno",
+        "Year": 2006,
+        "TitleId": "tt0424880",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Being John Malkovich",
+        "TitleIT": "Essere John Malkovich",
+        "Year": 1999,
+        "TitleId": "tt0120601",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Juste la fin du monde",
+        "TitleIT": "E' solo la fine del mondo",
+        "Year": 2016,
+        "TitleId": "tt4645368",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Tesis",
+        "TitleIT": null,
+        "Year": 1996,
+        "TitleId": "tt0117883",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Enemy",
+        "TitleIT": null,
+        "Year": 2013,
+        "TitleId": "tt2316411",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Artificial Intelligence: AI",
+        "TitleIT": "A.I. - Intelligenza artificiale",
+        "Year": 2001,
+        "TitleId": "tt0212720",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Close Encounters of the Third Kind",
+        "TitleIT": "Incontri ravvicinati del terzo tipo",
+        "Year": 1977,
+        "TitleId": "tt0075860",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Easy A",
+        "TitleIT": "Easy Girl",
+        "Year": 2010,
+        "TitleId": "tt1282140",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Ieri oggi domani",
+        "TitleIT": null,
+        "Year": 1963,
+        "TitleId": "tt0057171",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Lost Highway",
+        "TitleIT": "Strade perdute",
+        "Year": 1997,
+        "TitleId": "tt0116922",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Mud",
+        "TitleIT": null,
+        "Year": 2012,
+        "TitleId": "tt1935179",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Salò o le 120 giornate di Sodoma",
+        "TitleIT": null,
+        "Year": 1975,
+        "TitleId": "tt0073650",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Salvatore Giuliano",
+        "TitleIT": null,
+        "Year": 1962,
+        "TitleId": "tt0055399",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Vanilla Sky",
+        "TitleIT": null,
+        "Year": 2001,
+        "TitleId": "tt0259711",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Get Out",
+        "TitleIT": "Scappa: Get Out",
+        "Year": 2017,
+        "TitleId": "tt5052448",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Life",
+        "TitleIT": "Life: Non oltrepassare il limite",
+        "Year": 2017,
+        "TitleId": "tt5442430",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Il conformista",
+        "TitleIT": null,
+        "Year": 1970,
+        "TitleId": "tt0065571",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Beetlejuice",
+        "TitleIT": "Beetlejuice - Spiritello Porcello",
+        "Year": 1988,
+        "TitleId": "tt0094721",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Mediterraneo",
+        "TitleIT": null,
+        "Year": 1991,
+        "TitleId": "tt0102426",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Amore tossico",
+        "TitleIT": null,
+        "Year": 1983,
+        "TitleId": "tt0166476",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Wall Street",
+        "TitleIT": null,
+        "Year": 1987,
+        "TitleId": "tt0094291",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "400 Days",
+        "TitleIT": "400 giorni - Simulazione spazio",
+        "Year": 2015,
+        "TitleId": "tt3774790",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Forushande",
+        "TitleIT": "Il Cliente",
+        "Year": 2016,
+        "TitleId": "tt5186714",
+        "Directors": null
+      }
+    ]
+  },
+  {
+    "Name": "Season 10",
+    "Movies": [
+      {
+        "OriginalTitle": "True Story",
+        "TitleIT": null,
+        "Year": 2015,
+        "TitleId": "tt2273657",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Some Like It Hot",
+        "TitleIT": "A qualcuno piace caldo",
+        "Year": 1959,
+        "TitleId": "tt0053291",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Meyerowitz Stories (New and Selected)",
+        "TitleIT": null,
+        "Year": 2017,
+        "TitleId": "tt5536736",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Gattaca",
+        "TitleIT": "Gattaca - La porta dell'universo",
+        "Year": 1997,
+        "TitleId": "tt0119177",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Clerks",
+        "TitleIT": "Clerks - Commessi",
+        "Year": 1994,
+        "TitleId": "tt0109445",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Light Between Oceans",
+        "TitleIT": "La luce sugli oceani",
+        "Year": 2016,
+        "TitleId": "tt2547584",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Die Welle",
+        "TitleIT": "L'onda",
+        "Year": 2008,
+        "TitleId": "tt1063669",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Erin Brockovich",
+        "TitleIT": "Erin Brockovich - Forte come la verità",
+        "Year": 2000,
+        "TitleId": "tt0195685",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Minority Report",
+        "TitleIT": null,
+        "Year": 2002,
+        "TitleId": "tt0181689",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Midnight Express",
+        "TitleIT": "Fuga di mezzanotte",
+        "Year": 1978,
+        "TitleId": "tt0077928",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Shape of Water",
+        "TitleIT": "La forma dell'acqua - The Shape of Water",
+        "Year": 2017,
+        "TitleId": "tt5580390",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Mother!",
+        "TitleIT": "Madre!",
+        "Year": 2017,
+        "TitleId": "tt5109784",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Captain Fantastic",
+        "TitleIT": null,
+        "Year": 2016,
+        "TitleId": "tt3553976",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "El espinazo del diablo",
+        "TitleIT": "La spina del diavolo",
+        "Year": 2001,
+        "TitleId": "tt0256009",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "John Q",
+        "TitleIT": null,
+        "Year": 2002,
+        "TitleId": "tt0251160",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Front Page",
+        "TitleIT": "Prima pagina",
+        "Year": 1974,
+        "TitleId": "tt0071524",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Pink Panther",
+        "TitleIT": "La pantera rosa",
+        "Year": 1963,
+        "TitleId": "tt0057413",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Jagten",
+        "TitleIT": "Il sospetto",
+        "Year": 2012,
+        "TitleId": "tt2106476",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Believer",
+        "TitleIT": null,
+        "Year": 2001,
+        "TitleId": "tt0247199",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "L'uomo in più",
+        "TitleIT": null,
+        "Year": 2001,
+        "TitleId": "tt0295671",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "À bout de souffle",
+        "TitleIT": "Fino all'ultimo respiro",
+        "Year": 1960,
+        "TitleId": "tt0053472",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Island",
+        "TitleIT": null,
+        "Year": 2015,
+        "TitleId": "tt4063608",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Solo: A Star Wars Story",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt3778644",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Physician",
+        "TitleIT": "Medicus",
+        "Year": 2013,
+        "TitleId": "tt2101473",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Das Experiment",
+        "TitleIT": "The Experiment - Cercasi cavie umane",
+        "Year": 2001,
+        "TitleId": "tt0250258",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Sono otoko, kyôbô ni tsuki",
+        "TitleIT": "Violent Cop",
+        "Year": 1989,
+        "TitleId": "tt0098360",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Baby Driver",
+        "TitleIT": "Baby Driver - Il genio della fuga",
+        "Year": 2017,
+        "TitleId": "tt3890160",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Berberian Sound Studio",
+        "TitleIT": null,
+        "Year": 2012,
+        "TitleId": "tt1833844",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Das Leben der Anderen",
+        "TitleIT": "Le vite degli altri",
+        "Year": 2006,
+        "TitleId": "tt0405094",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Un borghese piccolo piccolo",
+        "TitleIT": null,
+        "Year": 1977,
+        "TitleId": "tt0129794",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Commuter",
+        "TitleIT": "L'uomo sul treno",
+        "Year": 2018,
+        "TitleId": "tt1590193",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Hiroshima mon amour",
+        "TitleIT": null,
+        "Year": 1959,
+        "TitleId": "tt0052893",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Unbreakable",
+        "TitleIT": "Unbreakable - Il predestinato",
+        "Year": 2000,
+        "TitleId": "tt0217869",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Coco",
+        "TitleIT": null,
+        "Year": 2017,
+        "TitleId": "tt2380307",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Kimssi pyoryugi",
+        "TitleIT": "Castaway on the Moon",
+        "Year": 2009,
+        "TitleId": "tt1499666",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "East Is East",
+        "TitleIT": null,
+        "Year": 1999,
+        "TitleId": "tt0166175",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Boksuneun naui geot",
+        "TitleIT": "Mr. Vendetta",
+        "Year": 2002,
+        "TitleId": "tt0310775",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Dogman",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt6768578",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "First Man",
+        "TitleIT": "First Man - Il primo uomo",
+        "Year": 2018,
+        "TitleId": "tt1213641",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Eastern Promises",
+        "TitleIT": "La promessa dell'assassino",
+        "Year": 2007,
+        "TitleId": "tt0765443",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Ballad of Buster Scruggs",
+        "TitleIT": "La ballata di Buster Scruggs",
+        "Year": 2018,
+        "TitleId": "tt6412452",
+        "Directors": null
+      }
+    ]
+  },
+  {
+    "Name": "Season 11",
+    "Movies": [
+      {
+        "OriginalTitle": "Lord of War",
+        "TitleIT": null,
+        "Year": 2005,
+        "TitleId": "tt0399295",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Asso",
+        "TitleIT": null,
+        "Year": 1981,
+        "TitleId": "tt0082034",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Red Sparrow",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt2873282",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Lars and the Real Girl",
+        "TitleIT": "Lars e una ragazza tutta sua",
+        "Year": 2007,
+        "TitleId": "tt0805564",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "After Hours",
+        "TitleIT": "Fuori orario",
+        "Year": 1985,
+        "TitleId": "tt0088680",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Papillon",
+        "TitleIT": null,
+        "Year": 1973,
+        "TitleId": "tt0070511",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Dellamorte Dellamore",
+        "TitleIT": null,
+        "Year": 1994,
+        "TitleId": "tt0109592",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Green Book",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt6966692",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Field of Dreams",
+        "TitleIT": "L'uomo dei sogni",
+        "Year": 1989,
+        "TitleId": "tt0097351",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "BlacKkKlansman",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt7349662",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Easy",
+        "TitleIT": "Easy - Un viaggio facile facile",
+        "Year": 2017,
+        "TitleId": "tt4653492",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Greatest Showman",
+        "TitleIT": null,
+        "Year": 2017,
+        "TitleId": "tt1485796",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Man Who Killed Don Quixote",
+        "TitleIT": "L'uomo che uccise Don Chisciotte",
+        "Year": 2018,
+        "TitleId": "tt1318517",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Yôjinbô",
+        "TitleIT": "La sfida del samurai",
+        "Year": 1961,
+        "TitleId": "tt0055630",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Killing of a Sacred Deer",
+        "TitleIT": "Il sacrificio del cervo sacro",
+        "Year": 2017,
+        "TitleId": "tt5715874",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Contratiempo",
+        "TitleIT": "Contrattempo",
+        "Year": 2016,
+        "TitleId": "tt4857264",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Un sacco bello",
+        "TitleIT": null,
+        "Year": 1980,
+        "TitleId": "tt0079839",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Man Who Knew Infinity",
+        "TitleIT": "L'uomo che vide l'infinito",
+        "Year": 2015,
+        "TitleId": "tt0787524",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Oz the Great and Powerful",
+        "TitleIT": "Il grande e potente Oz",
+        "Year": 2013,
+        "TitleId": "tt1623205",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Sunset Blvd.",
+        "TitleIT": "Viale del tramonto",
+        "Year": 1950,
+        "TitleId": "tt0043014",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Starship Troopers",
+        "TitleIT": "Starship Troopers - Fanteria dello spazio",
+        "Year": 1997,
+        "TitleId": "tt0120201",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Dracula",
+        "TitleIT": "Dracula di Bram Stoker",
+        "Year": 1992,
+        "TitleId": "tt0103874",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Kiss the Girls",
+        "TitleIT": "Il collezionista",
+        "Year": 1997,
+        "TitleId": "tt0119468",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Boyz n the Hood",
+        "TitleIT": "Boyz n the Hood - Strade violente",
+        "Year": 1991,
+        "TitleId": "tt0101507",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Fahrenheit 451",
+        "TitleIT": null,
+        "Year": 1966,
+        "TitleId": "tt0060390",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Batoru rowaiaru",
+        "TitleIT": "Battle Royale",
+        "Year": 2000,
+        "TitleId": "tt0266308",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Capri-Revolution",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt7188002",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Cose da pazzi",
+        "TitleIT": null,
+        "Year": 2005,
+        "TitleId": "tt0461179",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Seven Year Itch",
+        "TitleIT": "Quando la moglie è in vacanza",
+        "Year": 1955,
+        "TitleId": "tt0048605",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Dazed and Confused",
+        "TitleIT": "La vita è un sogno",
+        "Year": 1993,
+        "TitleId": "tt0106677",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "A Fish Called Wanda",
+        "TitleIT": "Un pesce di nome Wanda",
+        "Year": 1988,
+        "TitleId": "tt0095159",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Apocalypto",
+        "TitleIT": null,
+        "Year": 2006,
+        "TitleId": "tt0472043",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Midnight Cowboy",
+        "TitleIT": "Un uomo da marciapiede",
+        "Year": 1969,
+        "TitleId": "tt0064665",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Signore & signori",
+        "TitleIT": null,
+        "Year": 1966,
+        "TitleId": "tt0062271",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Bad Times at the El Royale",
+        "TitleIT": "7 sconosciuti a El Royale",
+        "Year": 2018,
+        "TitleId": "tt6628394",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "The Zero Theorem",
+        "TitleIT": "The Zero Theorem - Tutto è vanità",
+        "Year": 2013,
+        "TitleId": "tt2333804",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Pasqualino Settebellezze",
+        "TitleIT": null,
+        "Year": 1975,
+        "TitleId": "tt0075040",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Ricordi?",
+        "TitleIT": null,
+        "Year": 2018,
+        "TitleId": "tt6256546",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Sweet and Lowdown",
+        "TitleIT": "Accordi & disaccordi",
+        "Year": 1999,
+        "TitleId": "tt0158371",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Regalo di Natale",
+        "TitleIT": null,
+        "Year": 1986,
+        "TitleId": "tt0091837",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "I, Tonya",
+        "TitleIT": "Tonya",
+        "Year": 2017,
+        "TitleId": "tt5580036",
+        "Directors": null
+      }
+    ]
+  },
+  {
+    "Name": "Season 12",
+    "Movies": [
+      {
+        "OriginalTitle": "Signori si nasce",
+        "TitleIT": null,
+        "Year": 1960,
+        "TitleId": "tt0054309",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Marriage Story",
+        "TitleIT": "Storia di un matrimonio",
+        "Year": 2019,
+        "TitleId": "tt7653254",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Notorious",
+        "TitleIT": "Notorious - L'amante perduta",
+        "Year": 1946,
+        "TitleId": "tt0038787",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Murder in the First",
+        "TitleIT": "L'isola dell'ingiustizia - Alcatraz",
+        "Year": 1995,
+        "TitleId": "tt0113870",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Maps to the Stars",
+        "TitleIT": null,
+        "Year": 2014,
+        "TitleId": "tt2172584",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Bin-jip",
+        "TitleIT": "Ferro 3 - La casa vuota",
+        "Year": 2004,
+        "TitleId": "tt0423866",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Gosford Park",
+        "TitleIT": null,
+        "Year": 2001,
+        "TitleId": "tt0280707",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Nóz w wodzie",
+        "TitleIT": "Il coltello nell'acqua",
+        "Year": 1962,
+        "TitleId": "tt0056291",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Il vigile",
+        "TitleIT": null,
+        "Year": 1960,
+        "TitleId": "tt0054442",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Caché",
+        "TitleIT": "Niente da nascondere",
+        "Year": 2005,
+        "TitleId": "tt0387898",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Le charme discret de la bourgeoisie",
+        "TitleIT": "Il fascino discreto della borghesia",
+        "Year": 1972,
+        "TitleId": "tt0068361",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Pawn Sacrifice",
+        "TitleIT": "La grande partita",
+        "Year": 2014,
+        "TitleId": "tt1596345",
+        "Directors": null
+      },
+      {
+        "OriginalTitle": "Coherence",
+        "TitleIT": "Coherence - Oltre lo spazio tempo",
+        "Year": 2013,
+        "TitleId": "tt2866360",
+        "Directors": null
+      }
+    ]
+  }
+]
