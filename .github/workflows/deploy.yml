@@ -1,0 +1,32 @@
+name: Deploy to Github-Pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 5.0.100-rc.1.20454.5
+    - name: Publish with dotnet
+      run: dotnet publish --configuration Release --output publish
+    #- name: Upload artifact
+    #  uses: actions/upload-artifact@master
+    #  with:
+    #    name: test-artifact
+    #    path: /home/runner/work/BlazorApp/BlazorApp/BlazorApp/bin/Release/netstandard2.1/publish/BlazorApp/dist/
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        #REPOSITORY_NAME: carmineos/carmineos.github.io #Deploy to a different repo
+        BRANCH: gh-pages # The branch the action should deploy to.
+        BASE_BRANCH: master # The branch the action should deploy from.
+        FOLDER: publish/wwwroot # The folder the action should deploy.
