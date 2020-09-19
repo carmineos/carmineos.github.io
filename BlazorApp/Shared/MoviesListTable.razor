@@ -1,0 +1,46 @@
+@if (List == null)
+{
+
+}
+else
+{
+    <caption>@List.Name</caption>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Title <sup>(Original)</sup></th>
+                <th>Year</th>
+                <th>Directors</th>
+                <th>IMDb Page</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < List.Movies.Length; i++)
+            {
+                int count = i + 1;
+
+                var link = $"https://www.imdb.com/title/{List.Movies[i].TitleId}/";
+            <tr>
+                <td>@count</td>
+                @if (!string.IsNullOrEmpty(List.Movies[i].TitleIT))
+                {
+                    <td>@List.Movies[i].TitleIT <sup>(@List.Movies[i].OriginalTitle)</sup></td>
+                }
+                else
+                {
+                    <td>@List.Movies[i].OriginalTitle</td>
+                }
+                <td>@List.Movies[i].Year</td>
+                <td>@List.Movies[i].Directors</td>
+                <td><a href="@link" target="_blank">Details</a></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code {
+    [Parameter] public MoviesList List { get; set; }
+}

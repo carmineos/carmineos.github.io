@@ -1,0 +1,63 @@
+﻿@page "/cineforum"
+@inject HttpClient Http
+
+<h1>Cineforum</h1>
+<div>
+    Me and a group of friends host a cineforum weekly. This is a simple page to track the movies we watch together.
+</div>
+
+@if (moviesLists == null)
+{
+    <Spinner Visible="true" />
+}
+else
+{
+    <SearchBox placeholder="Search..." SearchQueryChanged="Search" />
+
+    <span class="text-muted">
+        Results: @TotalMovies
+    </span>
+
+    @foreach (var list in filteredMoviesList)
+    {
+        <MoviesListTable List="@list" />
+    }
+}
+
+@code {
+    IEnumerable<MoviesList> moviesLists;
+
+    IEnumerable<MoviesList> filteredMoviesList;
+
+    int TotalMovies => filteredMoviesList != null ? filteredMoviesList.Sum(m => m.Movies.Length) : 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        moviesLists = await Http.GetFromJsonAsync<IEnumerable<MoviesList>>("sample-data/cineforum.json");
+        filteredMoviesList = moviesLists;
+    }
+
+    async Task Search(string query)
+    {
+        if (string.IsNullOrEmpty(query))
+        {
+            filteredMoviesList = moviesLists;
+            return;
+        }
+
+        var searchTerm = query.ToLower();
+
+        await Task.Run(() =>
+        {
+            filteredMoviesList = moviesLists.Select(list => new MoviesList()
+            {
+                Name = list.Name,
+                Movies = list.Movies.Where(m =>
+                    (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                    (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                    (m.Directors != null && m.Directors.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
+                    ).ToArray()
+            }).Where(list => list.Movies.Any()).ToList();
+        });
+    }
+}
