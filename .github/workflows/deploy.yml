@@ -2,7 +2,7 @@ name: Deploy to Github-Pages
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,20 +14,20 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 5.0.100 # https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/5.0/releases.json
+        dotnet-version: 6.0.100-preview.1.21103.13 # https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/6.0/releases.json
     - name: Publish with dotnet
-      run: dotnet publish --configuration Release --output publish
+      run: dotnet publish --configuration Release --output "publishFolder"
     #- name: Upload artifact
     #  uses: actions/upload-artifact@master
     #  with:
     #    name: test-artifact
-    #    path: /home/runner/work/BlazorApp/BlazorApp/BlazorApp/bin/Release/netstandard2.1/publish/BlazorApp/dist/
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+    #    path: /home/runner/work/BlazorApp/BlazorApp/BlazorApp/bin/Release/net6.0/publishFolder/BlazorApp/dist/
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@4.0.0
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        #REPOSITORY_NAME: carmineos/carmineos.github.io #Deploy to a different repo
-        BRANCH: gh-pages # The branch the action should deploy to.
-        BASE_BRANCH: master # The branch the action should deploy from.
-        FOLDER: publish/wwwroot # The folder the action should deploy.
-        CLEAN: TRUE
+        token: ${{ secrets.ACCESS_TOKEN }}
+        #repository-name: carmineos/carmineos.github.io #Deploy to a different repo
+        branch: gh-pages # The branch the action should deploy to.
+        folder: publishFolder/wwwroot # The folder the action should deploy.
+        clean: true
+        single-commit: true
