@@ -5,7 +5,7 @@
 
 <h1>Cineforum</h1>
 <div>
-    Me and a group of friends host a cineforum weekly. This is a simple page to track the movies we watch together.
+    I host a cineforum with a group of friends weekly. This is a simple page to track the movies we watch together.
 </div>
 
 @if (moviesLists == null)
@@ -20,16 +20,19 @@ else
         Results: @TotalMovies
     </span>
 
-    @foreach (var list in filteredMoviesList)
+    @if(filteredMoviesList is not null)
     {
-        <MoviesListTable List="@list" />
+        foreach (var list in filteredMoviesList)
+        {
+            <MoviesListTable List="@list" />
+        }
     }
 }
 
 @code {
-    IEnumerable<MoviesList> moviesLists;
+    IEnumerable<MoviesList>? moviesLists;
 
-    IEnumerable<MoviesList> filteredMoviesList;
+    IEnumerable<MoviesList>? filteredMoviesList;
 
     int TotalMovies => filteredMoviesList != null ? filteredMoviesList.Sum(m => m.Movies.Length) : 0;
 
@@ -51,7 +54,7 @@ else
 
         await Task.Run(() =>
         {
-            filteredMoviesList = moviesLists.Select(list => new MoviesList()
+            filteredMoviesList = moviesLists?.Select(list => new MoviesList()
             {
                 Name = list.Name,
                 Movies = list.Movies.Where(m =>
