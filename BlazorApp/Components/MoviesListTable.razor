@@ -4,7 +4,7 @@
 }
 else
 {
-    <caption>@List.Name</caption>
+    <caption>Season: @List.SeasonId</caption>
     <table class="table table-hover">
         <thead>
             <tr>
@@ -42,5 +42,5 @@ else
 
 
 @code {
-    [Parameter] public MoviesList? List { get; set; }
+    [Parameter] public Season? List { get; set; }
 }

@@ -8,7 +8,7 @@
     I host a cineforum with a group of friends weekly. This is a simple page to track the movies we watch together.
 </div>
 
-@if (moviesLists == null)
+@if (seasons == null)
 {
     <Spinner Visible="true" />
 }
@@ -20,9 +20,9 @@ else
         Results: @TotalMovies
     </span>
 
-    @if(filteredMoviesList is not null)
+    @if(filteredSeasons is not null)
     {
-        foreach (var list in filteredMoviesList)
+        foreach (var list in filteredSeasons)
         {
             <MoviesListTable List="@list" />
         }
@@ -30,23 +30,23 @@ else
 }
 
 @code {
-    IEnumerable<MoviesList>? moviesLists;
+    IEnumerable<Season>? seasons;
 
-    IEnumerable<MoviesList>? filteredMoviesList;
+    IEnumerable<Season>? filteredSeasons;
 
-    int TotalMovies => filteredMoviesList != null ? filteredMoviesList.Sum(m => m.Movies.Length) : 0;
+    int TotalMovies => filteredSeasons?.Sum(m => m.Movies.Length) ?? 0;
 
     protected override async Task OnInitializedAsync()
     {
-        moviesLists = await Http.GetFromJsonAsync<IEnumerable<MoviesList>>("sample-data/cineforum.json");
-        filteredMoviesList = moviesLists;
+        seasons = await Http.GetFromJsonAsync<IEnumerable<Season>>("sample-data/cineforum.json");
+        filteredSeasons = seasons;
     }
 
     async Task Search(string query)
     {
         if (string.IsNullOrEmpty(query))
         {
-            filteredMoviesList = moviesLists;
+            filteredSeasons = seasons;
             return;
         }
 
@@ -54,9 +54,9 @@ else
 
         await Task.Run(() =>
         {
-            filteredMoviesList = moviesLists?.Select(list => new MoviesList()
+            filteredSeasons = seasons?.Select(list => new Season()
             {
-                Name = list.Name,
+                SeasonId = list.SeasonId,
                 Movies = list.Movies.Where(m =>
                     (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
                     (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||

@@ -1,8 +1,8 @@
 ﻿namespace BlazorApp.Models
 {
-    public class MoviesList
+    public class Season
     {
-        public string Name { get; set; }
+        public int SeasonId { get; set; }
 
         public Movie[] Movies { get; set; }
     }
