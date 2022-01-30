@@ -781,144 +781,166 @@
         "TitleId": "tt0069704",
         "OriginalTitle": "American Graffiti",
         "Year": 1973,
-        "Directors": "George Lucas"
+        "Directors": "George Lucas",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0097937",
         "OriginalTitle": "My Left Foot: The Story of Christy Brown",
         "TitleIT": "Il mio piede sinistro",
         "Year": 1989,
-        "Directors": "Jim Sheridan"
+        "Directors": "Jim Sheridan",
+        "Countries": "Ireland, UK"
       },
       {
         "TitleId": "tt0146838",
         "OriginalTitle": "Any Given Sunday",
         "TitleIT": "Ogni maledetta domenica",
         "Year": 1999,
-        "Directors": "Oliver Stone"
+        "Directors": "Oliver Stone",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1220719",
         "OriginalTitle": "Yip Man",
         "TitleIT": "Ip Man",
         "Year": 2008,
-        "Directors": "Wilson Yip"
+        "Directors": "Wilson Yip",
+        "Countries": "Hong Kong, China"
       },
       {
         "TitleId": "tt0061722",
         "OriginalTitle": "The Graduate",
         "TitleIT": "Il laureato",
         "Year": 1967,
-        "Directors": "Mike Nichols"
+        "Directors": "Mike Nichols",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt2990836",
         "OriginalTitle": "L'arte della felicità",
         "Year": 2013,
-        "Directors": "Alessandro Rak"
+        "Directors": "Alessandro Rak",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt0477302",
         "OriginalTitle": "Extremely Loud & Incredibly Close",
         "TitleIT": "Molto forte, incredibilmente vicino",
         "Year": 2011,
-        "Directors": "Stephen Daldry"
+        "Directors": "Stephen Daldry",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1056067",
         "OriginalTitle": "Un giorno perfetto",
         "Year": 2008,
-        "Directors": "Ferzan Ozpetek"
+        "Directors": "Ferzan Ozpetek",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt2278871",
         "OriginalTitle": "La vie d'Adèle",
         "TitleIT": "La vita di Adele",
         "Year": 2013,
-        "Directors": "Abdellatif Kechiche"
+        "Directors": "Abdellatif Kechiche",
+        "Countries": "France, Belgium, Spain"
       },
       {
         "TitleId": "tt0181536",
         "OriginalTitle": "Finding Forrester",
         "TitleIT": "Scoprendo Forrester",
         "Year": 2000,
-        "Directors": "Gus Van Sant"
+        "Directors": "Gus Van Sant",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0485947",
         "OriginalTitle": "Mr. Nobody",
         "Year": 2009,
-        "Directors": "Jaco Van Dormael"
+        "Directors": "Jaco Van Dormael",
+        "Countries": "Belgium, Germany, Canada, France, UK, Luxembourg, USA"
       },
       {
         "TitleId": "tt0080678",
         "OriginalTitle": "The Elephant Man",
         "Year": 1980,
-        "Directors": "David Lynch"
+        "Directors": "David Lynch",
+        "Countries": "USA, UK"
       },
       {
         "TitleId": "tt0175880",
         "OriginalTitle": "Magnolia",
         "Year": 1999,
-        "Directors": "Paul Thomas Anderson"
+        "Directors": "Paul Thomas Anderson",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0065889",
         "OriginalTitle": "Indagine su un cittadino al di sopra di ogni sospetto",
         "Year": 1970,
-        "Directors": "Elio Petri"
+        "Directors": "Elio Petri",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt3312830",
         "OriginalTitle": "Youth",
         "TitleIT": "Youth - La giovinezza",
         "Year": 2015,
-        "Directors": "Paolo Sorrentino"
+        "Directors": "Paolo Sorrentino",
+        "Countries": "Italy, France, UK, Switzerland"
       },
       {
         "TitleId": "tt0120681",
         "OriginalTitle": "From Hell",
         "TitleIT": "La vera storia di Jack lo squartatore",
         "Year": 2001,
-        "Directors": "Albert Hughes, Allen Hughes"
+        "Directors": "Albert Hughes, Allen Hughes",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1049413",
         "OriginalTitle": "Up",
         "Year": 2009,
-        "Directors": "Pete Docter, Bob Peterson"
+        "Directors": "Pete Docter, Bob Peterson",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0190332",
         "OriginalTitle": "Wo hu cang long",
         "TitleIT": "La tigre e il dragone",
         "Year": 2000,
-        "Directors": "Ang Lee"
+        "Directors": "Ang Lee",
+        "Countries": "Taiwan, Hong Kong, USA, China"
       },
       {
         "TitleId": "tt0071315",
         "OriginalTitle": "Chinatown",
         "Year": 1974,
-        "Directors": "Roman Polanski"
+        "Directors": "Roman Polanski",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0397101",
         "OriginalTitle": "The Skeleton Key",
         "Year": 2005,
-        "Directors": "Iain Softley"
+        "Directors": "Iain Softley",
+        "Countries": "USA, Germany"
       },
       {
         "TitleId": "tt0083987",
         "OriginalTitle": "Gandhi",
         "Year": 1982,
-        "Directors": "Richard Attenborough"
+        "Directors": "Richard Attenborough",
+        "Countries": "UK, India, USA, South Africa"
       },
       {
         "TitleId": "tt0050083",
         "OriginalTitle": "12 Angry Men",
         "TitleIT": "La parola ai giurati",
         "Year": 1957,
-        "Directors": "Sidney Lumet"
+        "Directors": "Sidney Lumet",
+        "Countries": "USA"
       }
     ]
   },
@@ -929,124 +951,142 @@
         "TitleId": "tt0086637",
         "OriginalTitle": "Zelig",
         "Year": 1983,
-        "Directors": "Woody Allen"
+        "Directors": "Woody Allen",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0350258",
         "OriginalTitle": "Ray",
         "Year": 2004,
-        "Directors": "Taylor Hackford"
+        "Directors": "Taylor Hackford",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1321860",
         "OriginalTitle": "The Beaver",
         "TitleIT": "Mr. Beaver",
         "Year": 2011,
-        "Directors": "Jodie Foster"
+        "Directors": "Jodie Foster",
+        "Countries": "USA, United Arab Emirates"
       },
       {
         "TitleId": "tt0108399",
         "OriginalTitle": "True Romance",
         "TitleIT": "Una vita al massimo ",
         "Year": 1993,
-        "Directors": "Tony Scott"
+        "Directors": "Tony Scott",
+        "Countries": "USA, France"
       },
       {
         "TitleId": "tt0118715",
         "OriginalTitle": "The Big Lebowski",
         "TitleIT": "Il grande Lebowski",
         "Year": 1998,
-        "Directors": "Joel Coen, Ethan Coen"
+        "Directors": "Joel Coen, Ethan Coen",
+        "Countries": "USA, UK"
       },
       {
         "TitleId": "tt0838221",
         "OriginalTitle": "The Darjeeling Limited",
         "TitleIT": "Il treno per il Darjeeling",
         "Year": 2007,
-        "Directors": "Wes Anderson"
+        "Directors": "Wes Anderson",
+        "Countries": "USA, India"
       },
       {
         "TitleId": "tt4025514",
         "OriginalTitle": "Suburra",
         "Year": 2015,
-        "Directors": "Stefano Sollima"
+        "Directors": "Stefano Sollima",
+        "Countries": "Italy, France"
       },
       {
         "TitleId": "tt0243133",
         "OriginalTitle": "The Man Who Wasn't There",
         "TitleIT": "L'uomo che non c'era",
         "Year": 2001,
-        "Directors": "Joel Coen, Ethan Coen"
+        "Directors": "Joel Coen, Ethan Coen",
+        "Countries": "USA, UK"
       },
       {
         "TitleId": "tt0105695",
         "OriginalTitle": "Unforgiven",
         "TitleIT": "Gli spietati",
         "Year": 1992,
-        "Directors": "Clint Eastwood"
+        "Directors": "Clint Eastwood",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0076759",
         "OriginalTitle": "Star Wars",
         "TitleIT": "Guerre Stellari",
         "Year": 1977,
-        "Directors": "George Lucas"
+        "Directors": "George Lucas",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0080684",
         "OriginalTitle": "Star Wars: Episode V - The Empire Strikes Back",
         "TitleIT": "L'Impero colpisce ancora",
         "Year": 1980,
-        "Directors": "Irvin Kershner"
+        "Directors": "Irvin Kershner",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0086190",
         "OriginalTitle": "Star Wars: Episode VI - Return of the Jedi",
         "TitleIT": "Il ritorno dello Jedi",
         "Year": 1983,
-        "Directors": "Richard Marquand"
+        "Directors": "Richard Marquand",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0120915",
         "OriginalTitle": "Star Wars: Episode I - The Phantom Menace",
         "TitleIT": "Star Wars: Episodio I - La minaccia fantasma",
         "Year": 1999,
-        "Directors": "George Lucas"
+        "Directors": "George Lucas",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0121765",
         "OriginalTitle": "Star Wars: Episode II - Attack of the Clones",
         "TitleIT": "Star Wars: Episodio II - L'attacco dei cloni",
         "Year": 2002,
-        "Directors": "George Lucas"
+        "Directors": "George Lucas",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0121766",
         "OriginalTitle": "Star Wars: Episode III - Revenge of the Sith",
         "TitleIT": "Star Wars: Episodio III - La vendetta dei Sith",
         "Year": 2005,
-        "Directors": "George Lucas"
+        "Directors": "George Lucas",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0068646",
         "OriginalTitle": "The Godfather",
         "TitleIT": "Il padrino",
         "Year": 1972,
-        "Directors": "Francis Ford Coppola"
+        "Directors": "Francis Ford Coppola",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0071562",
         "OriginalTitle": "The Godfather: Part II",
         "TitleIT": "Il padrino - Parte II",
         "Year": 1974,
-        "Directors": "Francis Ford Coppola"
+        "Directors": "Francis Ford Coppola",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt2488496",
         "OriginalTitle": "Star Wars: Episode VII - The Force Awakens",
         "TitleIT": "Star Wars - Il risveglio della Forza",
         "Year": 2015,
-        "Directors": "J.J. Abrams"
+        "Directors": "J.J. Abrams",
+        "Countries": "USA"
       }
     ]
   },
@@ -1058,135 +1098,156 @@
         "OriginalTitle": "Cidade de Deus",
         "TitleIT": "City of God",
         "Year": 2002,
-        "Directors": "Fernando Meirelles, Kátia Lund"
+        "Directors": "Fernando Meirelles, Kátia Lund",
+        "Countries": "Brazil, France, Germany"
       },
       {
         "TitleId": "tt2381249",
         "OriginalTitle": "Mission: Impossible - Rogue Nation",
         "Year": 2015,
-        "Directors": "Christopher McQuarrie"
+        "Directors": "Christopher McQuarrie",
+        "Countries": "USA, China"
       },
       {
         "TitleId": "tt0070735",
         "OriginalTitle": "The Sting",
         "TitleIT": "La stangata",
         "Year": 1973,
-        "Directors": "George Roy Hill"
+        "Directors": "George Roy Hill",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0070568",
         "OriginalTitle": "La proprietà non è più un furto",
         "Year": 1973,
-        "Directors": "Elio Petri"
+        "Directors": "Elio Petri",
+        "Countries": "Italy, France"
       },
       {
         "TitleId": "tt0870984",
         "OriginalTitle": "Antichrist",
         "Year": 2009,
-        "Directors": "Lars von Trier"
+        "Directors": "Lars von Trier",
+        "Countries": "Denmark, Germany, France, Sweden, Italy, Poland"
       },
       {
         "TitleId": "tt3316960",
         "OriginalTitle": "Still Alice",
         "Year": 2014,
-        "Directors": "Richard Glatzer, Wash Westmoreland"
+        "Directors": "Richard Glatzer, Wash Westmoreland",
+        "Countries": "USA, UK, France"
       },
       {
         "TitleId": "tt0061132",
         "OriginalTitle": "Uccellacci e uccellini",
         "Year": 1966,
-        "Directors": "Pier Paolo Pasolini"
+        "Directors": "Pier Paolo Pasolini",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt0057012",
         "OriginalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
         "TitleIT": "Il dottor Stranamore - Ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
         "Year": 1964,
-        "Directors": "Stanley Kubrick"
+        "Directors": "Stanley Kubrick",
+        "Countries": "UK, USA"
       },
       {
         "TitleId": "tt0073195",
         "OriginalTitle": "Jaws",
         "TitleIT": "Lo squalo",
         "Year": 1975,
-        "Directors": "Steven Spielberg"
+        "Directors": "Steven Spielberg",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0470752",
         "OriginalTitle": "Ex Machina",
         "Year": 2014,
-        "Directors": "Alex Garland"
+        "Directors": "Alex Garland",
+        "Countries": "UK"
       },
       {
         "TitleId": "tt0079470",
         "OriginalTitle": "Life of Brian",
         "TitleIT": "Brian di Nazareth",
         "Year": 1979,
-        "Directors": "Terry Jones"
+        "Directors": "Terry Jones",
+        "Countries": "UK"
       },
       {
         "TitleId": "tt0091605",
         "OriginalTitle": "Der Name der Rose",
         "TitleIT": "Il nome della rosa",
         "Year": 1986,
-        "Directors": "Jean-Jacques Annaud"
+        "Directors": "Jean-Jacques Annaud",
+        "Countries": "West Germany, Italy, France"
       },
       {
         "TitleId": "tt1038988",
         "OriginalTitle": "[Rec]",
         "TitleIT": "Rec",
         "Year": 2007,
-        "Directors": "Jaume Balagueró, Paco Plaza"
+        "Directors": "Jaume Balagueró, Paco Plaza",
+        "Countries": "Spain"
       },
       {
         "TitleId": "tt0898367",
         "OriginalTitle": "The Road",
         "Year": 2009,
-        "Directors": "John Hillcoat"
+        "Directors": "John Hillcoat",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0069697",
         "OriginalTitle": "...altrimenti ci arrabbiamo!",
         "Year": 1974,
-        "Directors": "Marcello Fondato"
+        "Directors": "Marcello Fondato",
+        "Countries": "Italy, Spain"
       },
       {
         "TitleId": "tt0770829",
         "OriginalTitle": "La ragazza del lago",
         "Year": 2007,
-        "Directors": "Andrea Molaioli"
+        "Directors": "Andrea Molaioli",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt4176826",
         "OriginalTitle": "Er ist wieder da",
         "TitleIT": "Lui è tornato",
         "Year": 2015,
-        "Directors": "David Wnendt"
+        "Directors": "David Wnendt",
+        "Countries": "Germany"
       },
       {
         "TitleId": "tt0338337",
         "OriginalTitle": "Paycheck",
         "Year": 2003,
-        "Directors": "John Woo"
+        "Directors": "John Woo",
+        "Countries": "USA, Canada"
       },
       {
         "TitleId": "tt0414055",
         "OriginalTitle": "Elizabeth: The Golden Age",
         "Year": 2007,
-        "Directors": "Shekhar Kapur"
+        "Directors": "Shekhar Kapur",
+        "Countries": "UK, France, Germany, USA"
       },
       {
         "TitleId": "tt3278330",
         "OriginalTitle": "Il racconto dei racconti - Tale of Tales",
         "Year": 2015,
-        "Directors": "Matteo Garrone"
+        "Directors": "Matteo Garrone",
+        "Countries": "Italy, France, UK"
       },
       {
         "TitleId": "tt0025263",
         "OriginalTitle": "Hollywood Party",
         "TitleIT": "La grande festa",
         "Year": 1934,
-        "Directors": "Richard Boleslawski, Allan Dwan, Edmund Goulding, Russell Mack, Charles Reisner, Roy Rowland, George Stevens, Sam Wood"
+        "Directors": "Richard Boleslawski, Allan Dwan, Edmund Goulding, Russell Mack, Charles Reisner, Roy Rowland, George Stevens, Sam Wood",
+        "Countries": "USA"
       }
     ]
   },
@@ -1198,124 +1259,143 @@
         "OriginalTitle": "127 Hours",
         "TitleIT": "127 ore",
         "Year": 2010,
-        "Directors": "Danny Boyle"
+        "Directors": "Danny Boyle",
+        "Countries": "USA, UK, France"
       },
       {
         "TitleId": "tt1189340",
         "OriginalTitle": "The Lincoln Lawyer",
         "Year": 2011,
-        "Directors": "Brad Furman"
+        "Directors": "Brad Furman",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1680058",
         "OriginalTitle": "Boris - Il film",
         "Year": 2011,
-        "Directors": "Giacomo Ciarrapico, Mattia Torre, Luca Vendruscolo"
+        "Directors": "Giacomo Ciarrapico, Mattia Torre, Luca Vendruscolo",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt0110632",
         "OriginalTitle": "Natural Born Killers",
         "TitleIT": "Assassini nati - Natural Born Killers",
         "Year": 1994,
-        "Directors": "Oliver Stone"
+        "Directors": "Oliver Stone",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0089218",
         "OriginalTitle": "The Goonies",
         "TitleIT": "I Goonies",
         "Year": 1985,
-        "Directors": "Richard Donner"
+        "Directors": "Richard Donner",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1821549",
         "OriginalTitle": "Nebraska",
         "Year": 2013,
-        "Directors": "Alexander Payne"
+        "Directors": "Alexander Payne",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0074958",
         "OriginalTitle": "Network",
         "TitleIT": "Quinto potere",
         "Year": 1976,
-        "Directors": "Sidney Lumet"
+        "Directors": "Sidney Lumet",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0097123",
         "OriginalTitle": "Crimes and Misdemeanors",
         "TitleIT": "Crimini e misfatti",
         "Year": 1989,
-        "Directors": "Woody Allen"
+        "Directors": "Woody Allen",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0432283",
         "OriginalTitle": "Fantastic Mr. Fox",
         "Year": 2009,
-        "Directors": "Wes Anderson"
+        "Directors": "Wes Anderson",
+        "Countries": "USA, UK"
       },
       {
         "TitleId": "tt0032553",
         "OriginalTitle": "The Great Dictator",
         "TitleIT": "Il grande dittatore",
         "Year": 1940,
-        "Directors": "Charles Chaplin"
+        "Directors": "Charles Chaplin",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt3799694",
         "OriginalTitle": "The Nice Guys",
         "Year": 2016,
-        "Directors": "Shane Black"
+        "Directors": "Shane Black",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0102511",
         "OriginalTitle": "Naked Lunch",
         "TitleIT": "Il pasto nudo",
         "Year": 1991,
-        "Directors": "David Cronenberg"
+        "Directors": "David Cronenberg",
+        "Countries": "Canada, UK, Japan"
       },
       {
         "TitleId": "tt0053198",
         "OriginalTitle": "Les quatre cents coups",
         "TitleIT": "I 400 colpi",
         "Year": 1959,
-        "Directors": "François Truffaut"
+        "Directors": "François Truffaut",
+        "Countries": "France"
       },
       {
         "TitleId": "tt0154506",
         "OriginalTitle": "Following",
         "Year": 1998,
-        "Directors": "Christopher Nolan"
+        "Directors": "Christopher Nolan",
+        "Countries": "UK"
       },
       {
         "TitleId": "tt0268995",
         "OriginalTitle": "The Majestic",
         "Year": 2001,
-        "Directors": "Frank Darabont"
+        "Directors": "Frank Darabont",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1132620",
         "OriginalTitle": "Män som hatar kvinnor",
         "TitleIT": "Uomini che odiano le donne",
         "Year": 2009,
-        "Directors": "Niels Arden Oplev"
+        "Directors": "Niels Arden Oplev",
+        "Countries": "Sweden, Denmark, Germany, Norway"
       },
       {
         "TitleId": "tt2080374",
         "OriginalTitle": "Steve Jobs",
         "Year": 2015,
-        "Directors": "Danny Boyle"
+        "Directors": "Danny Boyle",
+        "Countries": "UK, USA"
       },
       {
         "TitleId": "tt0112573",
         "OriginalTitle": "Braveheart",
         "TitleIT": "Braveheart - Cuore impavido",
         "Year": 1995,
-        "Directors": "Mel Gibson"
+        "Directors": "Mel Gibson",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0824747",
         "OriginalTitle": "Changeling",
         "Year": 2008,
-        "Directors": "Clint Eastwood"
+        "Directors": "Clint Eastwood",
+        "Countries": "USA"
       }
     ]
   },
@@ -1327,126 +1407,145 @@
         "OriginalTitle": "Toy Story",
         "TitleIT": "Toy Story - Il mondo dei giocattoli",
         "Year": 1995,
-        "Directors": "John Lasseter"
+        "Directors": "John Lasseter",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0486822",
         "OriginalTitle": "Disturbia",
         "Year": 2007,
-        "Directors": "D.J. Caruso"
+        "Directors": "D.J. Caruso",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt4263482",
         "OriginalTitle": "The VVitch: A New-England Folktale",
         "TitleIT": "The Witch - Vuoi ascoltare una favola?",
         "Year": 2015,
-        "Directors": "Robert Eggers"
+        "Directors": "Robert Eggers",
+        "Countries": "USA, Canada, UK"
       },
       {
         "TitleId": "tt0119164",
         "OriginalTitle": "The Full Monty",
         "TitleIT": "Full Monty - Squattrinati organizzati",
         "Year": 1997,
-        "Directors": "Peter Cattaneo"
+        "Directors": "Peter Cattaneo",
+        "Countries": "UK, Italy, USA"
       },
       {
         "TitleId": "tt3850214",
         "OriginalTitle": "Dope",
         "TitleIT": "Dope: Follia e riscatto",
         "Year": 2015,
-        "Directors": "Rick Famuyiwa"
+        "Directors": "Rick Famuyiwa",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt1527186",
         "OriginalTitle": "Melancholia",
         "Year": 2011,
-        "Directors": "Lars von Trier"
+        "Directors": "Lars von Trier",
+        "Countries": "Denmark, Sweden, France, Germany"
       },
       {
         "TitleId": "tt0397535",
         "OriginalTitle": "Memoirs of a Geisha",
         "TitleIT": "Memorie di una geisha",
         "Year": 2005,
-        "Directors": "Rob Marshall"
+        "Directors": "Rob Marshall",
+        "Countries": "France, Japan, USA"
       },
       {
         "TitleId": "tt0379889",
         "OriginalTitle": "The Merchant of Venice",
         "TitleIT": "Il mercante di Venezia",
         "Year": 2004,
-        "Directors": "Michael Radford"
+        "Directors": "Michael Radford",
+        "Countries": "UK, Italy, Luxembourg, USA"
       },
       {
         "TitleId": "tt2140479",
         "OriginalTitle": "The Accountant",
         "Year": 2016,
-        "Directors": "Gavin O'Connor"
+        "Directors": "Gavin O'Connor",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0076786",
         "OriginalTitle": "Suspiria",
         "Year": 1977,
-        "Directors": "Dario Argento"
+        "Directors": "Dario Argento",
+        "Countries": "Italy"
       },
       {
         "TitleId": "tt0096256",
         "OriginalTitle": "They Live",
         "TitleIT": "Essi vivono",
         "Year": 1988,
-        "Directors": "John Carpenter"
+        "Directors": "John Carpenter",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0082158",
         "OriginalTitle": "Chariots of Fire",
         "TitleIT": "Momenti di gloria",
         "Year": 1981,
-        "Directors": "Hugh Hudson"
+        "Directors": "Hugh Hudson",
+        "Countries": "UK"
       },
       {
         "TitleId": "tt0099077",
         "OriginalTitle": "Awakenings",
         "TitleIT": "Risvegli",
         "Year": 1990,
-        "Directors": "Penny Marshall"
+        "Directors": "Penny Marshall",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0362478",
         "OriginalTitle": "The Box",
         "Year": 2009,
-        "Directors": "Richard Kelly"
+        "Directors": "Richard Kelly",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0424880",
         "OriginalTitle": "Candy",
         "TitleIT": "Paradiso + Inferno",
         "Year": 2006,
-        "Directors": "Neil Armfield"
+        "Directors": "Neil Armfield",
+        "Countries": "Australia"
       },
       {
         "TitleId": "tt0120601",
         "OriginalTitle": "Being John Malkovich",
         "TitleIT": "Essere John Malkovich",
         "Year": 1999,
-        "Directors": "Spike Jonze"
+        "Directors": "Spike Jonze",
+        "Countries": "USA"
       },
       {
         "TitleId": "tt4645368",
         "OriginalTitle": "Juste la fin du monde",
         "TitleIT": "E' solo la fine del mondo",
         "Year": 2016,
-        "Directors": "Xavier Dolan"
+        "Directors": "Xavier Dolan",
+        "Countries": "Canada, France"
       },
       {
         "TitleId": "tt0117883",
         "OriginalTitle": "Tesis",
         "Year": 1996,
-        "Directors": "Alejandro Amenábar"
+        "Directors": "Alejandro Amenábar",
+        "Countries": "Spain"
       },
       {
         "TitleId": "tt2316411",
         "OriginalTitle": "Enemy",
         "Year": 2013,
-        "Directors": "Denis Villeneuve"
+        "Directors": "Denis Villeneuve",
+        "Countries": "Canada, Spain, France"
       },
       {
         "TitleId": "tt0212720",
@@ -2719,6 +2818,14 @@
         "OriginalTitle": "The Last Duel",
         "Year": 2021,
         "Directors": "Ridley Scott"
+      },
+      {
+        "TitleId": "tt0094964",
+        "OriginalTitle": "Dead Ringers",
+        "TitleIT": "Inseparabili",
+        "Year": 1988,
+        "Directors": "David Cronenberg",
+        "Countries": "Canada"
       }
     ]
   }
