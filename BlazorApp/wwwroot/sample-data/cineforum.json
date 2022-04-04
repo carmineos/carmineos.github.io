@@ -2879,7 +2879,7 @@
         "TitleIT": "Close Up",
         "Year": 1990,
         "Directors": "Abbas Kiarostami",
-        "Countries": "Iran"
+        "Countries": "IR"
       },
       {
         "TitleId": "tt0084805",
@@ -2887,6 +2887,14 @@
         "Year": 1982,
         "Directors": "Sydney Pollack",
         "Countries": "USA"
+      },
+      {
+        "TitleId": "tt1139797",
+        "OriginalTitle": "Låt den rätte komma in",
+        "TitleIT": "Lasciami entrare",
+        "Year": 2008,
+        "Directors": "Tomas Alfredson",
+        "Countries": "SE"
       }
     ]
   }
