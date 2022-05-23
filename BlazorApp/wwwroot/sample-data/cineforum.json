@@ -2933,7 +2933,7 @@
         "TitleIT": "Risky Business - Fuori i vecchi... i figli ballano",
         "Year": 1983,
         "Directors": "Paul Brickman",
-        "Countries": "US"
+        "Countries": "USA"
       },
       {
         "TitleId": "tt0044744",
@@ -2942,6 +2942,14 @@
         "Year": 1952,
         "Directors": "Anthony Asquith",
         "Countries": "GB"
+      },
+      {
+        "TitleId": "tt0078326",
+        "OriginalTitle": "Straight Time",
+        "TitleIT": "Vigilato speciale",
+        "Year": 1978,
+        "Directors": "Ulu Grosbard, Dustin Hoffman",
+        "Countries": "USA"
       }
     ]
   }
