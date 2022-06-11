@@ -24,10 +24,12 @@ jobs:
     #    name: test-artifact
     #    path: /home/runner/work/BlazorApp/BlazorApp/BlazorApp/bin/Release/net6.0/publishFolder/BlazorApp/dist/
     - name: Set Cache Version
-      uses: datamonsters/replace-action@v2
+      uses: onlyutkarsh/patch-files-action@v1.0.4
       with:
-        files: 'publishFolder/wwwroot/service-worker.js'
-        replacements: '%%CACHE_VERSION%%=${{ github.run_id }}'
+        files: |
+          publishFolder/wwwroot/service-worker-assets.js
+        patch-syntax: |
+          = /version => "${{ github.run_id }}"
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@4.0.0
       with:
