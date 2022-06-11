@@ -38,7 +38,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        seasons = await Http.GetFromJsonAsync<IEnumerable<Season>>($"sample-data/cineforum.json?v={DateTime.Today.ToString("yyyyMMdd")}");
+        seasons = await Http.GetFromJsonAsync<IEnumerable<Season>>($"sample-data/cineforum.json?v={DateTime.Today.ToString("yyyyMMdd.HHmm")}");
         filteredSeasons = seasons;
     }
 
