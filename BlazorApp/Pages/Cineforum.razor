@@ -20,7 +20,7 @@ else
         Results: @TotalMovies
     </span>
 
-    @if(filteredSeasons is not null)
+    @if (filteredSeasons is not null)
     {
         foreach (var list in filteredSeasons)
         {
@@ -30,23 +30,26 @@ else
 }
 
 @code {
-    IEnumerable<Season>? seasons;
+    IEnumerable<Season> seasons = Enumerable.Empty<Season>();
+    IQueryable<Season> filteredSeasons = Enumerable.Empty<Season>().AsQueryable();
 
-    IEnumerable<Season>? filteredSeasons;
-
-    int TotalMovies => filteredSeasons?.Sum(m => m.Movies.Length) ?? 0;
+    int TotalMovies => filteredSeasons.Sum(m => m.Movies == null ? 0 : m.Movies.Length);
 
     protected override async Task OnInitializedAsync()
     {
-        seasons = await Http.GetFromJsonAsync<IEnumerable<Season>>($"sample-data/cineforum.json");
-        filteredSeasons = seasons;
+        var data = await Http.GetFromJsonAsync<IReadOnlyList<Season>>($"sample-data/cineforum.json");
+
+        if (data is not null)
+            seasons = data;
+
+        filteredSeasons = seasons.AsQueryable();
     }
 
     async Task Search(string query)
     {
         if (string.IsNullOrEmpty(query))
         {
-            filteredSeasons = seasons;
+            filteredSeasons = seasons.AsQueryable();
             return;
         }
 
@@ -54,15 +57,15 @@ else
 
         await Task.Run(() =>
         {
-            filteredSeasons = seasons?.Select(list => new Season()
-            {
-                SeasonId = list.SeasonId,
-                Movies = list.Movies.Where(m =>
-                    (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
-                    (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
-                    (m.Directors != null && m.Directors.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
-                    ).ToArray()
-            }).Where(list => list.Movies.Any()).ToList();
+            filteredSeasons = seasons.AsQueryable().Select(list => new Season()
+                {
+                    SeasonId = list.SeasonId,
+                    Movies = list.Movies.Where(m =>
+                        (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                        (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                        (m.Directors != null && m.Directors.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
+                        ).ToArray()
+                }).Where(list => list.Movies.Any());
         });
     }
 }
