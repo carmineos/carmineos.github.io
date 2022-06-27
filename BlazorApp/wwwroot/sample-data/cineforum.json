@@ -8,7 +8,7 @@
         "TitleIT": "Mi chiamo Sam",
         "Year": 2001,
         "Directors": "Jessie Nelson",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1460743",
@@ -24,7 +24,7 @@
         "TitleIT": "Safe House - Nessuno è al sicuro",
         "Year": 2012,
         "Directors": "Daniel Espinosa",
-        "Countries": "South Africa, USA, Japan"
+        "Countries": "South Africa, US, Japan"
       },
       {
         "TitleId": "tt0092005",
@@ -32,7 +32,7 @@
         "TitleIT": "Stand by Me - Ricordo di un'estate",
         "Year": 1986,
         "Directors": "Rob Reiner",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1772424",
@@ -48,14 +48,14 @@
         "TitleIT": "Il discorso del Re",
         "Year": 2010,
         "Directors": "Tom Hooper",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0116282",
         "OriginalTitle": "Fargo",
         "Year": 1996,
         "Directors": "Joel Coen, Ethan Coen",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0483206",
@@ -70,14 +70,14 @@
         "TitleIT": "Vita di Pi",
         "Year": 2012,
         "Directors": "Ang Lee",
-        "Countries": "USA, Taiwan, UK, Canada"
+        "Countries": "US, Taiwan, UK, Canada"
       },
       {
         "TitleId": "tt0099012",
         "OriginalTitle": "Alice",
         "Year": 1990,
         "Directors": "Woody Allen",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0457430",
@@ -92,7 +92,7 @@
         "OriginalTitle": "Requiem for a Dream",
         "Year": 2000,
         "Directors": "Darren Aronofsky",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0407887",
@@ -100,14 +100,14 @@
         "TitleIT": "The Departed - Il bene e il male",
         "Year": 2006,
         "Directors": "Martin Scorsese",
-        "Countries": "USA, Hong Kong"
+        "Countries": "US, Hong Kong"
       },
       {
         "TitleId": "tt0780504",
         "OriginalTitle": "Drive",
         "Year": 2011,
         "Directors": "Nicolas Winding Refn",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0114369",
@@ -115,7 +115,7 @@
         "TitleIT": "Seven",
         "Year": 1995,
         "Directors": "David Fincher",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0210945",
@@ -123,14 +123,14 @@
         "TitleIT": "Il sapore della vittoria - Uniti si vince",
         "Year": 2000,
         "Directors": "Boaz Yakin",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0064276",
         "OriginalTitle": "Easy Rider",
         "Year": 1969,
         "Directors": "Dennis Hopper",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0396171",
@@ -138,7 +138,7 @@
         "TitleIT": "Profumo - Storia di un assassino",
         "Year": 2006,
         "Directors": "Tom Tykwer",
-        "Countries": "Germany, France, Spain, USA, Belgium"
+        "Countries": "Germany, France, Spain, US, Belgium"
       },
       {
         "TitleId": "tt0097870",
@@ -152,7 +152,7 @@
         "OriginalTitle": "Pulp Fiction",
         "Year": 1994,
         "Directors": "Quentin Tarantino",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0099685",
@@ -160,7 +160,7 @@
         "TitleIT": "Quei bravi ragazzi",
         "Year": 1990,
         "Directors": "Martin Scorsese",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1951261",
@@ -168,21 +168,21 @@
         "TitleIT": "Una notte da leoni 3",
         "Year": 2013,
         "Directors": "Todd Phillips",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1276104",
         "OriginalTitle": "Looper",
         "Year": 2012,
         "Directors": "Rian Johnson",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0209144",
         "OriginalTitle": "Memento",
         "Year": 2000,
         "Directors": "Christopher Nolan",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1024715",
@@ -190,21 +190,21 @@
         "TitleIT": "Soffocare",
         "Year": 2008,
         "Directors": "Clark Gregg",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0424136",
         "OriginalTitle": "Hard Candy",
         "Year": 2005,
         "Directors": "David Slade",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0106519",
         "OriginalTitle": "Carlito's Way",
         "Year": 1993,
         "Directors": "Brian De Palma",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0384806",
@@ -212,14 +212,14 @@
         "TitleIT": "Amityville Horror",
         "Year": 2005,
         "Directors": "Andrew Douglas",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0452623",
         "OriginalTitle": "Gone Baby Gone",
         "Year": 2007,
         "Directors": "Ben Affleck",
-        "Countries": "USA"
+        "Countries": "US"
       }
     ]
   },
@@ -231,14 +231,14 @@
         "OriginalTitle": "Star Trek",
         "Year": 2009,
         "Directors": "J.J. Abrams",
-        "Countries": "USA, Germany"
+        "Countries": "US, Germany"
       },
       {
         "TitleId": "tt0366627",
         "OriginalTitle": "The Jacket",
         "Year": 2005,
         "Directors": "John Maybury",
-        "Countries": "USA, Germany"
+        "Countries": "US, Germany"
       },
       {
         "TitleId": "tt0081505",
@@ -246,7 +246,7 @@
         "TitleIT": "Shining",
         "Year": 1980,
         "Directors": "Stanley Kubrick",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0084646",
@@ -261,7 +261,7 @@
         "TitleIT": "La custode di mia sorella",
         "Year": 2009,
         "Directors": "Nick Cassavetes",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0072637",
@@ -276,7 +276,7 @@
         "TitleIT": "Io e Annie",
         "Year": 1977,
         "Directors": "Woody Allen",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1924396",
@@ -290,7 +290,7 @@
         "OriginalTitle": "Dumbo",
         "Year": 1941,
         "Directors": "Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0133093",
@@ -298,28 +298,28 @@
         "TitleIT": "Matrix",
         "Year": 1999,
         "Directors": "Lana Wachowski, Lilly Wachowski",
-        "Countries": "USA, Australia"
+        "Countries": "US, Australia"
       },
       {
         "TitleId": "tt0119282",
         "OriginalTitle": "Hercules",
         "Year": 1997,
         "Directors": "Ron Clements, John Musker",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1417592",
         "OriginalTitle": "Pearl Jam Twenty",
         "Year": 2011,
         "Directors": "Cameron Crowe",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0120663",
         "OriginalTitle": "Eyes Wide Shut",
         "Year": 1999,
         "Directors": "Stanley Kubrick",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0046521",
@@ -334,14 +334,14 @@
         "TitleIT": "Guida galattica per autostoppisti",
         "Year": 2005,
         "Directors": "Garth Jennings",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0765429",
         "OriginalTitle": "American Gangster",
         "Year": 2007,
         "Directors": "Ridley Scott",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0457939",
@@ -349,7 +349,7 @@
         "TitleIT": "L'amore non va in vacanza",
         "Year": 2006,
         "Directors": "Nancy Meyers",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0114814",
@@ -357,7 +357,7 @@
         "TitleIT": "I soliti sospetti",
         "Year": 1995,
         "Directors": "Bryan Singer",
-        "Countries": "USA, Germany"
+        "Countries": "US, Germany"
       }
     ]
   },
@@ -369,14 +369,14 @@
         "OriginalTitle": "Blue Valentine",
         "Year": 2010,
         "Directors": "Derek Cianfrance",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0264395",
         "OriginalTitle": "Basic",
         "Year": 2003,
         "Directors": "John McTiernan",
-        "Countries": "Germany, USA"
+        "Countries": "Germany, US"
       },
       {
         "TitleId": "tt0319061",
@@ -384,7 +384,7 @@
         "TitleIT": "Big Fish - Le storie di una vita incredibile",
         "Year": 2003,
         "Directors": "Tim Burton",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0112461",
@@ -392,7 +392,7 @@
         "TitleIT": "Ritorno dal nulla",
         "Year": 1995,
         "Directors": "Scott Kalvert",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0477348",
@@ -400,7 +400,7 @@
         "TitleIT": "Non è un paese per vecchi",
         "Year": 2007,
         "Directors": "Ethan Coen, Joel Coen",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt2053463",
@@ -408,14 +408,14 @@
         "TitleIT": "Effetti Collaterali",
         "Year": 2013,
         "Directors": "Steven Soderbergh",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0078748",
         "OriginalTitle": "Alien",
         "Year": 1979,
         "Directors": "Ridley Scott",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0245429",
@@ -431,7 +431,7 @@
         "TitleIT": "L'alba dei morti dementi",
         "Year": 2004,
         "Directors": "Edgar Wright",
-        "Countries": "UK, France, USA"
+        "Countries": "UK, France, US"
       },
       {
         "TitleId": "tt0375679",
@@ -439,7 +439,7 @@
         "TitleIT": "Crash: Contatto fisico",
         "Year": 2004,
         "Directors": "Paul Haggis",
-        "Countries": "USA, Germany, Australia"
+        "Countries": "US, Germany, Australia"
       },
       {
         "TitleId": "tt0073582",
@@ -454,7 +454,7 @@
         "TitleIT": "L'ultimo samurai",
         "Year": 2003,
         "Directors": "Edward Zwick",
-        "Countries": "USA, New Zealand, Japan"
+        "Countries": "US, New Zealand, Japan"
       },
       {
         "TitleId": "tt1931533",
@@ -462,7 +462,7 @@
         "TitleIT": "7 Psicopatici",
         "Year": 2012,
         "Directors": "Martin McDonagh",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt1045658",
@@ -470,14 +470,14 @@
         "TitleIT": "Il lato positivo - Silver Linings Playbook",
         "Year": 2012,
         "Directors": "David O. Russell",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0346491",
         "OriginalTitle": "Alexander",
         "Year": 2004,
         "Directors": "Oliver Stone",
-        "Countries": "USA, UK, Germany, Netherlands, France"
+        "Countries": "US, UK, Germany, Netherlands, France"
       },
       {
         "TitleId": "tt0240772",
@@ -485,7 +485,7 @@
         "TitleIT": "Ocean's Eleven - Fate il vostro gioco",
         "Year": 2001,
         "Directors": "Steven Soderbergh",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0814314",
@@ -493,7 +493,7 @@
         "TitleIT": "Sette Anime",
         "Year": 2008,
         "Directors": "Gabriele Muccino",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0116209",
@@ -501,7 +501,7 @@
         "TitleIT": "Il paziente inglese",
         "Year": 1996,
         "Directors": "Anthony Minghella",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt1351685",
@@ -509,14 +509,14 @@
         "TitleIT": "Il cacciatore di giganti",
         "Year": 2013,
         "Directors": "Bryan Singer",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0073629",
         "OriginalTitle": "The Rocky Horror Picture Show",
         "Year": 1975,
         "Directors": "Jim Sharman",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0276919",
@@ -530,7 +530,7 @@
         "OriginalTitle": "The Town",
         "Year": 2010,
         "Directors": "Ben Affleck",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0102926",
@@ -538,7 +538,7 @@
         "TitleIT": "Il silenzio degli innocenti",
         "Year": 1991,
         "Directors": "Jonathan Demme",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0121164",
@@ -546,7 +546,7 @@
         "TitleIT": "La sposa cadavere",
         "Year": 2005,
         "Directors": "Tim Burton, Mike Johnson",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0099653",
@@ -554,7 +554,7 @@
         "TitleIT": "Ghost - Fantasma",
         "Year": 1990,
         "Directors": "Jerry Zucker",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0065063",
@@ -562,7 +562,7 @@
         "TitleIT": "Prendi i soldi e scappa",
         "Year": 1969,
         "Directors": "Woody Allen",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0108550",
@@ -570,14 +570,14 @@
         "TitleIT": "Buon compleanno Mr. Grape",
         "Year": 1993,
         "Directors": "Lasse Hallström",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0409459",
         "OriginalTitle": "Watchmen",
         "Year": 2009,
         "Directors": "Zack Snyder",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0118971",
@@ -585,7 +585,7 @@
         "TitleIT": "L'avvocato del diavolo",
         "Year": 1997,
         "Directors": "Taylor Hackford",
-        "Countries": "Germany, USA"
+        "Countries": "Germany, US"
       }
     ]
   },
@@ -604,7 +604,7 @@
         "OriginalTitle": "Prisoners",
         "Year": 2013,
         "Directors": "Denis Villeneuve",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0328107",
@@ -612,7 +612,7 @@
         "TitleIT": "Man on Fire - Il fuoco della vendetta",
         "Year": 2004,
         "Directors": "Tony Scott",
-        "Countries": "USA, UK, Switzerland"
+        "Countries": "US, UK, Switzerland"
       },
       {
         "TitleId": "tt0101889",
@@ -620,7 +620,7 @@
         "TitleIT": "La leggenda del re pescatore",
         "Year": 1991,
         "Directors": "Terry Gilliam",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0111161",
@@ -628,14 +628,14 @@
         "TitleIT": "Le ali della libertà",
         "Year": 1994,
         "Directors": "Frank Darabont",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1560747",
         "OriginalTitle": "The Master",
         "Year": 2012,
         "Directors": "Paul Thomas Anderson",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0083944",
@@ -643,7 +643,7 @@
         "TitleIT": "Rambo",
         "Year": 1982,
         "Directors": "Ted Kotcheff",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1467304",
@@ -658,7 +658,7 @@
         "TitleIT": "Proposta indecente",
         "Year": 1993,
         "Directors": "Adrian Lyne",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0358273",
@@ -666,14 +666,14 @@
         "TitleIT": "Quando l'amore brucia l'anima",
         "Year": 2005,
         "Directors": "James Mangold",
-        "Countries": "USA, Germany"
+        "Countries": "US, Germany"
       },
       {
         "TitleId": "tt0816692",
         "OriginalTitle": "Interstellar",
         "Year": 2014,
         "Directors": "Christopher Nolan",
-        "Countries": "USA, UK, Canada"
+        "Countries": "US, UK, Canada"
       },
       {
         "TitleId": "tt0405296",
@@ -681,7 +681,7 @@
         "TitleIT": "A Scanner Darkly - Un oscuro scrutare",
         "Year": 2006,
         "Directors": "Richard Linklater",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0268879",
@@ -695,7 +695,7 @@
         "OriginalTitle": "Léon",
         "Year": 1994,
         "Directors": "Luc Besson",
-        "Countries": "France, USA"
+        "Countries": "France, US"
       },
       {
         "TitleId": "tt0070460",
@@ -718,7 +718,7 @@
         "OriginalTitle": "Tarzan",
         "Year": 1999,
         "Directors": "Chris Buck, Kevin Lima",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0103064",
@@ -726,14 +726,14 @@
         "TitleIT": "Terminator 2 - Il giorno del giudizio",
         "Year": 1991,
         "Directors": "James Cameron",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0108052",
         "OriginalTitle": "Schindler's List",
         "Year": 1993,
         "Directors": "Steven Spielberg",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0055913",
@@ -753,7 +753,7 @@
         "TitleIT": "Ombre Rosse",
         "Year": 1939,
         "Directors": "John Ford",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0110148",
@@ -761,14 +761,14 @@
         "TitleIT": "Intervista col vampiro",
         "Year": 1994,
         "Directors": "Neil Jordan",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0139654",
         "OriginalTitle": "Training Day",
         "Year": 2001,
         "Directors": "Antoine Fuqua",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0120731",
@@ -782,7 +782,7 @@
         "OriginalTitle": "American Graffiti",
         "Year": 1973,
         "Directors": "George Lucas",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0097937",
@@ -798,7 +798,7 @@
         "TitleIT": "Ogni maledetta domenica",
         "Year": 1999,
         "Directors": "Oliver Stone",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1220719",
@@ -814,7 +814,7 @@
         "TitleIT": "Il laureato",
         "Year": 1967,
         "Directors": "Mike Nichols",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt2990836",
@@ -829,7 +829,7 @@
         "TitleIT": "Molto forte, incredibilmente vicino",
         "Year": 2011,
         "Directors": "Stephen Daldry",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1056067",
@@ -852,28 +852,28 @@
         "TitleIT": "Scoprendo Forrester",
         "Year": 2000,
         "Directors": "Gus Van Sant",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0485947",
         "OriginalTitle": "Mr. Nobody",
         "Year": 2009,
         "Directors": "Jaco Van Dormael",
-        "Countries": "Belgium, Germany, Canada, France, UK, Luxembourg, USA"
+        "Countries": "Belgium, Germany, Canada, France, UK, Luxembourg, US"
       },
       {
         "TitleId": "tt0080678",
         "OriginalTitle": "The Elephant Man",
         "Year": 1980,
         "Directors": "David Lynch",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0175880",
         "OriginalTitle": "Magnolia",
         "Year": 1999,
         "Directors": "Paul Thomas Anderson",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0065889",
@@ -896,14 +896,14 @@
         "TitleIT": "La vera storia di Jack lo squartatore",
         "Year": 2001,
         "Directors": "Albert Hughes, Allen Hughes",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1049413",
         "OriginalTitle": "Up",
         "Year": 2009,
         "Directors": "Pete Docter, Bob Peterson",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0190332",
@@ -911,28 +911,28 @@
         "TitleIT": "La tigre e il dragone",
         "Year": 2000,
         "Directors": "Ang Lee",
-        "Countries": "Taiwan, Hong Kong, USA, China"
+        "Countries": "Taiwan, Hong Kong, US, China"
       },
       {
         "TitleId": "tt0071315",
         "OriginalTitle": "Chinatown",
         "Year": 1974,
         "Directors": "Roman Polanski",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0397101",
         "OriginalTitle": "The Skeleton Key",
         "Year": 2005,
         "Directors": "Iain Softley",
-        "Countries": "USA, Germany"
+        "Countries": "US, Germany"
       },
       {
         "TitleId": "tt0083987",
         "OriginalTitle": "Gandhi",
         "Year": 1982,
         "Directors": "Richard Attenborough",
-        "Countries": "UK, India, USA, South Africa"
+        "Countries": "UK, India, US, South Africa"
       },
       {
         "TitleId": "tt0050083",
@@ -940,7 +940,7 @@
         "TitleIT": "La parola ai giurati",
         "Year": 1957,
         "Directors": "Sidney Lumet",
-        "Countries": "USA"
+        "Countries": "US"
       }
     ]
   },
@@ -952,14 +952,14 @@
         "OriginalTitle": "Zelig",
         "Year": 1983,
         "Directors": "Woody Allen",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0350258",
         "OriginalTitle": "Ray",
         "Year": 2004,
         "Directors": "Taylor Hackford",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1321860",
@@ -967,7 +967,7 @@
         "TitleIT": "Mr. Beaver",
         "Year": 2011,
         "Directors": "Jodie Foster",
-        "Countries": "USA, United Arab Emirates"
+        "Countries": "US, United Arab Emirates"
       },
       {
         "TitleId": "tt0108399",
@@ -975,7 +975,7 @@
         "TitleIT": "Una vita al massimo ",
         "Year": 1993,
         "Directors": "Tony Scott",
-        "Countries": "USA, France"
+        "Countries": "US, France"
       },
       {
         "TitleId": "tt0118715",
@@ -983,7 +983,7 @@
         "TitleIT": "Il grande Lebowski",
         "Year": 1998,
         "Directors": "Joel Coen, Ethan Coen",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0838221",
@@ -991,7 +991,7 @@
         "TitleIT": "Il treno per il Darjeeling",
         "Year": 2007,
         "Directors": "Wes Anderson",
-        "Countries": "USA, India"
+        "Countries": "US, India"
       },
       {
         "TitleId": "tt4025514",
@@ -1006,7 +1006,7 @@
         "TitleIT": "L'uomo che non c'era",
         "Year": 2001,
         "Directors": "Joel Coen, Ethan Coen",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0105695",
@@ -1014,7 +1014,7 @@
         "TitleIT": "Gli spietati",
         "Year": 1992,
         "Directors": "Clint Eastwood",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0076759",
@@ -1022,7 +1022,7 @@
         "TitleIT": "Guerre Stellari",
         "Year": 1977,
         "Directors": "George Lucas",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0080684",
@@ -1030,7 +1030,7 @@
         "TitleIT": "L'Impero colpisce ancora",
         "Year": 1980,
         "Directors": "Irvin Kershner",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0086190",
@@ -1038,7 +1038,7 @@
         "TitleIT": "Il ritorno dello Jedi",
         "Year": 1983,
         "Directors": "Richard Marquand",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0120915",
@@ -1046,7 +1046,7 @@
         "TitleIT": "Star Wars: Episodio I - La minaccia fantasma",
         "Year": 1999,
         "Directors": "George Lucas",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0121765",
@@ -1054,7 +1054,7 @@
         "TitleIT": "Star Wars: Episodio II - L'attacco dei cloni",
         "Year": 2002,
         "Directors": "George Lucas",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0121766",
@@ -1062,7 +1062,7 @@
         "TitleIT": "Star Wars: Episodio III - La vendetta dei Sith",
         "Year": 2005,
         "Directors": "George Lucas",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0068646",
@@ -1070,7 +1070,7 @@
         "TitleIT": "Il padrino",
         "Year": 1972,
         "Directors": "Francis Ford Coppola",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0071562",
@@ -1078,7 +1078,7 @@
         "TitleIT": "Il padrino - Parte II",
         "Year": 1974,
         "Directors": "Francis Ford Coppola",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt2488496",
@@ -1086,7 +1086,7 @@
         "TitleIT": "Star Wars - Il risveglio della Forza",
         "Year": 2015,
         "Directors": "J.J. Abrams",
-        "Countries": "USA"
+        "Countries": "US"
       }
     ]
   },
@@ -1106,7 +1106,7 @@
         "OriginalTitle": "Mission: Impossible - Rogue Nation",
         "Year": 2015,
         "Directors": "Christopher McQuarrie",
-        "Countries": "USA, China"
+        "Countries": "US, China"
       },
       {
         "TitleId": "tt0070735",
@@ -1114,7 +1114,7 @@
         "TitleIT": "La stangata",
         "Year": 1973,
         "Directors": "George Roy Hill",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0070568",
@@ -1135,7 +1135,7 @@
         "OriginalTitle": "Still Alice",
         "Year": 2014,
         "Directors": "Richard Glatzer, Wash Westmoreland",
-        "Countries": "USA, UK, France"
+        "Countries": "US, UK, France"
       },
       {
         "TitleId": "tt0061132",
@@ -1150,7 +1150,7 @@
         "TitleIT": "Il dottor Stranamore - Ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
         "Year": 1964,
         "Directors": "Stanley Kubrick",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0073195",
@@ -1158,7 +1158,7 @@
         "TitleIT": "Lo squalo",
         "Year": 1975,
         "Directors": "Steven Spielberg",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0470752",
@@ -1196,7 +1196,7 @@
         "OriginalTitle": "The Road",
         "Year": 2009,
         "Directors": "John Hillcoat",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0069697",
@@ -1225,14 +1225,14 @@
         "OriginalTitle": "Paycheck",
         "Year": 2003,
         "Directors": "John Woo",
-        "Countries": "USA, Canada"
+        "Countries": "US, Canada"
       },
       {
         "TitleId": "tt0414055",
         "OriginalTitle": "Elizabeth: The Golden Age",
         "Year": 2007,
         "Directors": "Shekhar Kapur",
-        "Countries": "UK, France, Germany, USA"
+        "Countries": "UK, France, Germany, US"
       },
       {
         "TitleId": "tt3278330",
@@ -1247,7 +1247,7 @@
         "TitleIT": "La grande festa",
         "Year": 1934,
         "Directors": "Richard Boleslawski, Allan Dwan, Edmund Goulding, Russell Mack, Charles Reisner, Roy Rowland, George Stevens, Sam Wood",
-        "Countries": "USA"
+        "Countries": "US"
       }
     ]
   },
@@ -1260,14 +1260,14 @@
         "TitleIT": "127 ore",
         "Year": 2010,
         "Directors": "Danny Boyle",
-        "Countries": "USA, UK, France"
+        "Countries": "US, UK, France"
       },
       {
         "TitleId": "tt1189340",
         "OriginalTitle": "The Lincoln Lawyer",
         "Year": 2011,
         "Directors": "Brad Furman",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1680058",
@@ -1282,7 +1282,7 @@
         "TitleIT": "Assassini nati - Natural Born Killers",
         "Year": 1994,
         "Directors": "Oliver Stone",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0089218",
@@ -1290,14 +1290,14 @@
         "TitleIT": "I Goonies",
         "Year": 1985,
         "Directors": "Richard Donner",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1821549",
         "OriginalTitle": "Nebraska",
         "Year": 2013,
         "Directors": "Alexander Payne",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0074958",
@@ -1305,7 +1305,7 @@
         "TitleIT": "Quinto potere",
         "Year": 1976,
         "Directors": "Sidney Lumet",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0097123",
@@ -1313,14 +1313,14 @@
         "TitleIT": "Crimini e misfatti",
         "Year": 1989,
         "Directors": "Woody Allen",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0432283",
         "OriginalTitle": "Fantastic Mr. Fox",
         "Year": 2009,
         "Directors": "Wes Anderson",
-        "Countries": "USA, UK"
+        "Countries": "US, UK"
       },
       {
         "TitleId": "tt0032553",
@@ -1328,14 +1328,14 @@
         "TitleIT": "Il grande dittatore",
         "Year": 1940,
         "Directors": "Charles Chaplin",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt3799694",
         "OriginalTitle": "The Nice Guys",
         "Year": 2016,
         "Directors": "Shane Black",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0102511",
@@ -1365,7 +1365,7 @@
         "OriginalTitle": "The Majestic",
         "Year": 2001,
         "Directors": "Frank Darabont",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1132620",
@@ -1380,7 +1380,7 @@
         "OriginalTitle": "Steve Jobs",
         "Year": 2015,
         "Directors": "Danny Boyle",
-        "Countries": "UK, USA"
+        "Countries": "UK, US"
       },
       {
         "TitleId": "tt0112573",
@@ -1388,14 +1388,14 @@
         "TitleIT": "Braveheart - Cuore impavido",
         "Year": 1995,
         "Directors": "Mel Gibson",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0824747",
         "OriginalTitle": "Changeling",
         "Year": 2008,
         "Directors": "Clint Eastwood",
-        "Countries": "USA"
+        "Countries": "US"
       }
     ]
   },
@@ -1408,14 +1408,14 @@
         "TitleIT": "Toy Story - Il mondo dei giocattoli",
         "Year": 1995,
         "Directors": "John Lasseter",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0486822",
         "OriginalTitle": "Disturbia",
         "Year": 2007,
         "Directors": "D.J. Caruso",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt4263482",
@@ -1423,7 +1423,7 @@
         "TitleIT": "The Witch - Vuoi ascoltare una favola?",
         "Year": 2015,
         "Directors": "Robert Eggers",
-        "Countries": "USA, Canada, UK"
+        "Countries": "US, Canada, UK"
       },
       {
         "TitleId": "tt0119164",
@@ -1431,7 +1431,7 @@
         "TitleIT": "Full Monty - Squattrinati organizzati",
         "Year": 1997,
         "Directors": "Peter Cattaneo",
-        "Countries": "UK, Italy, USA"
+        "Countries": "UK, Italy, US"
       },
       {
         "TitleId": "tt3850214",
@@ -1439,7 +1439,7 @@
         "TitleIT": "Dope: Follia e riscatto",
         "Year": 2015,
         "Directors": "Rick Famuyiwa",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1527186",
@@ -1454,7 +1454,7 @@
         "TitleIT": "Memorie di una geisha",
         "Year": 2005,
         "Directors": "Rob Marshall",
-        "Countries": "France, Japan, USA"
+        "Countries": "France, Japan, US"
       },
       {
         "TitleId": "tt0379889",
@@ -1462,14 +1462,14 @@
         "TitleIT": "Il mercante di Venezia",
         "Year": 2004,
         "Directors": "Michael Radford",
-        "Countries": "UK, Italy, Luxembourg, USA"
+        "Countries": "UK, Italy, Luxembourg, US"
       },
       {
         "TitleId": "tt2140479",
         "OriginalTitle": "The Accountant",
         "Year": 2016,
         "Directors": "Gavin O'Connor",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0076786",
@@ -1484,7 +1484,7 @@
         "TitleIT": "Essi vivono",
         "Year": 1988,
         "Directors": "John Carpenter",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0082158",
@@ -1500,14 +1500,14 @@
         "TitleIT": "Risvegli",
         "Year": 1990,
         "Directors": "Penny Marshall",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0362478",
         "OriginalTitle": "The Box",
         "Year": 2009,
         "Directors": "Richard Kelly",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0424880",
@@ -1523,7 +1523,7 @@
         "TitleIT": "Essere John Malkovich",
         "Year": 1999,
         "Directors": "Spike Jonze",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt4645368",
@@ -2841,7 +2841,7 @@
         "TitleIT": "Un tram che si chiama Desiderio",
         "Year": 1951,
         "Directors": "Elia Kazan",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt4285496",
@@ -2864,14 +2864,14 @@
         "TitleIT": "Scandalo a Filadelfia",
         "Year": 1940,
         "Directors": "George Cukor",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0449059",
         "OriginalTitle": "Little Miss Sunshine",
         "Year": 2006,
         "Directors": "Jonathan Dayton, Valerie Faris",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0100234",
@@ -2886,7 +2886,7 @@
         "OriginalTitle": "Tootsie",
         "Year": 1982,
         "Directors": "Sydney Pollack",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt1139797",
@@ -2933,7 +2933,7 @@
         "TitleIT": "Risky Business - Fuori i vecchi... i figli ballano",
         "Year": 1983,
         "Directors": "Paul Brickman",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0044744",
@@ -2949,7 +2949,7 @@
         "TitleIT": "Vigilato speciale",
         "Year": 1978,
         "Directors": "Ulu Grosbard, Dustin Hoffman",
-        "Countries": "USA"
+        "Countries": "US"
       },
       {
         "TitleId": "tt0091530",
