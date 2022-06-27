@@ -37,7 +37,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        var data = await Http.GetFromJsonAsync<IReadOnlyList<Season>>($"sample-data/cineforum.json");
+        var data = await Http.GetFromJsonAsync<IReadOnlyList<Season>>($"sample-data/cineforum.json?v={DateTime.Today.ToString("yyyyMMdd.HHmm")}");
 
         if (data is not null)
             seasons = data;
