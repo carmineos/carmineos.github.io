@@ -3112,6 +3112,14 @@
         "Year": 1964,
         "Directors": "Alfred Hitchcock",
         "Countries": "US"
+      },
+      {
+        "TitleId": "tt1016150",
+        "OriginalTitle": "Im Westen nichts Neues",
+        "TitleIT": "Niente di nuovo sul fronte occidentale",
+        "Year": 2022,
+        "Directors": "Edward Berger",
+        "Countries": "DE, US, GB"
       }
     ]
   }
