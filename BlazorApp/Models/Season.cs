@@ -4,6 +4,6 @@
     {
         public int SeasonId { get; set; }
 
-        public Movie[] Movies { get; set; }
+        public Movie[] Movies { get; set; } = default!;
     }
 }

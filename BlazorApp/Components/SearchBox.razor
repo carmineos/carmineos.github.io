@@ -2,12 +2,13 @@
 
 @implements IDisposable
 
-<input placeholder="Search..." @attributes="AdditionalAttributes" @bind="@SearchQuery" @bind:event="oninput" />
+<input class="form-control" placeholder="Search..." @attributes="AdditionalAttributes" @bind="@SearchQuery"
+    @bind:event="oninput" />
 
 @code
 {
-    Timer debounceTimer;
-    string searchQuery;
+    Timer debounceTimer = default!;
+    string searchQuery = default!;
 
     string SearchQuery
     {
