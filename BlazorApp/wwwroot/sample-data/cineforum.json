@@ -16,7 +16,7 @@
         "TitleIT": "La congiura della pietra nera",
         "Year": 2010,
         "Directors": "Chao-Bin Su, John Woo",
-        "Countries": "China, Taiwan, Hong Kong"
+        "Countries": "CN, TW, HK"
       },
       {
         "TitleId": "tt1599348",
@@ -24,7 +24,7 @@
         "TitleIT": "Safe House - Nessuno è al sicuro",
         "Year": 2012,
         "Directors": "Daniel Espinosa",
-        "Countries": "South Africa, US, Japan"
+        "Countries": "ZA, US, JP"
       },
       {
         "TitleId": "tt0092005",
@@ -40,7 +40,7 @@
         "TitleIT": "E ora dove andiamo?",
         "Year": 2011,
         "Directors": "Nadine Labaki",
-        "Countries": "France, Lebanon, Egypt, Italy, Qatar"
+        "Countries": "FR, LB, EG, IT, QA"
       },
       {
         "TitleId": "tt1504320",
@@ -62,7 +62,7 @@
         "OriginalTitle": "Il vento fa il suo giro",
         "Year": 2005,
         "Directors": "Giorgio Diritti",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0454876",
@@ -70,7 +70,7 @@
         "TitleIT": "Vita di Pi",
         "Year": 2012,
         "Directors": "Ang Lee",
-        "Countries": "US, Taiwan, UK, Canada"
+        "Countries": "US, TW, UK, CA"
       },
       {
         "TitleId": "tt0099012",
@@ -85,7 +85,7 @@
         "TitleIT": "Il labirinto del fauno",
         "Year": 2006,
         "Directors": "Guillermo del Toro",
-        "Countries": "Mexico, Spain"
+        "Countries": "MX, ES"
       },
       {
         "TitleId": "tt0180093",
@@ -100,7 +100,7 @@
         "TitleIT": "The Departed - Il bene e il male",
         "Year": 2006,
         "Directors": "Martin Scorsese",
-        "Countries": "US, Hong Kong"
+        "Countries": "US, HK"
       },
       {
         "TitleId": "tt0780504",
@@ -138,14 +138,14 @@
         "TitleIT": "Profumo - Storia di un assassino",
         "Year": 2006,
         "Directors": "Tom Tykwer",
-        "Countries": "Germany, France, Spain, US, Belgium"
+        "Countries": "DE, FR, ES, US, BE"
       },
       {
         "TitleId": "tt0097870",
         "OriginalTitle": "Mery per sempre",
         "Year": 1989,
         "Directors": "Marco Risi",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0110912",
@@ -231,14 +231,14 @@
         "OriginalTitle": "Star Trek",
         "Year": 2009,
         "Directors": "J.J. Abrams",
-        "Countries": "US, Germany"
+        "Countries": "US, DE"
       },
       {
         "TitleId": "tt0366627",
         "OriginalTitle": "The Jacket",
         "Year": 2005,
         "Directors": "John Maybury",
-        "Countries": "US, Germany"
+        "Countries": "US, DE"
       },
       {
         "TitleId": "tt0081505",
@@ -253,7 +253,7 @@
         "OriginalTitle": "Scusate il ritardo",
         "Year": 1983,
         "Directors": "Massimo Troisi",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt1078588",
@@ -268,7 +268,7 @@
         "OriginalTitle": "Amici miei",
         "Year": 1975,
         "Directors": "Mario Monicelli",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0075686",
@@ -283,7 +283,7 @@
         "OriginalTitle": "La migliore offerta",
         "Year": 2013,
         "Directors": "Giuseppe Tornatore",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0033563",
@@ -298,7 +298,7 @@
         "TitleIT": "Matrix",
         "Year": 1999,
         "Directors": "Lana Wachowski, Lilly Wachowski",
-        "Countries": "US, Australia"
+        "Countries": "US, AU"
       },
       {
         "TitleId": "tt0119282",
@@ -326,7 +326,7 @@
         "OriginalTitle": "I vitelloni",
         "Year": 1953,
         "Directors": "Federico Fellini",
-        "Countries": "Italy, France"
+        "Countries": "IT, FR"
       },
       {
         "TitleId": "tt0371724",
@@ -357,7 +357,7 @@
         "TitleIT": "I soliti sospetti",
         "Year": 1995,
         "Directors": "Bryan Singer",
-        "Countries": "US, Germany"
+        "Countries": "US, DE"
       }
     ]
   },
@@ -376,7 +376,7 @@
         "OriginalTitle": "Basic",
         "Year": 2003,
         "Directors": "John McTiernan",
-        "Countries": "Germany, US"
+        "Countries": "DE, US"
       },
       {
         "TitleId": "tt0319061",
@@ -423,7 +423,7 @@
         "TitleIT": "La città incantata",
         "Year": 2001,
         "Directors": "Hayao Miyazaki",
-        "Countries": "Japan"
+        "Countries": "JP"
       },
       {
         "TitleId": "tt0365748",
@@ -431,7 +431,7 @@
         "TitleIT": "L'alba dei morti dementi",
         "Year": 2004,
         "Directors": "Edgar Wright",
-        "Countries": "UK, France, US"
+        "Countries": "UK, FR, US"
       },
       {
         "TitleId": "tt0375679",
@@ -439,14 +439,14 @@
         "TitleIT": "Crash: Contatto fisico",
         "Year": 2004,
         "Directors": "Paul Haggis",
-        "Countries": "US, Germany, Australia"
+        "Countries": "US, DE, AU"
       },
       {
         "TitleId": "tt0073582",
         "OriginalTitle": "Profondo rosso",
         "Year": 1975,
         "Directors": "Dario Argento",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0325710",
@@ -454,7 +454,7 @@
         "TitleIT": "L'ultimo samurai",
         "Year": 2003,
         "Directors": "Edward Zwick",
-        "Countries": "US, New Zealand, Japan"
+        "Countries": "US, NZ, JP"
       },
       {
         "TitleId": "tt1931533",
@@ -477,7 +477,7 @@
         "OriginalTitle": "Alexander",
         "Year": 2004,
         "Directors": "Oliver Stone",
-        "Countries": "US, UK, Germany, Netherlands, France"
+        "Countries": "US, UK, DE, NL, FR"
       },
       {
         "TitleId": "tt0240772",
@@ -523,7 +523,7 @@
         "OriginalTitle": "Dogville",
         "Year": 2003,
         "Directors": "Lars von Trier",
-        "Countries": "Denmark, Netherlands, Sweden, Germany, UK, France, Finland, Norway, Italy"
+        "Countries": "DK, NL, SE, DE, UK, FR, FI, NO, IT"
       },
       {
         "TitleId": "tt0840361",
@@ -585,7 +585,7 @@
         "TitleIT": "L'avvocato del diavolo",
         "Year": 1997,
         "Directors": "Taylor Hackford",
-        "Countries": "Germany, US"
+        "Countries": "DE, US"
       }
     ]
   },
@@ -597,7 +597,7 @@
         "OriginalTitle": "La mafia uccide solo d'estate",
         "Year": 2013,
         "Directors": "Pif",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt1392214",
@@ -612,7 +612,7 @@
         "TitleIT": "Man on Fire - Il fuoco della vendetta",
         "Year": 2004,
         "Directors": "Tony Scott",
-        "Countries": "US, UK, Switzerland"
+        "Countries": "US, UK, CH"
       },
       {
         "TitleId": "tt0101889",
@@ -650,7 +650,7 @@
         "OriginalTitle": "The Human Centipede (First Sequence)",
         "Year": 2009,
         "Directors": "Tom Six",
-        "Countries": "Netherlands"
+        "Countries": "NL"
       },
       {
         "TitleId": "tt0107211",
@@ -666,14 +666,14 @@
         "TitleIT": "Quando l'amore brucia l'anima",
         "Year": 2005,
         "Directors": "James Mangold",
-        "Countries": "US, Germany"
+        "Countries": "US, DE"
       },
       {
         "TitleId": "tt0816692",
         "OriginalTitle": "Interstellar",
         "Year": 2014,
         "Directors": "Christopher Nolan",
-        "Countries": "US, UK, Canada"
+        "Countries": "US, UK, CA"
       },
       {
         "TitleId": "tt0405296",
@@ -688,14 +688,14 @@
         "OriginalTitle": "A ruota libera",
         "Year": 2000,
         "Directors": "Vincenzo Salemme",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0110413",
         "OriginalTitle": "Léon",
         "Year": 1994,
         "Directors": "Luc Besson",
-        "Countries": "France, US"
+        "Countries": "FR, US"
       },
       {
         "TitleId": "tt0070460",
@@ -703,7 +703,7 @@
         "TitleIT": "Effetto notte",
         "Year": 1973,
         "Directors": "François Truffaut",
-        "Countries": "France, Italy"
+        "Countries": "FR, IT"
       },
       {
         "TitleId": "tt0364569",
@@ -711,7 +711,7 @@
         "TitleIT": "Oldboy",
         "Year": 2003,
         "Directors": "Chan-wook Park",
-        "Countries": "South Korea"
+        "Countries": "KR"
       },
       {
         "TitleId": "tt0120855",
@@ -740,7 +740,7 @@
         "OriginalTitle": "Divorzio all'italiana",
         "Year": 1961,
         "Directors": "Pietro Germi",
-        "Countries": "Italy"
+        "Countries": "IT"
       }
     ]
   },
@@ -775,7 +775,7 @@
         "OriginalTitle": "La leggenda del pianista sull'oceano",
         "Year": 1998,
         "Directors": "Giuseppe Tornatore",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0069704",
@@ -806,7 +806,7 @@
         "TitleIT": "Ip Man",
         "Year": 2008,
         "Directors": "Wilson Yip",
-        "Countries": "Hong Kong, China"
+        "Countries": "HK, CN"
       },
       {
         "TitleId": "tt0061722",
@@ -821,7 +821,7 @@
         "OriginalTitle": "L'arte della felicità",
         "Year": 2013,
         "Directors": "Alessandro Rak",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0477302",
@@ -836,7 +836,7 @@
         "OriginalTitle": "Un giorno perfetto",
         "Year": 2008,
         "Directors": "Ferzan Ozpetek",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt2278871",
@@ -844,7 +844,7 @@
         "TitleIT": "La vita di Adele",
         "Year": 2013,
         "Directors": "Abdellatif Kechiche",
-        "Countries": "France, Belgium, Spain"
+        "Countries": "FR, BE, ES"
       },
       {
         "TitleId": "tt0181536",
@@ -859,7 +859,7 @@
         "OriginalTitle": "Mr. Nobody",
         "Year": 2009,
         "Directors": "Jaco Van Dormael",
-        "Countries": "Belgium, Germany, Canada, France, UK, Luxembourg, US"
+        "Countries": "BE, DE, CA, FR, UK, LU, US"
       },
       {
         "TitleId": "tt0080678",
@@ -880,7 +880,7 @@
         "OriginalTitle": "Indagine su un cittadino al di sopra di ogni sospetto",
         "Year": 1970,
         "Directors": "Elio Petri",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt3312830",
@@ -888,7 +888,7 @@
         "TitleIT": "Youth - La giovinezza",
         "Year": 2015,
         "Directors": "Paolo Sorrentino",
-        "Countries": "Italy, France, UK, Switzerland"
+        "Countries": "IT, FR, UK, CH"
       },
       {
         "TitleId": "tt0120681",
@@ -911,7 +911,7 @@
         "TitleIT": "La tigre e il dragone",
         "Year": 2000,
         "Directors": "Ang Lee",
-        "Countries": "Taiwan, Hong Kong, US, China"
+        "Countries": "TW, HK, US, CN"
       },
       {
         "TitleId": "tt0071315",
@@ -925,14 +925,14 @@
         "OriginalTitle": "The Skeleton Key",
         "Year": 2005,
         "Directors": "Iain Softley",
-        "Countries": "US, Germany"
+        "Countries": "US, DE"
       },
       {
         "TitleId": "tt0083987",
         "OriginalTitle": "Gandhi",
         "Year": 1982,
         "Directors": "Richard Attenborough",
-        "Countries": "UK, India, US, South Africa"
+        "Countries": "UK, IN, US, ZA"
       },
       {
         "TitleId": "tt0050083",
@@ -967,7 +967,7 @@
         "TitleIT": "Mr. Beaver",
         "Year": 2011,
         "Directors": "Jodie Foster",
-        "Countries": "US, United Arab Emirates"
+        "Countries": "US, AE"
       },
       {
         "TitleId": "tt0108399",
@@ -975,7 +975,7 @@
         "TitleIT": "Una vita al massimo ",
         "Year": 1993,
         "Directors": "Tony Scott",
-        "Countries": "US, France"
+        "Countries": "US, FR"
       },
       {
         "TitleId": "tt0118715",
@@ -991,14 +991,14 @@
         "TitleIT": "Il treno per il Darjeeling",
         "Year": 2007,
         "Directors": "Wes Anderson",
-        "Countries": "US, India"
+        "Countries": "US, IN"
       },
       {
         "TitleId": "tt4025514",
         "OriginalTitle": "Suburra",
         "Year": 2015,
         "Directors": "Stefano Sollima",
-        "Countries": "Italy, France"
+        "Countries": "IT, FR"
       },
       {
         "TitleId": "tt0243133",
@@ -1099,14 +1099,14 @@
         "TitleIT": "City of God",
         "Year": 2002,
         "Directors": "Fernando Meirelles, Kátia Lund",
-        "Countries": "Brazil, France, Germany"
+        "Countries": "BR, FR, DE"
       },
       {
         "TitleId": "tt2381249",
         "OriginalTitle": "Mission: Impossible - Rogue Nation",
         "Year": 2015,
         "Directors": "Christopher McQuarrie",
-        "Countries": "US, China"
+        "Countries": "US, CN"
       },
       {
         "TitleId": "tt0070735",
@@ -1121,28 +1121,28 @@
         "OriginalTitle": "La proprietà non è più un furto",
         "Year": 1973,
         "Directors": "Elio Petri",
-        "Countries": "Italy, France"
+        "Countries": "IT, FR"
       },
       {
         "TitleId": "tt0870984",
         "OriginalTitle": "Antichrist",
         "Year": 2009,
         "Directors": "Lars von Trier",
-        "Countries": "Denmark, Germany, France, Sweden, Italy, Poland"
+        "Countries": "DK, DE, FR, SE, IT, PL"
       },
       {
         "TitleId": "tt3316960",
         "OriginalTitle": "Still Alice",
         "Year": 2014,
         "Directors": "Richard Glatzer, Wash Westmoreland",
-        "Countries": "US, UK, France"
+        "Countries": "US, UK, FR"
       },
       {
         "TitleId": "tt0061132",
         "OriginalTitle": "Uccellacci e uccellini",
         "Year": 1966,
         "Directors": "Pier Paolo Pasolini",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0057012",
@@ -1181,7 +1181,7 @@
         "TitleIT": "Il nome della rosa",
         "Year": 1986,
         "Directors": "Jean-Jacques Annaud",
-        "Countries": "West Germany, Italy, France"
+        "Countries": "XWG, IT, FR"
       },
       {
         "TitleId": "tt1038988",
@@ -1189,7 +1189,7 @@
         "TitleIT": "Rec",
         "Year": 2007,
         "Directors": "Jaume Balagueró, Paco Plaza",
-        "Countries": "Spain"
+        "Countries": "ES"
       },
       {
         "TitleId": "tt0898367",
@@ -1203,14 +1203,14 @@
         "OriginalTitle": "...altrimenti ci arrabbiamo!",
         "Year": 1974,
         "Directors": "Marcello Fondato",
-        "Countries": "Italy, Spain"
+        "Countries": "IT, ES"
       },
       {
         "TitleId": "tt0770829",
         "OriginalTitle": "La ragazza del lago",
         "Year": 2007,
         "Directors": "Andrea Molaioli",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt4176826",
@@ -1218,28 +1218,28 @@
         "TitleIT": "Lui è tornato",
         "Year": 2015,
         "Directors": "David Wnendt",
-        "Countries": "Germany"
+        "Countries": "DE"
       },
       {
         "TitleId": "tt0338337",
         "OriginalTitle": "Paycheck",
         "Year": 2003,
         "Directors": "John Woo",
-        "Countries": "US, Canada"
+        "Countries": "US, CA"
       },
       {
         "TitleId": "tt0414055",
         "OriginalTitle": "Elizabeth: The Golden Age",
         "Year": 2007,
         "Directors": "Shekhar Kapur",
-        "Countries": "UK, France, Germany, US"
+        "Countries": "UK, FR, DE, US"
       },
       {
         "TitleId": "tt3278330",
         "OriginalTitle": "Il racconto dei racconti - Tale of Tales",
         "Year": 2015,
         "Directors": "Matteo Garrone",
-        "Countries": "Italy, France, UK"
+        "Countries": "IT, FR, UK"
       },
       {
         "TitleId": "tt0025263",
@@ -1260,7 +1260,7 @@
         "TitleIT": "127 ore",
         "Year": 2010,
         "Directors": "Danny Boyle",
-        "Countries": "US, UK, France"
+        "Countries": "US, UK, FR"
       },
       {
         "TitleId": "tt1189340",
@@ -1274,7 +1274,7 @@
         "OriginalTitle": "Boris - Il film",
         "Year": 2011,
         "Directors": "Giacomo Ciarrapico, Mattia Torre, Luca Vendruscolo",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0110632",
@@ -1343,7 +1343,7 @@
         "TitleIT": "Il pasto nudo",
         "Year": 1991,
         "Directors": "David Cronenberg",
-        "Countries": "Canada, UK, Japan"
+        "Countries": "CA, UK, JP"
       },
       {
         "TitleId": "tt0053198",
@@ -1351,7 +1351,7 @@
         "TitleIT": "I 400 colpi",
         "Year": 1959,
         "Directors": "François Truffaut",
-        "Countries": "France"
+        "Countries": "FR"
       },
       {
         "TitleId": "tt0154506",
@@ -1373,7 +1373,7 @@
         "TitleIT": "Uomini che odiano le donne",
         "Year": 2009,
         "Directors": "Niels Arden Oplev",
-        "Countries": "Sweden, Denmark, Germany, Norway"
+        "Countries": "SE, DK, DE, NO"
       },
       {
         "TitleId": "tt2080374",
@@ -1423,7 +1423,7 @@
         "TitleIT": "The Witch - Vuoi ascoltare una favola?",
         "Year": 2015,
         "Directors": "Robert Eggers",
-        "Countries": "US, Canada, UK"
+        "Countries": "US, CA, UK"
       },
       {
         "TitleId": "tt0119164",
@@ -1431,7 +1431,7 @@
         "TitleIT": "Full Monty - Squattrinati organizzati",
         "Year": 1997,
         "Directors": "Peter Cattaneo",
-        "Countries": "UK, Italy, US"
+        "Countries": "UK, IT, US"
       },
       {
         "TitleId": "tt3850214",
@@ -1446,7 +1446,7 @@
         "OriginalTitle": "Melancholia",
         "Year": 2011,
         "Directors": "Lars von Trier",
-        "Countries": "Denmark, Sweden, France, Germany"
+        "Countries": "DK, SE, FR, DE"
       },
       {
         "TitleId": "tt0397535",
@@ -1454,7 +1454,7 @@
         "TitleIT": "Memorie di una geisha",
         "Year": 2005,
         "Directors": "Rob Marshall",
-        "Countries": "France, Japan, US"
+        "Countries": "FR, JP, US"
       },
       {
         "TitleId": "tt0379889",
@@ -1462,7 +1462,7 @@
         "TitleIT": "Il mercante di Venezia",
         "Year": 2004,
         "Directors": "Michael Radford",
-        "Countries": "UK, Italy, Luxembourg, US"
+        "Countries": "UK, IT, LU, US"
       },
       {
         "TitleId": "tt2140479",
@@ -1476,7 +1476,7 @@
         "OriginalTitle": "Suspiria",
         "Year": 1977,
         "Directors": "Dario Argento",
-        "Countries": "Italy"
+        "Countries": "IT"
       },
       {
         "TitleId": "tt0096256",
@@ -1515,7 +1515,7 @@
         "TitleIT": "Paradiso + Inferno",
         "Year": 2006,
         "Directors": "Neil Armfield",
-        "Countries": "Australia"
+        "Countries": "AU"
       },
       {
         "TitleId": "tt0120601",
@@ -1531,21 +1531,21 @@
         "TitleIT": "E' solo la fine del mondo",
         "Year": 2016,
         "Directors": "Xavier Dolan",
-        "Countries": "Canada, France"
+        "Countries": "CA, FR"
       },
       {
         "TitleId": "tt0117883",
         "OriginalTitle": "Tesis",
         "Year": 1996,
         "Directors": "Alejandro Amenábar",
-        "Countries": "Spain"
+        "Countries": "ES"
       },
       {
         "TitleId": "tt2316411",
         "OriginalTitle": "Enemy",
         "Year": 2013,
         "Directors": "Denis Villeneuve",
-        "Countries": "Canada, Spain, France"
+        "Countries": "CA, ES, FR"
       },
       {
         "TitleId": "tt0212720",
@@ -2825,7 +2825,7 @@
         "TitleIT": "Inseparabili",
         "Year": 1988,
         "Directors": "David Cronenberg",
-        "Countries": "Canada"
+        "Countries": "CA"
       },
       {
         "TitleId": "tt2331143",
@@ -2848,7 +2848,7 @@
         "OriginalTitle": "El abrazo de la serpiente",
         "Year": 2015,
         "Directors": "Ciro Guerra",
-        "Countries": "Colombia, Venezuela, Argentina"
+        "Countries": "CO, VE, AR"
       },
       {
         "TitleId": "tt9639470",
