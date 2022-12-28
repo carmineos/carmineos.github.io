@@ -33,7 +33,7 @@ else if (movies is not null)
     IQueryable<MovieViewModel> movies = Enumerable.Empty<MovieViewModel>().AsQueryable();
     IQueryable<MovieViewModel> filtered = Enumerable.Empty<MovieViewModel>().AsQueryable();
 
-    int TotalMovies => movies.Count();
+    int TotalMovies => filtered.Count();
 
     protected override async Task OnInitializedAsync()
     {
