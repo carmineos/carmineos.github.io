@@ -8,17 +8,24 @@
     I host a cineforum with a group of friends weekly. This is a simple page to track the movies we watch together.
 </div>
 
-@if (seasons == null)
+@if (loading)
 {
-    <Spinner Visible="true" />
+    <div class="d-flex justify-content-center">
+        <div class="spinner-border" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
 }
-else
+else if (seasons is not null)
 {
-    <SearchBox placeholder="Search..." SearchQueryChanged="Search" />
-
-    <span class="text-muted">
-        Results: @TotalMovies
-    </span>
+    <div class="row justify-content-end">
+        <div class="col-2">
+            <span class="text-muted">
+                Results: @TotalMovies
+            </span>
+            <SearchBox placeholder="Search..." SearchQueryChanged="Search" />
+        </div>
+    </div>
 
     @if (filteredSeasons is not null)
     {
@@ -30,6 +37,7 @@ else
 }
 
 @code {
+    bool loading { get; set; } = true;
     IEnumerable<Season> seasons = Enumerable.Empty<Season>();
     IQueryable<Season> filteredSeasons = Enumerable.Empty<Season>().AsQueryable();
 
@@ -43,6 +51,7 @@ else
             seasons = data;
 
         filteredSeasons = seasons.AsQueryable();
+        loading = false;
     }
 
     async Task Search(string query)
@@ -61,10 +70,10 @@ else
                 {
                     SeasonId = list.SeasonId,
                     Movies = list.Movies.Where(m =>
-                        (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
-                        (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
-                        (m.Directors != null && m.Directors.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
-                        ).ToArray()
+                (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
+                (m.Directors != null && m.Directors.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
+                                ).ToArray()
                 }).Where(list => list.Movies.Any());
         });
     }
