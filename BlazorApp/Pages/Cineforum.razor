@@ -16,24 +16,24 @@
         </div>
     </div>
 }
-else if (seasons is not null)
+else if (movies is not null)
 {
     <div class="row">
         <div class="col-md-2 col-sm-12">
-            <label for="searchBox">Results: @TotalMovies</label>
+            <label class="form-label" for="searchBox">Results: @TotalMovies</label>
             <SearchBox placeholder="Search..." SearchQueryChanged="Search" Id="searchBox" />
         </div>
     </div>
 
-    <MoviesListTable List="@filteredSeasons" />
+    <MoviesTable Movies="@filtered" />
 }
 
 @code {
     bool loading { get; set; } = true;
-    IEnumerable<Season> seasons = Enumerable.Empty<Season>();
-    IQueryable<Season> filteredSeasons = Enumerable.Empty<Season>().AsQueryable();
+    IQueryable<MovieViewModel> movies = Enumerable.Empty<MovieViewModel>().AsQueryable();
+    IQueryable<MovieViewModel> filtered = Enumerable.Empty<MovieViewModel>().AsQueryable();
 
-    int TotalMovies => filteredSeasons.Sum(m => m.Movies == null ? 0 : m.Movies.Length);
+    int TotalMovies => movies.Count();
 
     protected override async Task OnInitializedAsync()
     {
@@ -41,9 +41,10 @@ else if (seasons is not null)
         Http.GetFromJsonAsync<IReadOnlyList<Season>>($"sample-data/cineforum.json?v={DateTime.Today.ToString("yyyyMMdd.HHmm")}");
 
         if (data is not null)
-            seasons = data;
+            movies = GetViewModels(data);
 
-        filteredSeasons = seasons.AsQueryable();
+        filtered = movies;
+
         loading = false;
     }
 
@@ -51,7 +52,7 @@ else if (seasons is not null)
     {
         if (string.IsNullOrEmpty(query))
         {
-            filteredSeasons = seasons.AsQueryable();
+            filtered = movies.AsQueryable();
             return;
         }
 
@@ -59,15 +60,45 @@ else if (seasons is not null)
 
         await Task.Run(() =>
         {
-            filteredSeasons = seasons.AsQueryable().Select(list => new Season()
-            {
-                SeasonId = list.SeasonId,
-                Movies = list.Movies.Where(m =>
+            filtered = filtered.AsQueryable().Where(m =>
     (m.OriginalTitle != null && m.OriginalTitle.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
     (m.TitleIT != null && m.TitleIT.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)) ||
     (m.Directors != null && m.Directors.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
-    ).ToArray()
-            }).Where(list => list.Movies.Any());
+    );
         });
+    }
+
+    static IQueryable<MovieViewModel> GetViewModels(IEnumerable<Season> seasons)
+    {
+        var list = new List<MovieViewModel>();
+
+        int count = 0;
+
+        foreach (var season in seasons)
+        {
+            int seasonNumber = season.SeasonId;
+
+            for (int i = 0; i < season.Movies.Length; i++)
+            {
+                var movie = season.Movies[i];
+                count++;
+
+                list.Add(new MovieViewModel()
+                {
+                    Number = count,
+                    WeekNumber = i + 1,
+                    SeasonNumber = seasonNumber,
+
+                    TitleId = movie.TitleId,
+                    OriginalTitle = movie.OriginalTitle,
+                    TitleIT = movie.TitleIT,
+                    Year = movie.Year,
+                    Directors = movie.Directors,
+                    Countries = movie.Countries,
+                });
+            }
+        }
+
+        return list.AsQueryable();
     }
 }

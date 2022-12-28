@@ -1,6 +1,6 @@
 ﻿namespace BlazorApp.Models
 {
-    public class Season
+    public record Season
     {
         public int SeasonId { get; set; }
 

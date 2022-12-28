@@ -1,6 +1,6 @@
 ﻿namespace BlazorApp.Models
 {
-    public class Movie
+    public record Movie
     {
         public string TitleId { get; set; } = default!;
         public string OriginalTitle { get; set; } = default!;
