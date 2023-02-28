@@ -3175,6 +3175,14 @@
         "Year": 2012,
         "Directors": "Leos Carax",
         "Countries": "FR, DE, BE"
+      },
+      {
+        "TitleId": "tt0010323",
+        "OriginalTitle": "Das Cabinet des Dr. Caligari",
+        "TitleIT": "Il gabinetto del dottor Caligari",
+        "Year": 1920,
+        "Directors": "Robert Wiene",
+        "Countries": "DE"
       }
     ]
   }
