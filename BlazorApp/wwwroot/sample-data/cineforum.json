@@ -3253,6 +3253,20 @@
         "Year": 2013,
         "Directors": "Roberto Andò",
         "Countries": "IT"
+      },
+      {
+        "TitleId": "tt0117336",
+        "OriginalTitle": "Pianese Nunzio, 14 anni a maggio",
+        "Year": 1996,
+        "Directors": "Antonio Capuano",
+        "Countries": "IT"
+      },
+      {
+        "TitleId": "tt0079944",
+        "OriginalTitle": "Stalker",
+        "Year": 1979,
+        "Directors": "Andrei Tarkovsky",
+        "Countries": "SUHH"
       }
     ]
   }
