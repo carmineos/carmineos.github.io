@@ -22,7 +22,7 @@
     }
 
     [Parameter(CaptureUnmatchedValues = true)]
-    public IDictionary<string, object> AdditionalAttributes { get; set; }
+    public IDictionary<string, object> AdditionalAttributes { get; set; } = default!;
 
     [Parameter]
     public int Debounce { get; set; } = 250;
@@ -38,7 +38,7 @@
         debounceTimer.Elapsed += Search;
     }
 
-    async void Search(Object source, EventArgs e)
+    async void Search(object? source, EventArgs e)
     {
         await InvokeAsync(() => SearchQueryChanged.InvokeAsync(SearchQuery));
     }
