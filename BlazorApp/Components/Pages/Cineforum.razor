@@ -27,7 +27,41 @@ else if (movies is not null)
         </div>
     </div>
 
-    <MoviesTable Movies="@filtered" />
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Week</th>
+                <th>Title <sup>(Original)</sup></th>
+                <th>Year</th>
+                <th>Directors</th>
+                @* <th>Countries</th> *@
+                <th>IMDb Page</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var movie in filtered)
+            {
+                var seasonWeek = $"{movie.SeasonNumber}x{movie.WeekNumber:00}";
+                <tr>
+                    <td><span class="text-muted">@movie.Number</span></td>
+                    <td>@seasonWeek</td>
+                    @if (!string.IsNullOrEmpty(movie.TitleIT))
+                    {
+                        <td>@movie.TitleIT <sup>(@movie.OriginalTitle)</sup></td>
+                    }
+                    else
+                    {
+                        <td>@movie.OriginalTitle</td>
+                    }
+                    <td>@movie.Year</td>
+                    <td>@movie.Directors</td>
+                    @* <td>@movie.Countries</td> *@
+                    <td><a href="@movie.Link" target="_blank" class="btn btn-sm btn-outline-primary">IMDb</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
 }
 
 @code {
