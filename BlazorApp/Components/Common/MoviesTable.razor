@@ -1,3 +1,4 @@
+@using BlazorApp.Models
 @if (Movies == null)
 {
 
@@ -34,9 +35,7 @@ else
                     <td>@movie.Year</td>
                     <td>@movie.Directors</td>
                     @* <td>@movie.Countries</td> *@
-                    <td><a href="@movie.Link" target="_blank"><button class="btn btn-sm btn-outline-primary"
-                        type="button">IMDb</button></a>
-                    </td>
+                    <td><a href="@movie.Link" target="_blank" class="btn btn-sm btn-outline-primary">IMDb</a></td>
                 </tr>
             }
         </tbody>
