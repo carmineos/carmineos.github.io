@@ -3700,6 +3700,22 @@
         "Year": 2004,
         "Directors": "Alejandro Amenábar",
         "Countries": "ES, FR, IT"
+      },
+      {
+        "TitleId": "tt0078875",
+        "OriginalTitle": "Die Blechtrommel",
+        "TitleIT": "Il tamburo di latta",
+        "Year": 1979,
+        "Directors": "Volker Schlöndorff",
+        "Countries": "XWG, FR, PL"
+      },
+      {
+        "TitleId": "tt1832382",
+        "OriginalTitle": "Jodaeiye Nader az Simin",
+        "TitleIT": "Una separazione",
+        "Year": 2011,
+        "Directors": "Asghar Farhadi",
+        "Countries": "IR, FR, AU"
       }
     ]
   }
