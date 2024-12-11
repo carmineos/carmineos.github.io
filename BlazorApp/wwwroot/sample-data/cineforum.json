@@ -3755,5 +3755,17 @@
         "Countries": "GB, FR, US"
       }
     ]
+  },
+  {
+    "SeasonId": 17,
+    "Movies": [
+      {
+        "TitleId": "tt0186508",
+        "OriginalTitle": "Buena Vista Social Club",
+        "Year": 1999,
+        "Directors": "Wim Wenders",
+        "Countries": "DE, US, UK, FR, CU"
+      }
+    ]
   }
 ]
