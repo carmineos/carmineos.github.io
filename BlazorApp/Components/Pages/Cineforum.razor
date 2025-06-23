@@ -129,8 +129,8 @@ else if (movies is not null)
                     OriginalTitle = movie.OriginalTitle,
                     TitleIT = movie.TitleIT,
                     Year = movie.Year,
-                    Directors = movie.Directors,
-                    Countries = movie.Countries,
+                    Directors = string.Join(", ", movie.Directors),
+                    Countries = string.Join(", ", movie.Countries),
                 });
             }
         }

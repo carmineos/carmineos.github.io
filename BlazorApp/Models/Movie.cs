@@ -6,7 +6,7 @@
         public string OriginalTitle { get; set; } = default!;
         public string TitleIT { get; set; } = default!;
         public int Year { get; set; }
-        public string Directors { get; set; } = default!;
-        public string Countries { get; set; } = default!;
+        public string[] Directors { get; set; } = [];
+        public string[] Countries { get; set; } = [];
     }
 }
