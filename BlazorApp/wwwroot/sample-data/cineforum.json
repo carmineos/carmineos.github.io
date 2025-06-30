@@ -3939,6 +3939,14 @@
         "Year": 1991,
         "Directors": ["Ridley Scott"],
         "Countries": ["US", "GB", "FR"]
+      },
+      {
+        "TitleId": "tt0118845",
+        "OriginalTitle": "Chun gwong ja sit",
+        "TitleIT": "Happy Together",
+        "Year": 1997,
+        "Directors": ["Wong Kar-Wai"],
+        "Countries": ["HK", "KR", "JP"]
       }
     ]
   }
