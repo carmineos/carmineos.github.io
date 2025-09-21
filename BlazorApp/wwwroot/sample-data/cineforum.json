@@ -3976,6 +3976,13 @@
         "Year": 2024,
         "Directors": ["Yuval Abraham", "Basel Adra", "Hamdan Ballal"],
         "Countries": ["PS", "NO", "DK", "FR", "DE", "BE"]
+      },
+      {
+        "TitleId": "tt1682180",
+        "OriginalTitle": "Stoker",
+        "Year": 2013,
+        "Directors": ["Park Chan-wook"],
+        "Countries": ["GB", "US"]
       }
     ]
   }
