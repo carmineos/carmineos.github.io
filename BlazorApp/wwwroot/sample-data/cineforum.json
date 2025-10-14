@@ -3990,6 +3990,13 @@
         "Year": 2024,
         "Directors": ["James Mangold"],
         "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0075335",
+        "OriginalTitle": "Todo modo",
+        "Year": 1976,
+        "Directors": ["Elio Petri"],
+        "Countries": ["IT"]
       }
     ]
   }
