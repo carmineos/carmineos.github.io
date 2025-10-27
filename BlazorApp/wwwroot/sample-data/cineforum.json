@@ -3997,6 +3997,14 @@
         "Year": 1976,
         "Directors": ["Elio Petri"],
         "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0130827",
+        "OriginalTitle": "Lola rennt",
+        "TitleIT": "Lola corre",
+        "Year": 1998,
+        "Directors": ["Tom Tykwer"],
+        "Countries": ["DE"]
       }
     ]
   }
