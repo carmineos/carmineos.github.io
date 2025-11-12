@@ -4013,6 +4013,14 @@
         "Year": 2024,
         "Directors": ["Gints Zilbalodis"],
         "Countries": ["LV", "BE", "FR"]
+      },
+      {
+        "TitleId": "tt7057496",
+        "OriginalTitle": "Gi-eok-ui bam",
+        "TitleIT": "Forgotten",
+        "Year": 2017,
+        "Directors": ["Jang Hang-jun"],
+        "Countries": ["KR"]
       }
     ]
   }
