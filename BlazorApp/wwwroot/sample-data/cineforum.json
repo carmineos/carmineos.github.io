@@ -4021,6 +4021,13 @@
         "Year": 2017,
         "Directors": ["Jang Hang-jun"],
         "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt1312221",
+        "OriginalTitle": "Frankenstein",
+        "Year": 2025,
+        "Directors": ["Guillermo del Toro"],
+        "Countries": ["MX", "US"]
       }
     ]
   }
