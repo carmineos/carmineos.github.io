@@ -4055,6 +4055,14 @@
         "Year": 2025,
         "Directors": ["David Freyne"],
         "Countries": ["US", "CA"]
+      },
+      {
+        "TitleId": "tt9620288",
+        "OriginalTitle": "King Richard",
+        "TitleIT": "King Richard - Una famiglia vincente",
+        "Year": 2021,
+        "Directors": ["Reinaldo Marcus Green"],
+        "Countries": ["US", "AU"]
       }
     ]
   }
