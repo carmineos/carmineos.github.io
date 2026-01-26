@@ -4070,6 +4070,14 @@
         "Year": 2022,
         "Directors": ["Ti West"],
         "Countries": ["NZ", "US"]
+      },
+      {
+        "TitleId": "tt0117381",
+        "OriginalTitle": "Primal Fear",
+        "TitleIT": "Schegge di paura",
+        "Year": 1996,
+        "Directors": ["Gregory Hoblit"],
+        "Countries": ["US"]
       }
     ]
   }
