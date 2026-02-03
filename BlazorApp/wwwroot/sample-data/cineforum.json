@@ -4078,6 +4078,14 @@
         "Year": 1996,
         "Directors": ["Gregory Hoblit"],
         "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt31711040",
+        "OriginalTitle": "Rukku Bakku",
+        "TitleIT": "Look Back",
+        "Year": 2024,
+        "Directors": ["Kiyotaka Oshiyama"],
+        "Countries": ["JP", "US"]
       }
     ]
   }
