@@ -4086,6 +4086,14 @@
         "Year": 2024,
         "Directors": ["Kiyotaka Oshiyama"],
         "Countries": ["JP", "US"]
+      },
+      {
+        "TitleId": "tt0070723",
+        "OriginalTitle": "Soylent Green",
+        "TitleIT": "2022: i sopravvissuti",
+        "Year": 1973,
+        "Directors": ["Richard Fleischer"],
+        "Countries": ["US"]
       }
     ]
   }
