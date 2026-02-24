@@ -1,0 +1,4107 @@
+[
+  {
+    "SeasonId": 1,
+    "Movies": [
+      {
+        "TitleId": "tt0277027",
+        "OriginalTitle": "I Am Sam",
+        "TitleIT": "Mi chiamo Sam",
+        "Year": 2001,
+        "Directors": ["Jessie Nelson"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1460743",
+        "OriginalTitle": "Jian yu",
+        "TitleIT": "La congiura della pietra nera",
+        "Year": 2010,
+        "Directors": ["Chao-Bin Su", "John Woo"],
+        "Countries": ["CN", "TW", "HK"]
+      },
+      {
+        "TitleId": "tt1599348",
+        "OriginalTitle": "Safe House",
+        "TitleIT": "Safe House - Nessuno è al sicuro",
+        "Year": 2012,
+        "Directors": ["Daniel Espinosa"],
+        "Countries": ["ZA", "US", "JP"]
+      },
+      {
+        "TitleId": "tt0092005",
+        "OriginalTitle": "Stand by Me",
+        "TitleIT": "Stand by Me - Ricordo di un'estate",
+        "Year": 1986,
+        "Directors": ["Rob Reiner"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1772424",
+        "OriginalTitle": "Et maintenant on va où?",
+        "TitleIT": "E ora dove andiamo?",
+        "Year": 2011,
+        "Directors": ["Nadine Labaki"],
+        "Countries": ["FR", "LB", "EG", "IT", "QA"]
+      },
+      {
+        "TitleId": "tt1504320",
+        "OriginalTitle": "The King's Speech",
+        "TitleIT": "Il discorso del Re",
+        "Year": 2010,
+        "Directors": ["Tom Hooper"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0116282",
+        "OriginalTitle": "Fargo",
+        "Year": 1996,
+        "Directors": ["Joel Coen", "Ethan Coen"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0483206",
+        "OriginalTitle": "Il vento fa il suo giro",
+        "Year": 2005,
+        "Directors": ["Giorgio Diritti"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0454876",
+        "OriginalTitle": "Life of Pi",
+        "TitleIT": "Vita di Pi",
+        "Year": 2012,
+        "Directors": ["Ang Lee"],
+        "Countries": ["US", "TW", "UK", "CA"]
+      },
+      {
+        "TitleId": "tt0099012",
+        "OriginalTitle": "Alice",
+        "Year": 1990,
+        "Directors": ["Woody Allen"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0457430",
+        "OriginalTitle": "El laberinto del fauno",
+        "TitleIT": "Il labirinto del fauno",
+        "Year": 2006,
+        "Directors": ["Guillermo del Toro"],
+        "Countries": ["MX", "ES"]
+      },
+      {
+        "TitleId": "tt0180093",
+        "OriginalTitle": "Requiem for a Dream",
+        "Year": 2000,
+        "Directors": ["Darren Aronofsky"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0407887",
+        "OriginalTitle": "The Departed",
+        "TitleIT": "The Departed - Il bene e il male",
+        "Year": 2006,
+        "Directors": ["Martin Scorsese"],
+        "Countries": ["US", "HK"]
+      },
+      {
+        "TitleId": "tt0780504",
+        "OriginalTitle": "Drive",
+        "Year": 2011,
+        "Directors": ["Nicolas Winding Refn"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0114369",
+        "OriginalTitle": "Se7en",
+        "TitleIT": "Seven",
+        "Year": 1995,
+        "Directors": ["David Fincher"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0210945",
+        "OriginalTitle": "Remember the Titans",
+        "TitleIT": "Il sapore della vittoria - Uniti si vince",
+        "Year": 2000,
+        "Directors": ["Boaz Yakin"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0064276",
+        "OriginalTitle": "Easy Rider",
+        "Year": 1969,
+        "Directors": ["Dennis Hopper"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0396171",
+        "OriginalTitle": "Perfume: The Story of a Murderer",
+        "TitleIT": "Profumo - Storia di un assassino",
+        "Year": 2006,
+        "Directors": ["Tom Tykwer"],
+        "Countries": ["DE", "FR", "ES", "US", "BE"]
+      },
+      {
+        "TitleId": "tt0097870",
+        "OriginalTitle": "Mery per sempre",
+        "Year": 1989,
+        "Directors": ["Marco Risi"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0110912",
+        "OriginalTitle": "Pulp Fiction",
+        "Year": 1994,
+        "Directors": ["Quentin Tarantino"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0099685",
+        "OriginalTitle": "Goodfellas",
+        "TitleIT": "Quei bravi ragazzi",
+        "Year": 1990,
+        "Directors": ["Martin Scorsese"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1951261",
+        "OriginalTitle": "The Hangover Part III",
+        "TitleIT": "Una notte da leoni 3",
+        "Year": 2013,
+        "Directors": ["Todd Phillips"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1276104",
+        "OriginalTitle": "Looper",
+        "Year": 2012,
+        "Directors": ["Rian Johnson"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0209144",
+        "OriginalTitle": "Memento",
+        "Year": 2000,
+        "Directors": ["Christopher Nolan"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1024715",
+        "OriginalTitle": "Choke",
+        "TitleIT": "Soffocare",
+        "Year": 2008,
+        "Directors": ["Clark Gregg"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0424136",
+        "OriginalTitle": "Hard Candy",
+        "Year": 2005,
+        "Directors": ["David Slade"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0106519",
+        "OriginalTitle": "Carlito's Way",
+        "Year": 1993,
+        "Directors": ["Brian De Palma"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0384806",
+        "OriginalTitle": "The Amityville Horror",
+        "TitleIT": "Amityville Horror",
+        "Year": 2005,
+        "Directors": ["Andrew Douglas"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0452623",
+        "OriginalTitle": "Gone Baby Gone",
+        "Year": 2007,
+        "Directors": ["Ben Affleck"],
+        "Countries": ["US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 2,
+    "Movies": [
+      {
+        "TitleId": "tt0796366",
+        "OriginalTitle": "Star Trek",
+        "Year": 2009,
+        "Directors": ["J.J. Abrams"],
+        "Countries": ["US", "DE"]
+      },
+      {
+        "TitleId": "tt0366627",
+        "OriginalTitle": "The Jacket",
+        "Year": 2005,
+        "Directors": ["John Maybury"],
+        "Countries": ["US", "DE"]
+      },
+      {
+        "TitleId": "tt0081505",
+        "OriginalTitle": "The Shining",
+        "TitleIT": "Shining",
+        "Year": 1980,
+        "Directors": ["Stanley Kubrick"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0084646",
+        "OriginalTitle": "Scusate il ritardo",
+        "Year": 1983,
+        "Directors": ["Massimo Troisi"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt1078588",
+        "OriginalTitle": "My Sister's Keeper",
+        "TitleIT": "La custode di mia sorella",
+        "Year": 2009,
+        "Directors": ["Nick Cassavetes"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0072637",
+        "OriginalTitle": "Amici miei",
+        "Year": 1975,
+        "Directors": ["Mario Monicelli"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0075686",
+        "OriginalTitle": "Annie Hall",
+        "TitleIT": "Io e Annie",
+        "Year": 1977,
+        "Directors": ["Woody Allen"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1924396",
+        "OriginalTitle": "La migliore offerta",
+        "Year": 2013,
+        "Directors": ["Giuseppe Tornatore"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0033563",
+        "OriginalTitle": "Dumbo",
+        "Year": 1941,
+        "Directors": ["Samuel Armstrong", "Norman Ferguson", "Wilfred Jackson", "Jack Kinney", "Bill Roberts", "Ben Sharpsteen", "John Elliotte"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0133093",
+        "OriginalTitle": "The Matrix",
+        "TitleIT": "Matrix",
+        "Year": 1999,
+        "Directors": ["Lana Wachowski", "Lilly Wachowski"],
+        "Countries": ["US", "AU"]
+      },
+      {
+        "TitleId": "tt0119282",
+        "OriginalTitle": "Hercules",
+        "Year": 1997,
+        "Directors": ["Ron Clements", "John Musker"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1417592",
+        "OriginalTitle": "Pearl Jam Twenty",
+        "Year": 2011,
+        "Directors": ["Cameron Crowe"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0120663",
+        "OriginalTitle": "Eyes Wide Shut",
+        "Year": 1999,
+        "Directors": ["Stanley Kubrick"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0046521",
+        "OriginalTitle": "I vitelloni",
+        "Year": 1953,
+        "Directors": ["Federico Fellini"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt0371724",
+        "OriginalTitle": "The Hitchhiker's Guide to the Galaxy",
+        "TitleIT": "Guida galattica per autostoppisti",
+        "Year": 2005,
+        "Directors": ["Garth Jennings"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0765429",
+        "OriginalTitle": "American Gangster",
+        "Year": 2007,
+        "Directors": ["Ridley Scott"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0457939",
+        "OriginalTitle": "The Holiday",
+        "TitleIT": "L'amore non va in vacanza",
+        "Year": 2006,
+        "Directors": ["Nancy Meyers"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0114814",
+        "OriginalTitle": "The Usual Suspects",
+        "TitleIT": "I soliti sospetti",
+        "Year": 1995,
+        "Directors": ["Bryan Singer"],
+        "Countries": ["US", "DE"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 3,
+    "Movies": [
+      {
+        "TitleId": "tt1120985",
+        "OriginalTitle": "Blue Valentine",
+        "Year": 2010,
+        "Directors": ["Derek Cianfrance"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0264395",
+        "OriginalTitle": "Basic",
+        "Year": 2003,
+        "Directors": ["John McTiernan"],
+        "Countries": ["DE", "US"]
+      },
+      {
+        "TitleId": "tt0319061",
+        "OriginalTitle": "Big Fish",
+        "TitleIT": "Big Fish - Le storie di una vita incredibile",
+        "Year": 2003,
+        "Directors": ["Tim Burton"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0112461",
+        "OriginalTitle": "The Basketball Diaries",
+        "TitleIT": "Ritorno dal nulla",
+        "Year": 1995,
+        "Directors": ["Scott Kalvert"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0477348",
+        "OriginalTitle": "No Country for Old Men",
+        "TitleIT": "Non è un paese per vecchi",
+        "Year": 2007,
+        "Directors": ["Ethan Coen", "Joel Coen"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt2053463",
+        "OriginalTitle": "Side Effects",
+        "TitleIT": "Effetti Collaterali",
+        "Year": 2013,
+        "Directors": ["Steven Soderbergh"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0078748",
+        "OriginalTitle": "Alien",
+        "Year": 1979,
+        "Directors": ["Ridley Scott"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0245429",
+        "OriginalTitle": "Sen to Chihiro no kamikakushi",
+        "TitleIT": "La città incantata",
+        "Year": 2001,
+        "Directors": ["Hayao Miyazaki"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt0365748",
+        "OriginalTitle": "Shaun of the Dead",
+        "TitleIT": "L'alba dei morti dementi",
+        "Year": 2004,
+        "Directors": ["Edgar Wright"],
+        "Countries": ["UK", "FR", "US"]
+      },
+      {
+        "TitleId": "tt0375679",
+        "OriginalTitle": "Crash",
+        "TitleIT": "Crash: Contatto fisico",
+        "Year": 2004,
+        "Directors": ["Paul Haggis"],
+        "Countries": ["US", "DE", "AU"]
+      },
+      {
+        "TitleId": "tt0073582",
+        "OriginalTitle": "Profondo rosso",
+        "Year": 1975,
+        "Directors": ["Dario Argento"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0325710",
+        "OriginalTitle": "The Last Samurai",
+        "TitleIT": "L'ultimo samurai",
+        "Year": 2003,
+        "Directors": ["Edward Zwick"],
+        "Countries": ["US", "NZ", "JP"]
+      },
+      {
+        "TitleId": "tt1931533",
+        "OriginalTitle": "Seven Psychopaths",
+        "TitleIT": "7 Psicopatici",
+        "Year": 2012,
+        "Directors": ["Martin McDonagh"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt1045658",
+        "OriginalTitle": "Silver Linings Playbook",
+        "TitleIT": "Il lato positivo - Silver Linings Playbook",
+        "Year": 2012,
+        "Directors": ["David O. Russell"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0346491",
+        "OriginalTitle": "Alexander",
+        "Year": 2004,
+        "Directors": ["Oliver Stone"],
+        "Countries": ["US", "UK", "DE", "NL", "FR"]
+      },
+      {
+        "TitleId": "tt0240772",
+        "OriginalTitle": "Ocean's Eleven",
+        "TitleIT": "Ocean's Eleven - Fate il vostro gioco",
+        "Year": 2001,
+        "Directors": ["Steven Soderbergh"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0814314",
+        "OriginalTitle": "Seven Pounds",
+        "TitleIT": "Sette Anime",
+        "Year": 2008,
+        "Directors": ["Gabriele Muccino"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0116209",
+        "OriginalTitle": "The English Patient",
+        "TitleIT": "Il paziente inglese",
+        "Year": 1996,
+        "Directors": ["Anthony Minghella"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt1351685",
+        "OriginalTitle": "Jack the Giant Slayer",
+        "TitleIT": "Il cacciatore di giganti",
+        "Year": 2013,
+        "Directors": ["Bryan Singer"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0073629",
+        "OriginalTitle": "The Rocky Horror Picture Show",
+        "Year": 1975,
+        "Directors": ["Jim Sharman"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0276919",
+        "OriginalTitle": "Dogville",
+        "Year": 2003,
+        "Directors": ["Lars von Trier"],
+        "Countries": ["DK", "NL", "SE", "DE", "UK", "FR", "FI", "NO", "IT"]
+      },
+      {
+        "TitleId": "tt0840361",
+        "OriginalTitle": "The Town",
+        "Year": 2010,
+        "Directors": ["Ben Affleck"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0102926",
+        "OriginalTitle": "The Silence of the Lambs",
+        "TitleIT": "Il silenzio degli innocenti",
+        "Year": 1991,
+        "Directors": ["Jonathan Demme"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0121164",
+        "OriginalTitle": "Corpse Bride",
+        "TitleIT": "La sposa cadavere",
+        "Year": 2005,
+        "Directors": ["Tim Burton", "Mike Johnson"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0099653",
+        "OriginalTitle": "Ghost",
+        "TitleIT": "Ghost - Fantasma",
+        "Year": 1990,
+        "Directors": ["Jerry Zucker"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0065063",
+        "OriginalTitle": "Take the Money and Run",
+        "TitleIT": "Prendi i soldi e scappa",
+        "Year": 1969,
+        "Directors": ["Woody Allen"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0108550",
+        "OriginalTitle": "What's Eating Gilbert Grape",
+        "TitleIT": "Buon compleanno Mr. Grape",
+        "Year": 1993,
+        "Directors": ["Lasse Hallström"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0409459",
+        "OriginalTitle": "Watchmen",
+        "Year": 2009,
+        "Directors": ["Zack Snyder"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0118971",
+        "OriginalTitle": "The Devil's Advocate",
+        "TitleIT": "L'avvocato del diavolo",
+        "Year": 1997,
+        "Directors": ["Taylor Hackford"],
+        "Countries": ["DE", "US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 4,
+    "Movies": [
+      {
+        "TitleId": "tt3374966",
+        "OriginalTitle": "La mafia uccide solo d'estate",
+        "Year": 2013,
+        "Directors": ["Pif"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt1392214",
+        "OriginalTitle": "Prisoners",
+        "Year": 2013,
+        "Directors": ["Denis Villeneuve"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0328107",
+        "OriginalTitle": "Man on Fire",
+        "TitleIT": "Man on Fire - Il fuoco della vendetta",
+        "Year": 2004,
+        "Directors": ["Tony Scott"],
+        "Countries": ["US", "UK", "CH"]
+      },
+      {
+        "TitleId": "tt0101889",
+        "OriginalTitle": "The Fisher King",
+        "TitleIT": "La leggenda del re pescatore",
+        "Year": 1991,
+        "Directors": ["Terry Gilliam"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0111161",
+        "OriginalTitle": "The Shawshank Redemption",
+        "TitleIT": "Le ali della libertà",
+        "Year": 1994,
+        "Directors": ["Frank Darabont"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1560747",
+        "OriginalTitle": "The Master",
+        "Year": 2012,
+        "Directors": ["Paul Thomas Anderson"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0083944",
+        "OriginalTitle": "First Blood",
+        "TitleIT": "Rambo",
+        "Year": 1982,
+        "Directors": ["Ted Kotcheff"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1467304",
+        "OriginalTitle": "The Human Centipede (First Sequence)",
+        "Year": 2009,
+        "Directors": ["Tom Six"],
+        "Countries": ["NL"]
+      },
+      {
+        "TitleId": "tt0107211",
+        "OriginalTitle": "Indecent Proposal",
+        "TitleIT": "Proposta indecente",
+        "Year": 1993,
+        "Directors": ["Adrian Lyne"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0358273",
+        "OriginalTitle": "Walk the Line",
+        "TitleIT": "Quando l'amore brucia l'anima",
+        "Year": 2005,
+        "Directors": ["James Mangold"],
+        "Countries": ["US", "DE"]
+      },
+      {
+        "TitleId": "tt0816692",
+        "OriginalTitle": "Interstellar",
+        "Year": 2014,
+        "Directors": ["Christopher Nolan"],
+        "Countries": ["US", "UK", "CA"]
+      },
+      {
+        "TitleId": "tt0405296",
+        "OriginalTitle": "A Scanner Darkly",
+        "TitleIT": "A Scanner Darkly - Un oscuro scrutare",
+        "Year": 2006,
+        "Directors": ["Richard Linklater"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0268879",
+        "OriginalTitle": "A ruota libera",
+        "Year": 2000,
+        "Directors": ["Vincenzo Salemme"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0110413",
+        "OriginalTitle": "Léon",
+        "Year": 1994,
+        "Directors": ["Luc Besson"],
+        "Countries": ["FR", "US"]
+      },
+      {
+        "TitleId": "tt0070460",
+        "OriginalTitle": "La nuit américaine",
+        "TitleIT": "Effetto notte",
+        "Year": 1973,
+        "Directors": ["François Truffaut"],
+        "Countries": ["FR", "IT"]
+      },
+      {
+        "TitleId": "tt0364569",
+        "OriginalTitle": "Oldeuboi",
+        "TitleIT": "Oldboy",
+        "Year": 2003,
+        "Directors": ["Chan-wook Park"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt0120855",
+        "OriginalTitle": "Tarzan",
+        "Year": 1999,
+        "Directors": ["Chris Buck", "Kevin Lima"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0103064",
+        "OriginalTitle": "Terminator 2: Judgment Day",
+        "TitleIT": "Terminator 2 - Il giorno del giudizio",
+        "Year": 1991,
+        "Directors": ["James Cameron"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0108052",
+        "OriginalTitle": "Schindler's List",
+        "Year": 1993,
+        "Directors": ["Steven Spielberg"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0055913",
+        "OriginalTitle": "Divorzio all'italiana",
+        "Year": 1961,
+        "Directors": ["Pietro Germi"],
+        "Countries": ["IT"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 5,
+    "Movies": [
+      {
+        "TitleId": "tt0031971",
+        "OriginalTitle": "Stagecoach",
+        "TitleIT": "Ombre Rosse",
+        "Year": 1939,
+        "Directors": ["John Ford"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0110148",
+        "OriginalTitle": "Interview with the Vampire: The Vampire Chronicles",
+        "TitleIT": "Intervista col vampiro",
+        "Year": 1994,
+        "Directors": ["Neil Jordan"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0139654",
+        "OriginalTitle": "Training Day",
+        "Year": 2001,
+        "Directors": ["Antoine Fuqua"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0120731",
+        "OriginalTitle": "La leggenda del pianista sull'oceano",
+        "Year": 1998,
+        "Directors": ["Giuseppe Tornatore"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0069704",
+        "OriginalTitle": "American Graffiti",
+        "Year": 1973,
+        "Directors": ["George Lucas"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0097937",
+        "OriginalTitle": "My Left Foot: The Story of Christy Brown",
+        "TitleIT": "Il mio piede sinistro",
+        "Year": 1989,
+        "Directors": ["Jim Sheridan"],
+        "Countries": ["Ireland", "UK"]
+      },
+      {
+        "TitleId": "tt0146838",
+        "OriginalTitle": "Any Given Sunday",
+        "TitleIT": "Ogni maledetta domenica",
+        "Year": 1999,
+        "Directors": ["Oliver Stone"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1220719",
+        "OriginalTitle": "Yip Man",
+        "TitleIT": "Ip Man",
+        "Year": 2008,
+        "Directors": ["Wilson Yip"],
+        "Countries": ["HK", "CN"]
+      },
+      {
+        "TitleId": "tt0061722",
+        "OriginalTitle": "The Graduate",
+        "TitleIT": "Il laureato",
+        "Year": 1967,
+        "Directors": ["Mike Nichols"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt2990836",
+        "OriginalTitle": "L'arte della felicità",
+        "Year": 2013,
+        "Directors": ["Alessandro Rak"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0477302",
+        "OriginalTitle": "Extremely Loud & Incredibly Close",
+        "TitleIT": "Molto forte, incredibilmente vicino",
+        "Year": 2011,
+        "Directors": ["Stephen Daldry"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1056067",
+        "OriginalTitle": "Un giorno perfetto",
+        "Year": 2008,
+        "Directors": ["Ferzan Ozpetek"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt2278871",
+        "OriginalTitle": "La vie d'Adèle",
+        "TitleIT": "La vita di Adele",
+        "Year": 2013,
+        "Directors": ["Abdellatif Kechiche"],
+        "Countries": ["FR", "BE", "ES"]
+      },
+      {
+        "TitleId": "tt0181536",
+        "OriginalTitle": "Finding Forrester",
+        "TitleIT": "Scoprendo Forrester",
+        "Year": 2000,
+        "Directors": ["Gus Van Sant"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0485947",
+        "OriginalTitle": "Mr. Nobody",
+        "Year": 2009,
+        "Directors": ["Jaco Van Dormael"],
+        "Countries": ["BE", "DE", "CA", "FR", "UK", "LU", "US"]
+      },
+      {
+        "TitleId": "tt0080678",
+        "OriginalTitle": "The Elephant Man",
+        "Year": 1980,
+        "Directors": ["David Lynch"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0175880",
+        "OriginalTitle": "Magnolia",
+        "Year": 1999,
+        "Directors": ["Paul Thomas Anderson"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0065889",
+        "OriginalTitle": "Indagine su un cittadino al di sopra di ogni sospetto",
+        "Year": 1970,
+        "Directors": ["Elio Petri"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt3312830",
+        "OriginalTitle": "Youth",
+        "TitleIT": "Youth - La giovinezza",
+        "Year": 2015,
+        "Directors": ["Paolo Sorrentino"],
+        "Countries": ["IT", "FR", "UK", "CH"]
+      },
+      {
+        "TitleId": "tt0120681",
+        "OriginalTitle": "From Hell",
+        "TitleIT": "La vera storia di Jack lo squartatore",
+        "Year": 2001,
+        "Directors": ["Albert Hughes", "Allen Hughes"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1049413",
+        "OriginalTitle": "Up",
+        "Year": 2009,
+        "Directors": ["Pete Docter", "Bob Peterson"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0190332",
+        "OriginalTitle": "Wo hu cang long",
+        "TitleIT": "La tigre e il dragone",
+        "Year": 2000,
+        "Directors": ["Ang Lee"],
+        "Countries": ["TW", "HK", "US", "CN"]
+      },
+      {
+        "TitleId": "tt0071315",
+        "OriginalTitle": "Chinatown",
+        "Year": 1974,
+        "Directors": ["Roman Polanski"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0397101",
+        "OriginalTitle": "The Skeleton Key",
+        "Year": 2005,
+        "Directors": ["Iain Softley"],
+        "Countries": ["US", "DE"]
+      },
+      {
+        "TitleId": "tt0083987",
+        "OriginalTitle": "Gandhi",
+        "Year": 1982,
+        "Directors": ["Richard Attenborough"],
+        "Countries": ["UK", "IN", "US", "ZA"]
+      },
+      {
+        "TitleId": "tt0050083",
+        "OriginalTitle": "12 Angry Men",
+        "TitleIT": "La parola ai giurati",
+        "Year": 1957,
+        "Directors": ["Sidney Lumet"],
+        "Countries": ["US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 6,
+    "Movies": [
+      {
+        "TitleId": "tt0086637",
+        "OriginalTitle": "Zelig",
+        "Year": 1983,
+        "Directors": ["Woody Allen"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0350258",
+        "OriginalTitle": "Ray",
+        "Year": 2004,
+        "Directors": ["Taylor Hackford"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1321860",
+        "OriginalTitle": "The Beaver",
+        "TitleIT": "Mr. Beaver",
+        "Year": 2011,
+        "Directors": ["Jodie Foster"],
+        "Countries": ["US", "AE"]
+      },
+      {
+        "TitleId": "tt0108399",
+        "OriginalTitle": "True Romance",
+        "TitleIT": "Una vita al massimo ",
+        "Year": 1993,
+        "Directors": ["Tony Scott"],
+        "Countries": ["US", "FR"]
+      },
+      {
+        "TitleId": "tt0118715",
+        "OriginalTitle": "The Big Lebowski",
+        "TitleIT": "Il grande Lebowski",
+        "Year": 1998,
+        "Directors": ["Joel Coen", "Ethan Coen"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0838221",
+        "OriginalTitle": "The Darjeeling Limited",
+        "TitleIT": "Il treno per il Darjeeling",
+        "Year": 2007,
+        "Directors": ["Wes Anderson"],
+        "Countries": ["US", "IN"]
+      },
+      {
+        "TitleId": "tt4025514",
+        "OriginalTitle": "Suburra",
+        "Year": 2015,
+        "Directors": ["Stefano Sollima"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt0243133",
+        "OriginalTitle": "The Man Who Wasn't There",
+        "TitleIT": "L'uomo che non c'era",
+        "Year": 2001,
+        "Directors": ["Joel Coen", "Ethan Coen"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0105695",
+        "OriginalTitle": "Unforgiven",
+        "TitleIT": "Gli spietati",
+        "Year": 1992,
+        "Directors": ["Clint Eastwood"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0076759",
+        "OriginalTitle": "Star Wars",
+        "TitleIT": "Guerre Stellari",
+        "Year": 1977,
+        "Directors": ["George Lucas"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0080684",
+        "OriginalTitle": "Star Wars: Episode V - The Empire Strikes Back",
+        "TitleIT": "L'Impero colpisce ancora",
+        "Year": 1980,
+        "Directors": ["Irvin Kershner"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0086190",
+        "OriginalTitle": "Star Wars: Episode VI - Return of the Jedi",
+        "TitleIT": "Il ritorno dello Jedi",
+        "Year": 1983,
+        "Directors": ["Richard Marquand"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0120915",
+        "OriginalTitle": "Star Wars: Episode I - The Phantom Menace",
+        "TitleIT": "Star Wars: Episodio I - La minaccia fantasma",
+        "Year": 1999,
+        "Directors": ["George Lucas"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0121765",
+        "OriginalTitle": "Star Wars: Episode II - Attack of the Clones",
+        "TitleIT": "Star Wars: Episodio II - L'attacco dei cloni",
+        "Year": 2002,
+        "Directors": ["George Lucas"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0121766",
+        "OriginalTitle": "Star Wars: Episode III - Revenge of the Sith",
+        "TitleIT": "Star Wars: Episodio III - La vendetta dei Sith",
+        "Year": 2005,
+        "Directors": ["George Lucas"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0068646",
+        "OriginalTitle": "The Godfather",
+        "TitleIT": "Il padrino",
+        "Year": 1972,
+        "Directors": ["Francis Ford Coppola"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0071562",
+        "OriginalTitle": "The Godfather: Part II",
+        "TitleIT": "Il padrino - Parte II",
+        "Year": 1974,
+        "Directors": ["Francis Ford Coppola"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt2488496",
+        "OriginalTitle": "Star Wars: Episode VII - The Force Awakens",
+        "TitleIT": "Star Wars - Il risveglio della Forza",
+        "Year": 2015,
+        "Directors": ["J.J. Abrams"],
+        "Countries": ["US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 7,
+    "Movies": [
+      {
+        "TitleId": "tt0317248",
+        "OriginalTitle": "Cidade de Deus",
+        "TitleIT": "City of God",
+        "Year": 2002,
+        "Directors": ["Fernando Meirelles", "Kátia Lund"],
+        "Countries": ["BR", "FR", "DE"]
+      },
+      {
+        "TitleId": "tt2381249",
+        "OriginalTitle": "Mission: Impossible - Rogue Nation",
+        "Year": 2015,
+        "Directors": ["Christopher McQuarrie"],
+        "Countries": ["US", "CN"]
+      },
+      {
+        "TitleId": "tt0070735",
+        "OriginalTitle": "The Sting",
+        "TitleIT": "La stangata",
+        "Year": 1973,
+        "Directors": ["George Roy Hill"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0070568",
+        "OriginalTitle": "La proprietà non è più un furto",
+        "Year": 1973,
+        "Directors": ["Elio Petri"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt0870984",
+        "OriginalTitle": "Antichrist",
+        "Year": 2009,
+        "Directors": ["Lars von Trier"],
+        "Countries": ["DK", "DE", "FR", "SE", "IT", "PL"]
+      },
+      {
+        "TitleId": "tt3316960",
+        "OriginalTitle": "Still Alice",
+        "Year": 2014,
+        "Directors": ["Richard Glatzer", "Wash Westmoreland"],
+        "Countries": ["US", "UK", "FR"]
+      },
+      {
+        "TitleId": "tt0061132",
+        "OriginalTitle": "Uccellacci e uccellini",
+        "Year": 1966,
+        "Directors": ["Pier Paolo Pasolini"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0057012",
+        "OriginalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "TitleIT": "Il dottor Stranamore - Ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
+        "Year": 1964,
+        "Directors": ["Stanley Kubrick"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0073195",
+        "OriginalTitle": "Jaws",
+        "TitleIT": "Lo squalo",
+        "Year": 1975,
+        "Directors": ["Steven Spielberg"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0470752",
+        "OriginalTitle": "Ex Machina",
+        "Year": 2014,
+        "Directors": ["Alex Garland"],
+        "Countries": ["UK"]
+      },
+      {
+        "TitleId": "tt0079470",
+        "OriginalTitle": "Life of Brian",
+        "TitleIT": "Brian di Nazareth",
+        "Year": 1979,
+        "Directors": ["Terry Jones"],
+        "Countries": ["UK"]
+      },
+      {
+        "TitleId": "tt0091605",
+        "OriginalTitle": "Der Name der Rose",
+        "TitleIT": "Il nome della rosa",
+        "Year": 1986,
+        "Directors": ["Jean-Jacques Annaud"],
+        "Countries": ["XWG", "IT", "FR"]
+      },
+      {
+        "TitleId": "tt1038988",
+        "OriginalTitle": "[Rec]",
+        "TitleIT": "Rec",
+        "Year": 2007,
+        "Directors": ["Jaume Balagueró", "Paco Plaza"],
+        "Countries": ["ES"]
+      },
+      {
+        "TitleId": "tt0898367",
+        "OriginalTitle": "The Road",
+        "Year": 2009,
+        "Directors": ["John Hillcoat"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0069697",
+        "OriginalTitle": "...altrimenti ci arrabbiamo!",
+        "Year": 1974,
+        "Directors": ["Marcello Fondato"],
+        "Countries": ["IT", "ES"]
+      },
+      {
+        "TitleId": "tt0770829",
+        "OriginalTitle": "La ragazza del lago",
+        "Year": 2007,
+        "Directors": ["Andrea Molaioli"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt4176826",
+        "OriginalTitle": "Er ist wieder da",
+        "TitleIT": "Lui è tornato",
+        "Year": 2015,
+        "Directors": ["David Wnendt"],
+        "Countries": ["DE"]
+      },
+      {
+        "TitleId": "tt0338337",
+        "OriginalTitle": "Paycheck",
+        "Year": 2003,
+        "Directors": ["John Woo"],
+        "Countries": ["US", "CA"]
+      },
+      {
+        "TitleId": "tt0414055",
+        "OriginalTitle": "Elizabeth: The Golden Age",
+        "Year": 2007,
+        "Directors": ["Shekhar Kapur"],
+        "Countries": ["UK", "FR", "DE", "US"]
+      },
+      {
+        "TitleId": "tt3278330",
+        "OriginalTitle": "Il racconto dei racconti - Tale of Tales",
+        "Year": 2015,
+        "Directors": ["Matteo Garrone"],
+        "Countries": ["IT", "FR", "UK"]
+      },
+      {
+        "TitleId": "tt0025263",
+        "OriginalTitle": "Hollywood Party",
+        "TitleIT": "La grande festa",
+        "Year": 1934,
+        "Directors": ["Richard Boleslawski", "Allan Dwan", "Edmund Goulding", "Russell Mack", "Charles Reisner", "Roy Rowland", "George Stevens", "Sam Wood"],
+        "Countries": ["US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 8,
+    "Movies": [
+      {
+        "TitleId": "tt1542344",
+        "OriginalTitle": "127 Hours",
+        "TitleIT": "127 ore",
+        "Year": 2010,
+        "Directors": ["Danny Boyle"],
+        "Countries": ["US", "UK", "FR"]
+      },
+      {
+        "TitleId": "tt1189340",
+        "OriginalTitle": "The Lincoln Lawyer",
+        "Year": 2011,
+        "Directors": ["Brad Furman"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1680058",
+        "OriginalTitle": "Boris - Il film",
+        "Year": 2011,
+        "Directors": ["Giacomo Ciarrapico", "Mattia Torre", "Luca Vendruscolo"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0110632",
+        "OriginalTitle": "Natural Born Killers",
+        "TitleIT": "Assassini nati - Natural Born Killers",
+        "Year": 1994,
+        "Directors": ["Oliver Stone"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0089218",
+        "OriginalTitle": "The Goonies",
+        "TitleIT": "I Goonies",
+        "Year": 1985,
+        "Directors": ["Richard Donner"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1821549",
+        "OriginalTitle": "Nebraska",
+        "Year": 2013,
+        "Directors": ["Alexander Payne"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0074958",
+        "OriginalTitle": "Network",
+        "TitleIT": "Quinto potere",
+        "Year": 1976,
+        "Directors": ["Sidney Lumet"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0097123",
+        "OriginalTitle": "Crimes and Misdemeanors",
+        "TitleIT": "Crimini e misfatti",
+        "Year": 1989,
+        "Directors": ["Woody Allen"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0432283",
+        "OriginalTitle": "Fantastic Mr. Fox",
+        "Year": 2009,
+        "Directors": ["Wes Anderson"],
+        "Countries": ["US", "UK"]
+      },
+      {
+        "TitleId": "tt0032553",
+        "OriginalTitle": "The Great Dictator",
+        "TitleIT": "Il grande dittatore",
+        "Year": 1940,
+        "Directors": ["Charles Chaplin"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt3799694",
+        "OriginalTitle": "The Nice Guys",
+        "Year": 2016,
+        "Directors": ["Shane Black"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0102511",
+        "OriginalTitle": "Naked Lunch",
+        "TitleIT": "Il pasto nudo",
+        "Year": 1991,
+        "Directors": ["David Cronenberg"],
+        "Countries": ["CA", "UK", "JP"]
+      },
+      {
+        "TitleId": "tt0053198",
+        "OriginalTitle": "Les quatre cents coups",
+        "TitleIT": "I 400 colpi",
+        "Year": 1959,
+        "Directors": ["François Truffaut"],
+        "Countries": ["FR"]
+      },
+      {
+        "TitleId": "tt0154506",
+        "OriginalTitle": "Following",
+        "Year": 1998,
+        "Directors": ["Christopher Nolan"],
+        "Countries": ["UK"]
+      },
+      {
+        "TitleId": "tt0268995",
+        "OriginalTitle": "The Majestic",
+        "Year": 2001,
+        "Directors": ["Frank Darabont"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1132620",
+        "OriginalTitle": "Män som hatar kvinnor",
+        "TitleIT": "Uomini che odiano le donne",
+        "Year": 2009,
+        "Directors": ["Niels Arden Oplev"],
+        "Countries": ["SE", "DK", "DE", "NO"]
+      },
+      {
+        "TitleId": "tt2080374",
+        "OriginalTitle": "Steve Jobs",
+        "Year": 2015,
+        "Directors": ["Danny Boyle"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0112573",
+        "OriginalTitle": "Braveheart",
+        "TitleIT": "Braveheart - Cuore impavido",
+        "Year": 1995,
+        "Directors": ["Mel Gibson"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0824747",
+        "OriginalTitle": "Changeling",
+        "Year": 2008,
+        "Directors": ["Clint Eastwood"],
+        "Countries": ["US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 9,
+    "Movies": [
+      {
+        "TitleId": "tt0114709",
+        "OriginalTitle": "Toy Story",
+        "TitleIT": "Toy Story - Il mondo dei giocattoli",
+        "Year": 1995,
+        "Directors": ["John Lasseter"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0486822",
+        "OriginalTitle": "Disturbia",
+        "Year": 2007,
+        "Directors": ["D.J. Caruso"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt4263482",
+        "OriginalTitle": "The VVitch: A New-England Folktale",
+        "TitleIT": "The Witch - Vuoi ascoltare una favola?",
+        "Year": 2015,
+        "Directors": ["Robert Eggers"],
+        "Countries": ["US", "CA", "UK"]
+      },
+      {
+        "TitleId": "tt0119164",
+        "OriginalTitle": "The Full Monty",
+        "TitleIT": "Full Monty - Squattrinati organizzati",
+        "Year": 1997,
+        "Directors": ["Peter Cattaneo"],
+        "Countries": ["UK", "IT", "US"]
+      },
+      {
+        "TitleId": "tt3850214",
+        "OriginalTitle": "Dope",
+        "TitleIT": "Dope: Follia e riscatto",
+        "Year": 2015,
+        "Directors": ["Rick Famuyiwa"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1527186",
+        "OriginalTitle": "Melancholia",
+        "Year": 2011,
+        "Directors": ["Lars von Trier"],
+        "Countries": ["DK", "SE", "FR", "DE"]
+      },
+      {
+        "TitleId": "tt0397535",
+        "OriginalTitle": "Memoirs of a Geisha",
+        "TitleIT": "Memorie di una geisha",
+        "Year": 2005,
+        "Directors": ["Rob Marshall"],
+        "Countries": ["FR", "JP", "US"]
+      },
+      {
+        "TitleId": "tt0379889",
+        "OriginalTitle": "The Merchant of Venice",
+        "TitleIT": "Il mercante di Venezia",
+        "Year": 2004,
+        "Directors": ["Michael Radford"],
+        "Countries": ["UK", "IT", "LU", "US"]
+      },
+      {
+        "TitleId": "tt2140479",
+        "OriginalTitle": "The Accountant",
+        "Year": 2016,
+        "Directors": ["Gavin O'Connor"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0076786",
+        "OriginalTitle": "Suspiria",
+        "Year": 1977,
+        "Directors": ["Dario Argento"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0096256",
+        "OriginalTitle": "They Live",
+        "TitleIT": "Essi vivono",
+        "Year": 1988,
+        "Directors": ["John Carpenter"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0082158",
+        "OriginalTitle": "Chariots of Fire",
+        "TitleIT": "Momenti di gloria",
+        "Year": 1981,
+        "Directors": ["Hugh Hudson"],
+        "Countries": ["UK"]
+      },
+      {
+        "TitleId": "tt0099077",
+        "OriginalTitle": "Awakenings",
+        "TitleIT": "Risvegli",
+        "Year": 1990,
+        "Directors": ["Penny Marshall"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0362478",
+        "OriginalTitle": "The Box",
+        "Year": 2009,
+        "Directors": ["Richard Kelly"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0424880",
+        "OriginalTitle": "Candy",
+        "TitleIT": "Paradiso + Inferno",
+        "Year": 2006,
+        "Directors": ["Neil Armfield"],
+        "Countries": ["AU"]
+      },
+      {
+        "TitleId": "tt0120601",
+        "OriginalTitle": "Being John Malkovich",
+        "TitleIT": "Essere John Malkovich",
+        "Year": 1999,
+        "Directors": ["Spike Jonze"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt4645368",
+        "OriginalTitle": "Juste la fin du monde",
+        "TitleIT": "E' solo la fine del mondo",
+        "Year": 2016,
+        "Directors": ["Xavier Dolan"],
+        "Countries": ["CA", "FR"]
+      },
+      {
+        "TitleId": "tt0117883",
+        "OriginalTitle": "Tesis",
+        "Year": 1996,
+        "Directors": ["Alejandro Amenábar"],
+        "Countries": ["ES"]
+      },
+      {
+        "TitleId": "tt2316411",
+        "OriginalTitle": "Enemy",
+        "Year": 2013,
+        "Directors": ["Denis Villeneuve"],
+        "Countries": ["CA", "ES", "FR"]
+      },
+      {
+        "TitleId": "tt0212720",
+        "OriginalTitle": "Artificial Intelligence: AI",
+        "TitleIT": "A.I. - Intelligenza artificiale",
+        "Year": 2001,
+        "Directors": ["Steven Spielberg"]
+      },
+      {
+        "TitleId": "tt0075860",
+        "OriginalTitle": "Close Encounters of the Third Kind",
+        "TitleIT": "Incontri ravvicinati del terzo tipo",
+        "Year": 1977,
+        "Directors": ["Steven Spielberg"]
+      },
+      {
+        "TitleId": "tt1282140",
+        "OriginalTitle": "Easy A",
+        "TitleIT": "Easy Girl",
+        "Year": 2010,
+        "Directors": ["Will Gluck"]
+      },
+      {
+        "TitleId": "tt0057171",
+        "OriginalTitle": "Ieri oggi domani",
+        "Year": 1963,
+        "Directors": ["Vittorio De Sica"]
+      },
+      {
+        "TitleId": "tt0116922",
+        "OriginalTitle": "Lost Highway",
+        "TitleIT": "Strade perdute",
+        "Year": 1997,
+        "Directors": ["David Lynch"]
+      },
+      {
+        "TitleId": "tt1935179",
+        "OriginalTitle": "Mud",
+        "Year": 2012,
+        "Directors": ["Jeff Nichols"]
+      },
+      {
+        "TitleId": "tt0073650",
+        "OriginalTitle": "Salò o le 120 giornate di Sodoma",
+        "Year": 1975,
+        "Directors": ["Pier Paolo Pasolini"]
+      },
+      {
+        "TitleId": "tt0055399",
+        "OriginalTitle": "Salvatore Giuliano",
+        "Year": 1962,
+        "Directors": ["Francesco Rosi"]
+      },
+      {
+        "TitleId": "tt0259711",
+        "OriginalTitle": "Vanilla Sky",
+        "Year": 2001,
+        "Directors": ["Cameron Crowe"]
+      },
+      {
+        "TitleId": "tt5052448",
+        "OriginalTitle": "Get Out",
+        "TitleIT": "Scappa: Get Out",
+        "Year": 2017,
+        "Directors": ["Jordan Peele"]
+      },
+      {
+        "TitleId": "tt5442430",
+        "OriginalTitle": "Life",
+        "TitleIT": "Life: Non oltrepassare il limite",
+        "Year": 2017,
+        "Directors": ["Daniel Espinosa"]
+      },
+      {
+        "TitleId": "tt0065571",
+        "OriginalTitle": "Il conformista",
+        "Year": 1970,
+        "Directors": ["Bernardo Bertolucci"]
+      },
+      {
+        "TitleId": "tt0094721",
+        "OriginalTitle": "Beetlejuice",
+        "TitleIT": "Beetlejuice - Spiritello Porcello",
+        "Year": 1988,
+        "Directors": ["Tim Burton"]
+      },
+      {
+        "TitleId": "tt0102426",
+        "OriginalTitle": "Mediterraneo",
+        "Year": 1991,
+        "Directors": ["Gabriele Salvatores"]
+      },
+      {
+        "TitleId": "tt0166476",
+        "OriginalTitle": "Amore tossico",
+        "Year": 1983,
+        "Directors": ["Claudio Caligari"]
+      },
+      {
+        "TitleId": "tt0094291",
+        "OriginalTitle": "Wall Street",
+        "Year": 1987,
+        "Directors": ["Oliver Stone"]
+      },
+      {
+        "TitleId": "tt3774790",
+        "OriginalTitle": "400 Days",
+        "TitleIT": "400 giorni - Simulazione spazio",
+        "Year": 2015,
+        "Directors": ["Matt Osterman"]
+      },
+      {
+        "TitleId": "tt5186714",
+        "OriginalTitle": "Forushande",
+        "TitleIT": "Il Cliente",
+        "Year": 2016,
+        "Directors": ["Asghar Farhadi"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 10,
+    "Movies": [
+      {
+        "TitleId": "tt2273657",
+        "OriginalTitle": "True Story",
+        "Year": 2015,
+        "Directors": ["Rupert Goold"]
+      },
+      {
+        "TitleId": "tt0053291",
+        "OriginalTitle": "Some Like It Hot",
+        "TitleIT": "A qualcuno piace caldo",
+        "Year": 1959,
+        "Directors": ["Billy Wilder"]
+      },
+      {
+        "TitleId": "tt5536736",
+        "OriginalTitle": "The Meyerowitz Stories (New and Selected)",
+        "Year": 2017,
+        "Directors": ["Noah Baumbach"]
+      },
+      {
+        "TitleId": "tt0119177",
+        "OriginalTitle": "Gattaca",
+        "TitleIT": "Gattaca - La porta dell'universo",
+        "Year": 1997,
+        "Directors": ["Andrew Niccol"]
+      },
+      {
+        "TitleId": "tt0109445",
+        "OriginalTitle": "Clerks",
+        "TitleIT": "Clerks - Commessi",
+        "Year": 1994,
+        "Directors": ["Kevin Smith"]
+      },
+      {
+        "TitleId": "tt2547584",
+        "OriginalTitle": "The Light Between Oceans",
+        "TitleIT": "La luce sugli oceani",
+        "Year": 2016,
+        "Directors": ["Derek Cianfrance"]
+      },
+      {
+        "TitleId": "tt1063669",
+        "OriginalTitle": "Die Welle",
+        "TitleIT": "L'onda",
+        "Year": 2008,
+        "Directors": ["Dennis Gansel"]
+      },
+      {
+        "TitleId": "tt0195685",
+        "OriginalTitle": "Erin Brockovich",
+        "TitleIT": "Erin Brockovich - Forte come la verità",
+        "Year": 2000,
+        "Directors": ["Steven Soderbergh"]
+      },
+      {
+        "TitleId": "tt0181689",
+        "OriginalTitle": "Minority Report",
+        "Year": 2002,
+        "Directors": ["Steven Spielberg"]
+      },
+      {
+        "TitleId": "tt0077928",
+        "OriginalTitle": "Midnight Express",
+        "TitleIT": "Fuga di mezzanotte",
+        "Year": 1978,
+        "Directors": ["Alan Parker"]
+      },
+      {
+        "TitleId": "tt5580390",
+        "OriginalTitle": "The Shape of Water",
+        "TitleIT": "La forma dell'acqua - The Shape of Water",
+        "Year": 2017,
+        "Directors": ["Guillermo del Toro"]
+      },
+      {
+        "TitleId": "tt5109784",
+        "OriginalTitle": "Mother!",
+        "TitleIT": "Madre!",
+        "Year": 2017,
+        "Directors": ["Darren Aronofsky"]
+      },
+      {
+        "TitleId": "tt3553976",
+        "OriginalTitle": "Captain Fantastic",
+        "Year": 2016,
+        "Directors": ["Matt Ross"]
+      },
+      {
+        "TitleId": "tt0256009",
+        "OriginalTitle": "El espinazo del diablo",
+        "TitleIT": "La spina del diavolo",
+        "Year": 2001,
+        "Directors": ["Guillermo del Toro"]
+      },
+      {
+        "TitleId": "tt0251160",
+        "OriginalTitle": "John Q",
+        "Year": 2002,
+        "Directors": ["Nick Cassavetes"]
+      },
+      {
+        "TitleId": "tt0071524",
+        "OriginalTitle": "The Front Page",
+        "TitleIT": "Prima pagina",
+        "Year": 1974,
+        "Directors": ["Billy Wilder"]
+      },
+      {
+        "TitleId": "tt0057413",
+        "OriginalTitle": "The Pink Panther",
+        "TitleIT": "La pantera rosa",
+        "Year": 1963,
+        "Directors": ["Blake Edwards"]
+      },
+      {
+        "TitleId": "tt2106476",
+        "OriginalTitle": "Jagten",
+        "TitleIT": "Il sospetto",
+        "Year": 2012,
+        "Directors": ["Thomas Vinterberg"]
+      },
+      {
+        "TitleId": "tt0247199",
+        "OriginalTitle": "The Believer",
+        "Year": 2001,
+        "Directors": ["Henry Bean"]
+      },
+      {
+        "TitleId": "tt0295671",
+        "OriginalTitle": "L'uomo in più",
+        "Year": 2001,
+        "Directors": ["Paolo Sorrentino"]
+      },
+      {
+        "TitleId": "tt0053472",
+        "OriginalTitle": "À bout de souffle",
+        "TitleIT": "Fino all'ultimo respiro",
+        "Year": 1960,
+        "Directors": ["Jean-Luc Godard"]
+      },
+      {
+        "TitleId": "tt0399201",
+        "OriginalTitle": "The Island",
+        "Year": 2005,
+        "Directors": ["Micheal Bay"]
+      },
+      {
+        "TitleId": "tt3778644",
+        "OriginalTitle": "Solo: A Star Wars Story",
+        "Year": 2018,
+        "Directors": ["Ron Howard"]
+      },
+      {
+        "TitleId": "tt2101473",
+        "OriginalTitle": "The Physician",
+        "TitleIT": "Medicus",
+        "Year": 2013,
+        "Directors": ["Philipp Stölzl"]
+      },
+      {
+        "TitleId": "tt0250258",
+        "OriginalTitle": "Das Experiment",
+        "TitleIT": "The Experiment - Cercasi cavie umane",
+        "Year": 2001,
+        "Directors": ["Oliver Hirschbiegel"]
+      },
+      {
+        "TitleId": "tt0098360",
+        "OriginalTitle": "Sono otoko, kyôbô ni tsuki",
+        "TitleIT": "Violent Cop",
+        "Year": 1989,
+        "Directors": ["Takeshi Kitano"]
+      },
+      {
+        "TitleId": "tt3890160",
+        "OriginalTitle": "Baby Driver",
+        "TitleIT": "Baby Driver - Il genio della fuga",
+        "Year": 2017,
+        "Directors": ["Edgar Wright"]
+      },
+      {
+        "TitleId": "tt1833844",
+        "OriginalTitle": "Berberian Sound Studio",
+        "Year": 2012,
+        "Directors": ["Peter Strickland"]
+      },
+      {
+        "TitleId": "tt0405094",
+        "OriginalTitle": "Das Leben der Anderen",
+        "TitleIT": "Le vite degli altri",
+        "Year": 2006,
+        "Directors": ["Florian Henckel von Donnersmarck"]
+      },
+      {
+        "TitleId": "tt0129794",
+        "OriginalTitle": "Un borghese piccolo piccolo",
+        "Year": 1977,
+        "Directors": ["Mario Monicelli"]
+      },
+      {
+        "TitleId": "tt1590193",
+        "OriginalTitle": "The Commuter",
+        "TitleIT": "L'uomo sul treno",
+        "Year": 2018,
+        "Directors": ["Jaume Collet-Serra"]
+      },
+      {
+        "TitleId": "tt0052893",
+        "OriginalTitle": "Hiroshima mon amour",
+        "Year": 1959,
+        "Directors": ["Alain Resnais"]
+      },
+      {
+        "TitleId": "tt0217869",
+        "OriginalTitle": "Unbreakable",
+        "TitleIT": "Unbreakable - Il predestinato",
+        "Year": 2000,
+        "Directors": ["M. Night Shyamalan"]
+      },
+      {
+        "TitleId": "tt2380307",
+        "OriginalTitle": "Coco",
+        "Year": 2017,
+        "Directors": ["Lee Unkrich", "Adrian Molina"]
+      },
+      {
+        "TitleId": "tt1499666",
+        "OriginalTitle": "Kimssi pyoryugi",
+        "TitleIT": "Castaway on the Moon",
+        "Year": 2009,
+        "Directors": ["Hae-jun Lee"]
+      },
+      {
+        "TitleId": "tt0166175",
+        "OriginalTitle": "East Is East",
+        "Year": 1999,
+        "Directors": ["Damien O'Donnell"]
+      },
+      {
+        "TitleId": "tt0310775",
+        "OriginalTitle": "Boksuneun naui geot",
+        "TitleIT": "Mr. Vendetta",
+        "Year": 2002,
+        "Directors": ["Chan-wook Park"]
+      },
+      {
+        "TitleId": "tt6768578",
+        "OriginalTitle": "Dogman",
+        "Year": 2018,
+        "Directors": ["Matteo Garrone"]
+      },
+      {
+        "TitleId": "tt1213641",
+        "OriginalTitle": "First Man",
+        "TitleIT": "First Man - Il primo uomo",
+        "Year": 2018,
+        "Directors": ["Damien Chazelle"]
+      },
+      {
+        "TitleId": "tt0765443",
+        "OriginalTitle": "Eastern Promises",
+        "TitleIT": "La promessa dell'assassino",
+        "Year": 2007,
+        "Directors": ["David Cronenberg"]
+      },
+      {
+        "TitleId": "tt6412452",
+        "OriginalTitle": "The Ballad of Buster Scruggs",
+        "TitleIT": "La ballata di Buster Scruggs",
+        "Year": 2018,
+        "Directors": ["Ethan Coen", "Joel Coen"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 11,
+    "Movies": [
+      {
+        "TitleId": "tt0399295",
+        "OriginalTitle": "Lord of War",
+        "Year": 2005,
+        "Directors": ["Andrew Niccol"]
+      },
+      {
+        "TitleId": "tt0082034",
+        "OriginalTitle": "Asso",
+        "Year": 1981,
+        "Directors": ["Franco Castellano", "Giuseppe Moccia"]
+      },
+      {
+        "TitleId": "tt2873282",
+        "OriginalTitle": "Red Sparrow",
+        "Year": 2018,
+        "Directors": ["Francis Lawrence"]
+      },
+      {
+        "TitleId": "tt0805564",
+        "OriginalTitle": "Lars and the Real Girl",
+        "TitleIT": "Lars e una ragazza tutta sua",
+        "Year": 2007,
+        "Directors": ["Craig Gillespie"]
+      },
+      {
+        "TitleId": "tt0088680",
+        "OriginalTitle": "After Hours",
+        "TitleIT": "Fuori orario",
+        "Year": 1985,
+        "Directors": ["Martin Scorsese"]
+      },
+      {
+        "TitleId": "tt0070511",
+        "OriginalTitle": "Papillon",
+        "Year": 1973,
+        "Directors": ["Franklin J. Schaffner"]
+      },
+      {
+        "TitleId": "tt0109592",
+        "OriginalTitle": "Dellamorte Dellamore",
+        "Year": 1994,
+        "Directors": ["Michele Soavi"]
+      },
+      {
+        "TitleId": "tt6966692",
+        "OriginalTitle": "Green Book",
+        "Year": 2018,
+        "Directors": ["Peter Farrelly"]
+      },
+      {
+        "TitleId": "tt0097351",
+        "OriginalTitle": "Field of Dreams",
+        "TitleIT": "L'uomo dei sogni",
+        "Year": 1989,
+        "Directors": ["Phil Alden Robinson"]
+      },
+      {
+        "TitleId": "tt7349662",
+        "OriginalTitle": "BlacKkKlansman",
+        "Year": 2018,
+        "Directors": ["Spike Lee"]
+      },
+      {
+        "TitleId": "tt4653492",
+        "OriginalTitle": "Easy",
+        "TitleIT": "Easy - Un viaggio facile facile",
+        "Year": 2017,
+        "Directors": ["Andrea Magnani"]
+      },
+      {
+        "TitleId": "tt1485796",
+        "OriginalTitle": "The Greatest Showman",
+        "Year": 2017,
+        "Directors": ["Michael Gracey"]
+      },
+      {
+        "TitleId": "tt1318517",
+        "OriginalTitle": "The Man Who Killed Don Quixote",
+        "TitleIT": "L'uomo che uccise Don Chisciotte",
+        "Year": 2018,
+        "Directors": ["Terry Gilliam"]
+      },
+      {
+        "TitleId": "tt0055630",
+        "OriginalTitle": "Yôjinbô",
+        "TitleIT": "La sfida del samurai",
+        "Year": 1961,
+        "Directors": ["Akira Kurosawa"]
+      },
+      {
+        "TitleId": "tt5715874",
+        "OriginalTitle": "The Killing of a Sacred Deer",
+        "TitleIT": "Il sacrificio del cervo sacro",
+        "Year": 2017,
+        "Directors": ["Yorgos Lanthimos"]
+      },
+      {
+        "TitleId": "tt4857264",
+        "OriginalTitle": "Contratiempo",
+        "TitleIT": "Contrattempo",
+        "Year": 2016,
+        "Directors": ["Oriol Paulo"]
+      },
+      {
+        "TitleId": "tt0079839",
+        "OriginalTitle": "Un sacco bello",
+        "Year": 1980,
+        "Directors": ["Carlo Verdone"]
+      },
+      {
+        "TitleId": "tt0787524",
+        "OriginalTitle": "The Man Who Knew Infinity",
+        "TitleIT": "L'uomo che vide l'infinito",
+        "Year": 2015,
+        "Directors": ["Matt Brown"]
+      },
+      {
+        "TitleId": "tt1623205",
+        "OriginalTitle": "Oz the Great and Powerful",
+        "TitleIT": "Il grande e potente Oz",
+        "Year": 2013,
+        "Directors": ["Sam Raimi"]
+      },
+      {
+        "TitleId": "tt0043014",
+        "OriginalTitle": "Sunset Blvd.",
+        "TitleIT": "Viale del tramonto",
+        "Year": 1950,
+        "Directors": ["Billy Wilder"]
+      },
+      {
+        "TitleId": "tt0120201",
+        "OriginalTitle": "Starship Troopers",
+        "TitleIT": "Starship Troopers - Fanteria dello spazio",
+        "Year": 1997,
+        "Directors": ["Paul Verhoeven"]
+      },
+      {
+        "TitleId": "tt0103874",
+        "OriginalTitle": "Dracula",
+        "TitleIT": "Dracula di Bram Stoker",
+        "Year": 1992,
+        "Directors": ["Francis Ford Coppola"]
+      },
+      {
+        "TitleId": "tt0119468",
+        "OriginalTitle": "Kiss the Girls",
+        "TitleIT": "Il collezionista",
+        "Year": 1997,
+        "Directors": ["Gary Fleder"]
+      },
+      {
+        "TitleId": "tt0101507",
+        "OriginalTitle": "Boyz n the Hood",
+        "TitleIT": "Boyz n the Hood - Strade violente",
+        "Year": 1991,
+        "Directors": ["John Singleton"]
+      },
+      {
+        "TitleId": "tt0060390",
+        "OriginalTitle": "Fahrenheit 451",
+        "Year": 1966,
+        "Directors": ["François Truffaut"]
+      },
+      {
+        "TitleId": "tt0266308",
+        "OriginalTitle": "Batoru rowaiaru",
+        "TitleIT": "Battle Royale",
+        "Year": 2000,
+        "Directors": ["Kinji Fukasaku"]
+      },
+      {
+        "TitleId": "tt7188002",
+        "OriginalTitle": "Capri-Revolution",
+        "Year": 2018,
+        "Directors": ["Mario Martone"]
+      },
+      {
+        "TitleId": "tt0461179",
+        "OriginalTitle": "Cose da pazzi",
+        "Year": 2005,
+        "Directors": ["Vincenzo Salemme"]
+      },
+      {
+        "TitleId": "tt0048605",
+        "OriginalTitle": "The Seven Year Itch",
+        "TitleIT": "Quando la moglie è in vacanza",
+        "Year": 1955,
+        "Directors": ["Billy Wilder"]
+      },
+      {
+        "TitleId": "tt0106677",
+        "OriginalTitle": "Dazed and Confused",
+        "TitleIT": "La vita è un sogno",
+        "Year": 1993,
+        "Directors": ["Richard Linklater"]
+      },
+      {
+        "TitleId": "tt0095159",
+        "OriginalTitle": "A Fish Called Wanda",
+        "TitleIT": "Un pesce di nome Wanda",
+        "Year": 1988,
+        "Directors": ["Charles Crichton", "John Cleese"]
+      },
+      {
+        "TitleId": "tt0472043",
+        "OriginalTitle": "Apocalypto",
+        "Year": 2006,
+        "Directors": ["Mel Gibson"]
+      },
+      {
+        "TitleId": "tt0064665",
+        "OriginalTitle": "Midnight Cowboy",
+        "TitleIT": "Un uomo da marciapiede",
+        "Year": 1969,
+        "Directors": ["John Schlesinger"]
+      },
+      {
+        "TitleId": "tt0062271",
+        "OriginalTitle": "Signore & signori",
+        "Year": 1966,
+        "Directors": ["Pietro Germi"]
+      },
+      {
+        "TitleId": "tt6628394",
+        "OriginalTitle": "Bad Times at the El Royale",
+        "TitleIT": "7 sconosciuti a El Royale",
+        "Year": 2018,
+        "Directors": ["Drew Goddard"]
+      },
+      {
+        "TitleId": "tt2333804",
+        "OriginalTitle": "The Zero Theorem",
+        "TitleIT": "The Zero Theorem - Tutto è vanità",
+        "Year": 2013,
+        "Directors": ["Terry Gilliam"]
+      },
+      {
+        "TitleId": "tt0075040",
+        "OriginalTitle": "Pasqualino Settebellezze",
+        "Year": 1975,
+        "Directors": ["Lina Wertmüller"]
+      },
+      {
+        "TitleId": "tt6256546",
+        "OriginalTitle": "Ricordi?",
+        "Year": 2018,
+        "Directors": ["Valerio Mieli"]
+      },
+      {
+        "TitleId": "tt0158371",
+        "OriginalTitle": "Sweet and Lowdown",
+        "TitleIT": "Accordi & disaccordi",
+        "Year": 1999,
+        "Directors": ["Woody Allen"]
+      },
+      {
+        "TitleId": "tt0091837",
+        "OriginalTitle": "Regalo di Natale",
+        "Year": 1986,
+        "Directors": ["Pupi Avati"]
+      },
+      {
+        "TitleId": "tt5580036",
+        "OriginalTitle": "I, Tonya",
+        "TitleIT": "Tonya",
+        "Year": 2017,
+        "Directors": ["Craig Gillespie"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 12,
+    "Movies": [
+      {
+        "TitleId": "tt0054309",
+        "OriginalTitle": "Signori si nasce",
+        "Year": 1960,
+        "Directors": ["Mario Mattoli"]
+      },
+      {
+        "TitleId": "tt7653254",
+        "OriginalTitle": "Marriage Story",
+        "TitleIT": "Storia di un matrimonio",
+        "Year": 2019,
+        "Directors": ["Noah Baumbach"]
+      },
+      {
+        "TitleId": "tt0038787",
+        "OriginalTitle": "Notorious",
+        "TitleIT": "Notorious - L'amante perduta",
+        "Year": 1946,
+        "Directors": ["Alfred Hitchcock"]
+      },
+      {
+        "TitleId": "tt0113870",
+        "OriginalTitle": "Murder in the First",
+        "TitleIT": "L'isola dell'ingiustizia - Alcatraz",
+        "Year": 1995,
+        "Directors": ["Marc Rocco"]
+      },
+      {
+        "TitleId": "tt2172584",
+        "OriginalTitle": "Maps to the Stars",
+        "Year": 2014,
+        "Directors": ["David Cronenberg"]
+      },
+      {
+        "TitleId": "tt0423866",
+        "OriginalTitle": "Bin-jip",
+        "TitleIT": "Ferro 3 - La casa vuota",
+        "Year": 2004,
+        "Directors": ["Ki-duk Kim"]
+      },
+      {
+        "TitleId": "tt0280707",
+        "OriginalTitle": "Gosford Park",
+        "Year": 2001,
+        "Directors": ["Robert Altman"]
+      },
+      {
+        "TitleId": "tt0056291",
+        "OriginalTitle": "Nóz w wodzie",
+        "TitleIT": "Il coltello nell'acqua",
+        "Year": 1962,
+        "Directors": ["Roman Polanski"]
+      },
+      {
+        "TitleId": "tt0054442",
+        "OriginalTitle": "Il vigile",
+        "Year": 1960,
+        "Directors": ["Luigi Zampa"]
+      },
+      {
+        "TitleId": "tt0387898",
+        "OriginalTitle": "Caché",
+        "TitleIT": "Niente da nascondere",
+        "Year": 2005,
+        "Directors": ["Michael Haneke"]
+      },
+      {
+        "TitleId": "tt0068361",
+        "OriginalTitle": "Le charme discret de la bourgeoisie",
+        "TitleIT": "Il fascino discreto della borghesia",
+        "Year": 1972,
+        "Directors": ["Luis Buñuel"]
+      },
+      {
+        "TitleId": "tt1596345",
+        "OriginalTitle": "Pawn Sacrifice",
+        "TitleIT": "La grande partita",
+        "Year": 2014,
+        "Directors": ["Edward Zwick"]
+      },
+      {
+        "TitleId": "tt2866360",
+        "OriginalTitle": "Coherence",
+        "TitleIT": "Coherence - Oltre lo spazio tempo",
+        "Year": 2013,
+        "Directors": ["James Ward Byrkit"]
+      },
+      {
+        "TitleId": "tt0106856",
+        "OriginalTitle": "Falling Down",
+        "TitleIT": "Un giorno di ordinaria follia",
+        "Year": 1993,
+        "Directors": ["Joel Schumacher"]
+      },
+      {
+        "TitleId": "tt0118929",
+        "OriginalTitle": "Dark City",
+        "Year": 1998,
+        "Directors": ["Alex Proyas"]
+      },
+      {
+        "TitleId": "tt8615136",
+        "OriginalTitle": "Hammamet",
+        "Year": 2020,
+        "Directors": ["Gianni Amelio"]
+      },
+      {
+        "TitleId": "tt0245574",
+        "OriginalTitle": "Y tu mamá también",
+        "TitleIT": "Y tu mamá también - Anche tua madre",
+        "Year": 2001,
+        "Directors": ["Alfonso Cuarón"]
+      },
+      {
+        "TitleId": "tt0441909",
+        "OriginalTitle": "Volver",
+        "TitleIT": "Volver - Tornare",
+        "Year": 2006,
+        "Directors": ["Pedro Almodóvar"]
+      },
+      {
+        "TitleId": "tt0065662",
+        "OriginalTitle": "Dramma della gelosia (tutti i particolari in cronaca)",
+        "Year": 1970,
+        "Directors": ["Ettore Scola"]
+      },
+      {
+        "TitleId": "tt0093010",
+        "OriginalTitle": "Fatal Attraction",
+        "TitleIT": "Attrazione fatale",
+        "Year": 1987,
+        "Directors": ["Adrian Lyne"]
+      },
+      {
+        "TitleId": "tt0120669",
+        "OriginalTitle": "Fear and Loathing in Las Vegas",
+        "TitleIT": "Paura e delirio a Las Vegas",
+        "Year": 1998,
+        "Directors": ["Terry Gilliam"]
+      },
+      {
+        "TitleId": "tt0017925",
+        "OriginalTitle": "The General",
+        "TitleIT": "Come vinsi la guerra",
+        "Year": 1926,
+        "Directors": ["Clyde Bruckman", "Buster Keaton"]
+      },
+      {
+        "TitleId": "tt1878870",
+        "OriginalTitle": "The Edge of Seventeen",
+        "TitleIT": "17 anni (e come uscirne vivi)",
+        "Year": 2016,
+        "Directors": ["Kelly Fremon Craig"]
+      },
+      {
+        "TitleId": "tt0113824",
+        "OriginalTitle": "Mimi wo sumaseba",
+        "TitleIT": "I sospiri del mio cuore",
+        "Year": 1995,
+        "Directors": ["Yoshifumi Kondô"]
+      },
+      {
+        "TitleId": "tt0245712",
+        "OriginalTitle": "Amores perros",
+        "Year": 2000,
+        "Directors": ["Alejandro G. Iñárritu"]
+      },
+      {
+        "TitleId": "tt0032976",
+        "OriginalTitle": "Rebecca",
+        "TitleIT": "Rebecca - La prima moglie",
+        "Year": 1940,
+        "Directors": ["Alfred Hitchcock"]
+      },
+      {
+        "TitleId": "tt0080539",
+        "OriginalTitle": "La città delle donne",
+        "Year": 1980,
+        "Directors": ["Federico Fellini"]
+      },
+      {
+        "TitleId": "tt11464826",
+        "OriginalTitle": "The Social Dilemma",
+        "Year": 2020,
+        "Directors": ["Jeff Orlowski"]
+      },
+      {
+        "TitleId": "tt0053032",
+        "OriginalTitle": "I magliari",
+        "Year": 1959,
+        "Directors": ["Francesco Rosi"]
+      },
+      {
+        "TitleId": "tt0104503",
+        "OriginalTitle": "In the Soup",
+        "TitleIT": "In the Soup (Un mare di guai)",
+        "Year": 1992,
+        "Directors": ["Alexandre Rockwell"]
+      },
+      {
+        "TitleId": "tt2291540",
+        "OriginalTitle": "My Friend Dahmer",
+        "Year": 2017,
+        "Directors": ["Marc Meyers"]
+      },
+      {
+        "TitleId": "tt5691670",
+        "OriginalTitle": "Under the Silver Lake",
+        "Year": 2018,
+        "Directors": ["David Robert Mitchell"]
+      },
+      {
+        "TitleId": "tt0053134",
+        "OriginalTitle": "Ohayô",
+        "TitleIT": "Buon giorno",
+        "Year": 1959,
+        "Directors": ["Yasujirô Ozu"]
+      },
+      {
+        "TitleId": "tt8478554",
+        "OriginalTitle": "Volevo nascondermi",
+        "Year": 2020,
+        "Directors": ["Giorgio Diritti"]
+      },
+      {
+        "TitleId": "tt1320082",
+        "OriginalTitle": "Le concert",
+        "TitleIT": "Il concerto",
+        "Year": 2009,
+        "Directors": ["Radu Mihaileanu"]
+      },
+      {
+        "TitleId": "tt0118694",
+        "OriginalTitle": "Fa yeung nin wah",
+        "TitleIT": "In the Mood for Love",
+        "Year": 2000,
+        "Directors": ["Kar-Wai Wong"]
+      },
+      {
+        "TitleId": "tt0097216",
+        "OriginalTitle": "Do the Right Thing",
+        "TitleIT": "Fa' la cosa giusta",
+        "Year": 1989,
+        "Directors": ["Spike Lee"]
+      },
+      {
+        "TitleId": "tt0091763",
+        "OriginalTitle": "Platoon",
+        "Year": 1986,
+        "Directors": ["Oliver Stone"]
+      },
+      {
+        "TitleId": "tt0048021",
+        "OriginalTitle": "Du rififi chez les hommes",
+        "TitleIT": "Rififi",
+        "Year": 1955,
+        "Directors": ["Jules Dassin"]
+      },
+      {
+        "TitleId": "tt1226837",
+        "OriginalTitle": "Beautiful Boy",
+        "Year": 2018,
+        "Directors": ["Felix van Groeningen"]
+      },
+      {
+        "TitleId": "tt3469910",
+        "OriginalTitle": "Bai ri yan huo",
+        "TitleIT": "Fuochi d'artificio in pieno giorno",
+        "Year": 2014,
+        "Directors": ["Yi'nan Diao"]
+      },
+      {
+        "TitleId": "tt0066988",
+        "OriginalTitle": "Detenuto in attesa di giudizio",
+        "Year": 1971,
+        "Directors": ["Nanni Loy"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 13,
+    "Movies": [
+      {
+        "TitleId": "tt0268126",
+        "OriginalTitle": "Adaptation.",
+        "TitleIT": "Il ladro di orchidee",
+        "Year": 2002,
+        "Directors": ["Spike Jonze"]
+      },
+      {
+        "TitleId": "tt4016934",
+        "OriginalTitle": "Ah-ga-ssi",
+        "TitleIT": "Mademoiselle",
+        "Year": 2016,
+        "Directors": ["Chan-wook Park"]
+      },
+      {
+        "TitleId": "tt0050976",
+        "OriginalTitle": "Det sjunde inseglet",
+        "TitleIT": "Il settimo sigillo",
+        "Year": 1957,
+        "Directors": ["Ingmar Bergman"]
+      },
+      {
+        "TitleId": "tt0109707",
+        "OriginalTitle": "Ed Wood",
+        "Year": 1994,
+        "Directors": ["Tim Burton"]
+      },
+      {
+        "TitleId": "tt8903840",
+        "OriginalTitle": "Alice et le maire",
+        "TitleIT": "Alice E Il Sindaco",
+        "Year": 2019,
+        "Directors": ["Nicolas Pariser"]
+      },
+      {
+        "TitleId": "tt0097051",
+        "OriginalTitle": "Che ora è?",
+        "Year": 1989,
+        "Directors": ["Ettore Scola"]
+      },
+      {
+        "TitleId": "tt7984734",
+        "OriginalTitle": "The Lighthouse",
+        "Year": 2019,
+        "Directors": ["Robert Eggers"]
+      },
+      {
+        "TitleId": "tt10288566",
+        "OriginalTitle": "Druk",
+        "TitleIT": "Un altro giro",
+        "Year": 2020,
+        "Directors": ["Thomas Vinterberg"]
+      },
+      {
+        "TitleId": "tt8637428",
+        "OriginalTitle": "The Farewell",
+        "TitleIT": "The Farewell - una bugia buona",
+        "Year": 2019,
+        "Directors": ["Lulu Wang"]
+      },
+      {
+        "TitleId": "tt0374546",
+        "OriginalTitle": "Bom Yeoareum Gaeul Gyeoul Geurigo Bom",
+        "TitleIT": "Primavera, estate, autunno, inverno... e ancora primavera",
+        "Year": 2003,
+        "Directors": ["Kim Ki-duk"]
+      },
+      {
+        "TitleId": "tt9770150",
+        "OriginalTitle": "Nomadland",
+        "Year": 2020,
+        "Directors": ["Chloé Zhao"]
+      },
+      {
+        "TitleId": "tt5700672",
+        "OriginalTitle": "Busanhaeng",
+        "TitleIT": "Train to Busan",
+        "Year": 2016,
+        "Directors": ["Sang-ho Yeon"]
+      },
+      {
+        "TitleId": "tt0107808",
+        "OriginalTitle": "A Perfect World",
+        "TitleIT": "Un mondo perfetto",
+        "Year": 1993,
+        "Directors": ["Clint Eastwood"]
+      },
+      {
+        "TitleId": "tt0060125",
+        "OriginalTitle": "L'armata Brancaleone",
+        "Year": 1966,
+        "Directors": ["Mario Monicelli"]
+      },
+      {
+        "TitleId": "tt0052561",
+        "OriginalTitle": "Anatomy of a Murder",
+        "TitleIT": "Anatomia di un omicidio",
+        "Year": 1959,
+        "Directors": ["Otto Preminger"]
+      },
+      {
+        "TitleId": "tt0072431",
+        "OriginalTitle": "Young Frankenstein",
+        "TitleIT": "Frankenstein Junior",
+        "Year": 1974,
+        "Directors": ["Mel Brooks"]
+      },
+      {
+        "TitleId": "tt1136608",
+        "OriginalTitle": "District 9",
+        "Year": 2009,
+        "Directors": ["Neill Blomkamp"]
+      },
+      {
+        "TitleId": "tt10110614",
+        "OriginalTitle": "Mila",
+        "TitleIT": "Apples",
+        "Year": 2020,
+        "Directors": ["Christos Nikou"]
+      },
+      {
+        "TitleId": "tt0053739",
+        "OriginalTitle": "Crimen",
+        "Year": 1960,
+        "Directors": ["Mario Camerini"]
+      },
+      {
+        "TitleId": "tt8613070",
+        "OriginalTitle": "Portrait de la jeune fille en feu",
+        "TitleIT": "Ritratto della giovane in fiamme",
+        "Year": 2019,
+        "Directors": ["Céline Sciamma"]
+      },
+      {
+        "TitleId": "tt0074252",
+        "OriginalTitle": "Brutti, sporchi e cattivi",
+        "Year": 1976,
+        "Directors": ["Ettore Scola"]
+      },
+      {
+        "TitleId": "tt1846487",
+        "OriginalTitle": "Reality",
+        "Year": 2012,
+        "Directors": ["Matteo Garrone"]
+      },
+      {
+        "TitleId": "tt0212712",
+        "OriginalTitle": "2046",
+        "Year": 2004,
+        "Directors": ["Kar-Wai Wong"]
+      },
+      {
+        "TitleId": "tt0107653",
+        "OriginalTitle": "Naked",
+        "TitleIT": "Naked - Nudo",
+        "Year": 1993,
+        "Directors": ["Mike Leigh"]
+      },
+      {
+        "TitleId": "tt1441912",
+        "OriginalTitle": "The Way",
+        "TitleIT": "Il cammino per Santiago",
+        "Year": 2010,
+        "Directors": ["Emilio Estevez"]
+      },
+      {
+        "TitleId": "tt0069467",
+        "OriginalTitle": "Viskningar och rop",
+        "TitleIT": "Sussurri e grida",
+        "Year": 1972,
+        "Directors": ["Ingmar Bergman"]
+      },
+      {
+        "TitleId": "tt0085244",
+        "OriginalTitle": "The Big Chill",
+        "TitleIT": "Il grande freddo",
+        "Year": 1983,
+        "Directors": ["Lawrence Kasdan"]
+      },
+      {
+        "TitleId": "tt14033502",
+        "OriginalTitle": "Babardeala cu bucluc sau porno balamuc",
+        "TitleIT": "Sesso sfortunato o follie porno",
+        "Year": 2021,
+        "Directors": ["Radu Jude"]
+      },
+      {
+        "TitleId": "tt0090185",
+        "OriginalTitle": "Tóngnián wangshì",
+        "Year": 1985,
+        "Directors": ["Hsiao-Hsien Hou"]
+      },
+      {
+        "TitleId": "tt0101765",
+        "OriginalTitle": "La double vie de Véronique",
+        "TitleIT": "La doppia vita di Veronica",
+        "Year": 1991,
+        "Directors": ["Krzysztof Kieslowski"]
+      },
+      {
+        "TitleId": "tt0144294",
+        "OriginalTitle": "La marcia su Roma",
+        "Year": 1962,
+        "Directors": ["Dino Risi"]
+      },
+      {
+        "TitleId": "tt1190539",
+        "OriginalTitle": "Chugyeokja",
+        "TitleIT": "The Chaser",
+        "Year": 2008,
+        "Directors": ["Na Hong-jin"]
+      },
+      {
+        "TitleId": "tt8185182",
+        "OriginalTitle": "Diqiu zuihou de yewan",
+        "TitleIT": "Un lungo viaggio nella notte",
+        "Year": 2018,
+        "Directors": ["Bi Gan"]
+      },
+      {
+        "TitleId": "tt3666024",
+        "OriginalTitle": "La tortue rouge",
+        "TitleIT": "La tartaruga rossa",
+        "Year": 2016,
+        "Directors": ["Michael Dudok de Wit"]
+      },
+      {
+        "TitleId": "tt0087553",
+        "OriginalTitle": "The Killing Fields",
+        "TitleIT": "Urla del silenzio",
+        "Year": 1984,
+        "Directors": ["Roland Joffé"]
+      },
+      {
+        "TitleId": "tt1187043",
+        "OriginalTitle": "3 Idiots",
+        "Year": 2009,
+        "Directors": ["Rajkumar Hirani"]
+      },
+      {
+        "TitleId": "tt1216496",
+        "OriginalTitle": "Madeo",
+        "TitleIT": "Madre",
+        "Year": 2009,
+        "Directors": ["Bong Joon Ho"]
+      },
+      {
+        "TitleId": "tt0059051",
+        "OriginalTitle": "I complessi",
+        "Year": 1965,
+        "Directors": ["Luigi Filippo D'Amico", "Dino Risi", "Franco Rossi"]
+      },
+      {
+        "TitleId": "tt0022100",
+        "OriginalTitle": "M - Eine Stadt sucht einen Mörder",
+        "TitleIT": "M - Il mostro di Düsseldorf",
+        "Year": 1931,
+        "Directors": ["Fritz Lang"]
+      },
+      {
+        "TitleId": "tt0156887",
+        "OriginalTitle": "Pâfekuto burû",
+        "TitleIT": "Perfect Blue",
+        "Year": 1997,
+        "Directors": ["Satoshi Kon"]
+      },
+      {
+        "TitleId": "tt0978762",
+        "OriginalTitle": "Mary and Max.",
+        "TitleIT": "Mary and Max",
+        "Year": 2009,
+        "Directors": ["Adam Elliot"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 14,
+    "Movies": [
+      {
+        "TitleId": "tt0170772",
+        "OriginalTitle": "Vito e gli altri",
+        "Year": 1991,
+        "Directors": ["Antonio Capuano"]
+      },
+      {
+        "TitleId": "tt1172049",
+        "OriginalTitle": "Demolition",
+        "TitleIT": "Demolition: Amare e vivere",
+        "Year": 2015,
+        "Directors": ["Jean-Marc Vallée"]
+      },
+      {
+        "TitleId": "tt1424797",
+        "OriginalTitle": "J'ai tué ma mère",
+        "Year": 2009,
+        "Directors": ["Xavier Dolan"]
+      },
+      {
+        "TitleId": "tt0084787",
+        "OriginalTitle": "The Thing",
+        "TitleIT": "La cosa",
+        "Year": 1982,
+        "Directors": ["John Carpenter"]
+      },
+      {
+        "TitleId": "tt0088846",
+        "OriginalTitle": "Brazil",
+        "Year": 1985,
+        "Directors": ["Terry Gilliam"]
+      },
+      {
+        "TitleId": "tt4244994",
+        "OriginalTitle": "The Last Duel",
+        "Year": 2021,
+        "Directors": ["Ridley Scott"]
+      },
+      {
+        "TitleId": "tt0094964",
+        "OriginalTitle": "Dead Ringers",
+        "TitleIT": "Inseparabili",
+        "Year": 1988,
+        "Directors": ["David Cronenberg"],
+        "Countries": ["CA"]
+      },
+      {
+        "TitleId": "tt2331143",
+        "OriginalTitle": "Soshite chichi ni naru",
+        "TitleIT": "Father and Son",
+        "Year": 2013,
+        "Directors": ["Hirokazu Koreeda"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt0044081",
+        "OriginalTitle": "A Streetcar Named Desire",
+        "TitleIT": "Un tram che si chiama Desiderio",
+        "Year": 1951,
+        "Directors": ["Elia Kazan"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt4285496",
+        "OriginalTitle": "El abrazo de la serpiente",
+        "Year": 2015,
+        "Directors": ["Ciro Guerra"],
+        "Countries": ["CO", "VE", "AR"]
+      },
+      {
+        "TitleId": "tt9639470",
+        "OriginalTitle": "Last Night in Soho",
+        "TitleIT": "Ultima notte a Soho",
+        "Year": 2021,
+        "Directors": ["Edgar Wright"],
+        "Countries": ["UK"]
+      },
+      {
+        "TitleId": "tt0032904",
+        "OriginalTitle": "The Philadelphia Story",
+        "TitleIT": "Scandalo a Filadelfia",
+        "Year": 1940,
+        "Directors": ["George Cukor"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0449059",
+        "OriginalTitle": "Little Miss Sunshine",
+        "Year": 2006,
+        "Directors": ["Jonathan Dayton", "Valerie Faris"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0100234",
+        "OriginalTitle": "Nema-ye Nazdik",
+        "TitleIT": "Close Up",
+        "Year": 1990,
+        "Directors": ["Abbas Kiarostami"],
+        "Countries": ["IR"]
+      },
+      {
+        "TitleId": "tt0084805",
+        "OriginalTitle": "Tootsie",
+        "Year": 1982,
+        "Directors": ["Sydney Pollack"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1139797",
+        "OriginalTitle": "Låt den rätte komma in",
+        "TitleIT": "Lasciami entrare",
+        "Year": 2008,
+        "Directors": ["Tomas Alfredson"],
+        "Countries": ["SE"]
+      },
+      {
+        "TitleId": "tt0247613",
+        "OriginalTitle": "Bakha satang",
+        "TitleIT": "Peppermint Candy",
+        "Year": 1999,
+        "Directors": ["Lee Chang-dong"],
+        "Countries": ["KR", "JP"]
+      },
+      {
+        "TitleId": "tt0046911",
+        "OriginalTitle": "Les diaboliques",
+        "TitleIT": "I diabolici",
+        "Year": 1955,
+        "Directors": ["Henri-Georges Clouzot"],
+        "Countries": ["FR"]
+      },
+      {
+        "TitleId": "tt6752992",
+        "OriginalTitle": "Lazzaro felice",
+        "Year": 2018,
+        "Directors": ["Alice Rohrwacher"],
+        "Countries": ["IT", "CH", "FR", "DE"]
+      },
+      {
+        "TitleId": "tt1588170",
+        "OriginalTitle": "Ang-ma-reul bo-at-da",
+        "TitleIT": "I Saw the Devil",
+        "Year": 2010,
+        "Directors": ["Jee-woon Kim"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt0086200",
+        "OriginalTitle": "Risky Business",
+        "TitleIT": "Risky Business - Fuori i vecchi... i figli ballano",
+        "Year": 1983,
+        "Directors": ["Paul Brickman"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0044744",
+        "OriginalTitle": "The Importance of Being Earnest",
+        "TitleIT": "L'importanza di chiamarsi Ernesto",
+        "Year": 1952,
+        "Directors": ["Anthony Asquith"],
+        "Countries": ["GB"]
+      },
+      {
+        "TitleId": "tt0078326",
+        "OriginalTitle": "Straight Time",
+        "TitleIT": "Vigilato speciale",
+        "Year": 1978,
+        "Directors": ["Ulu Grosbard", "Dustin Hoffman"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0091530",
+        "OriginalTitle": "The Mission",
+        "TitleIT": "Mission",
+        "Year": 1986,
+        "Directors": ["Roland Joffé"],
+        "Countries": ["GB", "FR"]
+      },
+      {
+        "TitleId": "tt2614684",
+        "OriginalTitle": "'71",
+        "Year": 2014,
+        "Directors": ["Yann Demange"],
+        "Countries": ["GB"]
+      },
+      {
+        "TitleId": "tt2121382",
+        "OriginalTitle": "Turist",
+        "TitleIT": "Forza maggiore",
+        "Year": 2014,
+        "Directors": ["Ruben Östlund"],
+        "Countries": ["SE", "FR", "NO", "DK", "IT"]
+      },
+      {
+        "TitleId": "tt0117631",
+        "OriginalTitle": "Shine",
+        "Year": 1996,
+        "Directors": ["Scott Hicks"],
+        "Countries": ["AU"]
+      },
+      {
+        "TitleId": "tt0088939",
+        "OriginalTitle": "The Color Purple",
+        "TitleIT": "Il colore viola",
+        "Year": 1985,
+        "Directors": ["Steven Spielberg"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt9358256",
+        "OriginalTitle": "Shooting the Mafia",
+        "Year": 2019,
+        "Directors": ["Kim Longinotto"],
+        "Countries": ["US", "IE"]
+      },
+      {
+        "TitleId": "tt0404203",
+        "OriginalTitle": "Little Children",
+        "Year": 2006,
+        "Directors": ["Todd Field"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt3544112",
+        "OriginalTitle": "Sing Street",
+        "Year": 2016,
+        "Directors": ["John Carney"],
+        "Countries": ["IE", "GB"]
+      },
+      {
+        "TitleId": "tt0395169",
+        "OriginalTitle": "Hotel Rwanda",
+        "Year": 2004,
+        "Directors": ["Terry George"],
+        "Countries": ["GB", "ZA", "IT", "US"]
+      },
+      {
+        "TitleId": "tt7914416",
+        "OriginalTitle": "Kamera o tomeru na!",
+        "TitleIT": "Zombie contro zombie",
+        "Year": 2017,
+        "Directors": ["Shin'ichirô Ueda"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt0235198",
+        "OriginalTitle": "Ôdishon",
+        "TitleIT": "Audition",
+        "Year": 1999,
+        "Directors": ["Takashi Miike"],
+        "Countries": ["JP", "KR"]
+      },
+      {
+        "TitleId": "tt0069235",
+        "OriginalTitle": "Lo scopone scientifico",
+        "Year": 1972,
+        "Directors": ["Luigi Comencini"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0038109",
+        "OriginalTitle": "Spellbound",
+        "TitleIT": "Io ti salverò",
+        "Year": 1945,
+        "Directors": ["Alfred Hitchcock"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0075221",
+        "OriginalTitle": "Signore e signori, buonanotte",
+        "Year": 1976,
+        "Directors": ["Leonardo Benvenuti", "Luigi Comencini", "Piero De Bernardi"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0122648",
+        "OriginalTitle": "Ovosodo",
+        "Year": 1997,
+        "Directors": ["Paolo Virzì"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0120735",
+        "OriginalTitle": "Lock, Stock and Two Smoking Barrels",
+        "TitleIT": "Lock & Stock - Pazzi scatenati",
+        "Year": 1998,
+        "Directors": ["Guy Ritchie"],
+        "Countries": ["GB"]
+      },
+      {
+        "TitleId": "tt0097841",
+        "OriginalTitle": "Marrakech Express",
+        "Year": 1989,
+        "Directors": ["Gabriele Salvatores"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt1922777",
+        "OriginalTitle": "Sinister",
+        "Year": 2012,
+        "Directors": ["Scott Derrickson"],
+        "Countries": ["US", "GB", "CA"]
+      },
+      {
+        "TitleId": "tt0067429",
+        "OriginalTitle": "Milano calibro 9",
+        "Year": 1972,
+        "Directors": ["Fernando Di Leo"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0327597",
+        "OriginalTitle": "Coraline",
+        "TitleIT": "Coraline e la porta magica",
+        "Year": 2009,
+        "Directors": ["Henry Selick"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt11389748",
+        "OriginalTitle": "Mass",
+        "Year": 2021,
+        "Directors": ["Fran Kranz"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0058329",
+        "OriginalTitle": "Marnie",
+        "Year": 1964,
+        "Directors": ["Alfred Hitchcock"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1016150",
+        "OriginalTitle": "Im Westen nichts Neues",
+        "TitleIT": "Niente di nuovo sul fronte occidentale",
+        "Year": 2022,
+        "Directors": ["Edward Berger"],
+        "Countries": ["DE", "US", "GB"]
+      },
+      {
+        "TitleId": "tt0117666",
+        "OriginalTitle": "Sling Blade",
+        "TitleIT": "Lama tagliente",
+        "Year": 1996,
+        "Directors": ["Billy Bob Thornton"],
+        "Countries": ["US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 15,
+    "Movies": [
+      {
+        "TitleId": "tt0057274",
+        "OriginalTitle": "Il maestro di Vigevano",
+        "Year": 1963,
+        "Directors": ["Elio Petri"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt1032755",
+        "OriginalTitle": "RocknRolla",
+        "Year": 2008,
+        "Directors": ["Guy Ritchie"],
+        "Countries": ["GB", "US", "FR"]
+      },
+      {
+        "TitleId": "tt0116695",
+        "OriginalTitle": "Jerry Maguire",
+        "Year": 1996,
+        "Directors": ["Cameron Crowe"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1313092",
+        "OriginalTitle": "Animal Kingdom",
+        "Year": 2010,
+        "Directors": ["David Michôd"],
+        "Countries": ["AU"]
+      },
+      {
+        "TitleId": "tt6710474",
+        "OriginalTitle": "Everything Everywhere All at Once",
+        "Year": 2022,
+        "Directors": ["Dan Kwan", "Daniel Scheinert"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt2076220",
+        "OriginalTitle": "Holy Motors",
+        "Year": 2012,
+        "Directors": ["Leos Carax"],
+        "Countries": ["FR", "DE", "BE"]
+      },
+      {
+        "TitleId": "tt0010323",
+        "OriginalTitle": "Das Cabinet des Dr. Caligari",
+        "TitleIT": "Il gabinetto del dottor Caligari",
+        "Year": 1920,
+        "Directors": ["Robert Wiene"],
+        "Countries": ["DE"]
+      },
+      {
+        "TitleId": "tt0054068",
+        "OriginalTitle": "Il mattatore",
+        "Year": 1960,
+        "Directors": ["Dino Risi"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt0117913",
+        "OriginalTitle": "A Time to Kill",
+        "TitleIT": "Il momento di uccidere",
+        "Year": 1996,
+        "Directors": ["Joel Schumacher"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt11813216",
+        "OriginalTitle": "The Banshees of Inisherin",
+        "TitleIT": "Gli spiriti dell'isola",
+        "Year": 2022,
+        "Directors": ["Martin McDonagh"],
+        "Countries": ["GB", "US", "IE"]
+      },
+      {
+        "TitleId": "tt2321405",
+        "OriginalTitle": "Ma vie de Courgette",
+        "TitleIT": "La mia vita da Zucchina",
+        "Year": 2016,
+        "Directors": ["Claude Barras"],
+        "Countries": ["CH", "FR"]
+      },
+      {
+        "TitleId": "tt0090756",
+        "OriginalTitle": "Blue Velvet",
+        "TitleIT": "Velluto blu",
+        "Year": 1986,
+        "Directors": ["David Lynch"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0071360",
+        "OriginalTitle": "The Conversation",
+        "TitleIT": "La conversazione",
+        "Year": 1974,
+        "Directors": ["Francis Ford Coppola"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt9747594",
+        "OriginalTitle": "Jipuragirado jabgo sipeun jibseungdeul",
+        "TitleIT": "Nido di vipere",
+        "Year": 2020,
+        "Directors": ["Kim Yong-hoon"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt3416742",
+        "OriginalTitle": "What We Do in the Shadows",
+        "TitleIT": "Vita da vampiro - What We Do in the Shadows",
+        "Year": 2013,
+        "Directors": ["Jemaine Clement", "Taika Waititi"],
+        "Countries": ["NZ"]
+      },
+      {
+        "TitleId": "tt2523600",
+        "OriginalTitle": "Viva la libertà",
+        "Year": 2013,
+        "Directors": ["Roberto Andò"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0117336",
+        "OriginalTitle": "Pianese Nunzio, 14 anni a maggio",
+        "Year": 1996,
+        "Directors": ["Antonio Capuano"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0079944",
+        "OriginalTitle": "Stalker",
+        "Year": 1979,
+        "Directors": ["Andrei Tarkovsky"],
+        "Countries": ["SUHH"]
+      },
+      {
+        "TitleId": "tt0390384",
+        "OriginalTitle": "Primer",
+        "Year": 2004,
+        "Directors": ["Shane Carruth"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt3808342",
+        "OriginalTitle": "Saul fia",
+        "TitleIT": "Il figlio di Saul",
+        "Year": 2015,
+        "Directors": ["László Nemes"],
+        "Countries": ["HU"]
+      },
+      {
+        "TitleId": "tt5613484",
+        "OriginalTitle": "Mid90s",
+        "Year": 2018,
+        "Directors": ["Jonah Hill"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1437358",
+        "OriginalTitle": "Mientras duermes",
+        "TitleIT": "Bed Time",
+        "Year": 2011,
+        "Directors": ["Jaume Balagueró"],
+        "Countries": ["ES"]
+      },
+      {
+        "TitleId": "tt14208870",
+        "OriginalTitle": "The Fabelmans",
+        "Year": 2022,
+        "Directors": ["Steven Spielberg"],
+        "Countries": ["US", "IN"]
+      },
+      {
+        "TitleId": "tt2070649",
+        "OriginalTitle": "Do-ga-ni",
+        "TitleIT": "Silenced",
+        "Year": 2011,
+        "Directors": ["Hwang Dong-hyuk"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt0101410",
+        "OriginalTitle": "Barton Fink",
+        "TitleIT": "Barton Fink - È successo a Hollywood",
+        "Year": 1991,
+        "Directors": ["Joel Coen", "Ethan Coen"],
+        "Countries": ["GB", "US"]
+      },
+      {
+        "TitleId": "tt10370710",
+        "OriginalTitle": "Verdens verste menneske",
+        "TitleIT": "La persona peggiore del mondo",
+        "Year": 2021,
+        "Directors": ["Joachim Trier"],
+        "Countries": ["NO", "FR", "SE", "DK"]
+      },
+      {
+        "TitleId": "tt0049717",
+        "OriginalTitle": "Lo scapolo",
+        "Year": 1955,
+        "Directors": ["Antonio Pietrangeli"],
+        "Countries": ["IT", "ES"]
+      },
+      {
+        "TitleId": "tt12477480",
+        "OriginalTitle": "Heojil kyolshim",
+        "TitleIT": "Decision to Leave",
+        "Year": 2022,
+        "Directors": ["Park Chan-wook"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt0808357",
+        "OriginalTitle": "Se, jie",
+        "TitleIT": "Lussuria - Seduzione e tradimento",
+        "Year": 2007,
+        "Directors": ["Ang Lee"],
+        "Countries": ["TW", "US", "HK", "CN"]
+      },
+      {
+        "TitleId": "tt0101640",
+        "OriginalTitle": "Da hong denglong gaogao gua",
+        "TitleIT": "Lanterne rosse",
+        "Year": 1991,
+        "Directors": ["Yimou Zhang"],
+        "Countries": ["HK", "CN"]
+      },
+      {
+        "TitleId": "tt0094839",
+        "OriginalTitle": "Caruso Pascoski di padre polacco",
+        "Year": 1988,
+        "Directors": ["Francesco Nuti"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0352248",
+        "OriginalTitle": "Cinderella Man",
+        "TitleIT": "Cinderella Man - Una ragione per lottare",
+        "Year": 2005,
+        "Directors": ["Ron Howard"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1032846",
+        "OriginalTitle": "4 luni, 3 saptamâni si 2 zile",
+        "TitleIT": "4 mesi, 3 settimane, 2 giorni",
+        "Year": 2007,
+        "Directors": ["Cristian Mungiu"],
+        "Countries": ["RO", "BE"]
+      },
+      {
+        "TitleId": "tt7322224",
+        "OriginalTitle": "Triangle of Sadness",
+        "Year": 2022,
+        "Directors": ["Ruben Östlund"],
+        "Countries": ["US", "SEGB", "DE", "FR", "TR", "DK", "GR", "CH", "MX"]
+      },
+      {
+        "TitleId": "tt0097223",
+        "OriginalTitle": "Dom za vesanje",
+        "TitleIT": "Il tempo dei gitani",
+        "Year": 1988,
+        "Directors": ["Emir Kusturica"],
+        "Countries": ["XYU", "IT", "GB"]
+      },
+      {
+        "TitleId": "tt6878038",
+        "OriginalTitle": "Taeksi woonjunsa",
+        "TitleIT": "A taxi driver",
+        "Year": 2017,
+        "Directors": ["Hun Jang"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt5537002",
+        "OriginalTitle": "Killers of the Flower Moon",
+        "Year": 2023,
+        "Directors": ["Martin Scorsese"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt10638522",
+        "OriginalTitle": "Talk to Me",
+        "Year": 2022,
+        "Directors": ["Danny Philippou", "Michael Philippou"],
+        "Countries": ["AU", "GB"]
+      },
+      {
+        "TitleId": "tt14034966",
+        "OriginalTitle": "Gûzen to sôzô",
+        "TitleIT": "Il gioco del destino e della fantasia",
+        "Year": 2021,
+        "Directors": ["Ryûsuke Hamaguchi"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt1136617",
+        "OriginalTitle": "The Killer",
+        "Year": 2023,
+        "Directors": ["David Fincher"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0123948",
+        "OriginalTitle": "Cure",
+        "Year": 1997,
+        "Directors": ["Kiyoshi Kurosawa"],
+        "Countries": ["JP"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 16,
+    "Movies": [
+      {
+        "TitleId": "tt2125608",
+        "OriginalTitle": "Sugar Man",
+        "TitleIT": "Searching for Sugar Man",
+        "Year": 2012,
+        "Directors": ["Malik Bendjelloul"],
+        "Countries": ["SE", "GB", "FI"]
+      },
+      {
+        "TitleId": "tt2884206",
+        "OriginalTitle": "I Origins",
+        "Year": 2014,
+        "Directors": ["Mike Cahill"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt3612616",
+        "OriginalTitle": "Mommy",
+        "Year": 2014,
+        "Directors": ["Xavier Dolan"],
+        "Countries": ["CA"]
+      },
+      {
+        "TitleId": "tt1033575",
+        "OriginalTitle": "The Descendants",
+        "TitleIT": "Paradiso amaro",
+        "Year": 2011,
+        "Directors": ["Alexander Payne"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0086425",
+        "OriginalTitle": "Terms of Endearment",
+        "TitleIT": "Voglia di tenerezza",
+        "Year": 1983,
+        "Directors": ["James L. Brooks"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt16277242",
+        "OriginalTitle": "La sociedad de la nieve",
+        "TitleIT": "La società della neve",
+        "Year": 2023,
+        "Directors": ["J.A. Bayona"],
+        "Countries": ["ES", "CL", "UY", "US"]
+      },
+      {
+        "TitleId": "tt0099871",
+        "OriginalTitle": "Jacob's Ladder",
+        "TitleIT": "Allucinazione perversa",
+        "Year": 1990,
+        "Directors": ["Adrian Lyne"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt9586294",
+        "OriginalTitle": "Shaonian de ni",
+        "TitleIT": "Better Days",
+        "Year": 2019,
+        "Directors": ["Derek Tsang"],
+        "Countries": ["CN", "HK"]
+      },
+      {
+        "TitleId": "tt1191111",
+        "OriginalTitle": "Enter the Void",
+        "Year": 2009,
+        "Directors": ["Gaspar Noé"],
+        "Countries": ["FR", "DE", "IT", "CA", "JP"]
+      },
+      {
+        "TitleId": "tt13521006",
+        "OriginalTitle": "Beau Is Afraid",
+        "TitleIT": "Beau ha paura",
+        "Year": 2023,
+        "Directors": ["Ari Aster"],
+        "Countries": ["US", "GB", "FI", "CA"]
+      },
+      {
+        "TitleId": "tt7160372",
+        "OriginalTitle": "The Zone of Interest",
+        "TitleIT": "La zona d'interesse",
+        "Year": 2023,
+        "Directors": ["Jonathan Glazer"],
+        "Countries": ["US", "GB", "PL"]
+      },
+      {
+        "TitleId": "tt0311519",
+        "OriginalTitle": "Mies vailla menneisyyttä",
+        "TitleIT": "L'uomo senza passato",
+        "Year": 2002,
+        "Directors": ["Aki Kaurismäki"],
+        "Countries": ["FI", "DE", "FR"]
+      },
+      {
+        "TitleId": "tt0206634",
+        "OriginalTitle": "Children of Men",
+        "TitleIT": "I figli degli uomini",
+        "Year": 2009,
+        "Directors": ["Alfonso Cuarón"],
+        "Countries": ["US", "GB", "JP"]
+      },
+      {
+        "TitleId": "tt21942866",
+        "OriginalTitle": "Dream Scenario",
+        "TitleIT": "Dream Scenario - Hai mai sognato quest'uomo?",
+        "Year": 2023,
+        "Directors": ["Kristoffer Borgli"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0057565",
+        "OriginalTitle": "Tengoku to jigoku",
+        "TitleIT": "Anatomia di un rapimento",
+        "Year": 1963,
+        "Directors": ["Akira Kurosawa"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt0274558",
+        "OriginalTitle": "The Hours",
+        "Year": 2002,
+        "Directors": ["Stephen Daldry"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0054248",
+        "OriginalTitle": "Rocco e i suoi fratelli",
+        "Year": 1960,
+        "Directors": ["Luchino Visconti"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt0069293",
+        "OriginalTitle": "Solyaris",
+        "TitleIT": "Solaris",
+        "Year": 1972,
+        "Directors": ["Andrei Tarkovsky"],
+        "Countries": ["SUHH"]
+      },
+      {
+        "TitleId": "tt0299977",
+        "OriginalTitle": "Ying xiong",
+        "TitleIT": "Hero",
+        "Year": 2002,
+        "Directors": ["Yimou Zhang"],
+        "Countries": ["HK", "CN"]
+      },
+      {
+        "TitleId": "tt15339456",
+        "OriginalTitle": "Marcel the Shell with Shoes On",
+        "TitleIT": "Marcel the Shell",
+        "Year": 2021,
+        "Directors": ["Dean Fleischer Camp"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt1590089",
+        "OriginalTitle": "Kokuhaku",
+        "TitleIT": "Confessions",
+        "Year": 2010,
+        "Directors": ["Tetsuya Nakashima"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt3011894",
+        "OriginalTitle": "Relatos salvajes",
+        "TitleIT": "Storie Pazzesche",
+        "Year": 2014,
+        "Directors": ["Damián Szifron"],
+        "Countries": ["AR", "ES", "FR", "GB"]
+      },
+      {
+        "TitleId": "tt9860350",
+        "OriginalTitle": "Asada-ke!",
+        "TitleIT": "Foto di famiglia",
+        "Year": 2020,
+        "Directors": ["Ryôta Nakano"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt3917210",
+        "OriginalTitle": "Life, Animated",
+        "Year": 2016,
+        "Directors": ["Roger Ross Williams"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0048424",
+        "OriginalTitle": "The Night of the Hunter",
+        "TitleIT": "La morte corre sul fiume",
+        "Year": 1955,
+        "Directors": ["Charles Laughton"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0059646",
+        "OriginalTitle": "Repulsion",
+        "Year": 1955,
+        "Directors": ["Roman Polanski"],
+        "Countries": ["GB"]
+      },
+      {
+        "TitleId": "tt3176980",
+        "OriginalTitle": "Be My Cat: A Film for Anne",
+        "Year": 2015,
+        "Directors": ["Adrian Tofei"],
+        "Countries": ["RO"]
+      },
+      {
+        "TitleId": "tt15109082",
+        "OriginalTitle": "An Cailín Ciúin",
+        "TitleIT": "The quiet girl",
+        "Year": 2022,
+        "Directors": ["Colm Bairéad"],
+        "Countries": ["IE"]
+      },
+      {
+        "TitleId": "tt0081283",
+        "OriginalTitle": "Ordinary People",
+        "TitleIT": "Gente comune",
+        "Year": 1980,
+        "Directors": ["Robert Redford"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0110008",
+        "OriginalTitle": "Heisei tanuki gassen ponpoko",
+        "TitleIT": "Pom Poko",
+        "Year": 1994,
+        "Directors": ["Isao Takahata"],
+        "Countries": ["JP"]
+      },
+      {
+        "TitleId": "tt12004038",
+        "OriginalTitle": "Watcher",
+        "Year": 2022,
+        "Directors": ["Chloe Okuno"],
+        "Countries": ["AE", "US", "RO"]
+      },
+      {
+        "TitleId": "tt22248276",
+        "OriginalTitle": "Palazzina Laf",
+        "Year": 2023,
+        "Directors": ["Michele Riondino"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0369702",
+        "OriginalTitle": "Mar adentro",
+        "TitleIT": "Mare dentro",
+        "Year": 2004,
+        "Directors": ["Alejandro Amenábar"],
+        "Countries": ["ES", "FR", "IT"]
+      },
+      {
+        "TitleId": "tt0078875",
+        "OriginalTitle": "Die Blechtrommel",
+        "TitleIT": "Il tamburo di latta",
+        "Year": 1979,
+        "Directors": ["Volker Schlöndorff"],
+        "Countries": ["XWG", "FR", "PL"]
+      },
+      {
+        "TitleId": "tt1832382",
+        "OriginalTitle": "Jodaeiye Nader az Simin",
+        "TitleIT": "Una separazione",
+        "Year": 2011,
+        "Directors": ["Asghar Farhadi"],
+        "Countries": ["IR", "FR", "AU"]
+      },
+      {
+        "TitleId": "tt0091251",
+        "OriginalTitle": "Idi i smotri",
+        "TitleIT": "Va' e vedi",
+        "Year": 1985,
+        "Directors": ["Elem Klimov"],
+        "Countries": ["SUHH"]
+      },
+      {
+        "TitleId": "tt0074851",
+        "OriginalTitle": "The Man Who Fell to Earth",
+        "TitleIT": "L'uomo che cadde sulla Terra",
+        "Year": 1976,
+        "Directors": ["Nicolas Roeg"],
+        "Countries": ["GB"]
+      },
+      {
+        "TitleId": "tt14966898",
+        "OriginalTitle": "Late Night with the Devil",
+        "Year": 2023,
+        "Directors": ["Cameron Cairnes", "Colin Cairnes"],
+        "Countries": ["AU", "AE", "US"]
+      },
+      {
+        "TitleId": "tt22001304",
+        "OriginalTitle": "Adagio",
+        "Year": 2023,
+        "Directors": ["Stefano Sollima"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt17526714",
+        "OriginalTitle": "The Substance",
+        "Year": 2024,
+        "Directors": ["Coralie Fargeat"],
+        "Countries": ["GB", "FR", "US"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 17,
+    "Movies": [
+      {
+        "TitleId": "tt0186508",
+        "OriginalTitle": "Buena Vista Social Club",
+        "Year": 1999,
+        "Directors": ["Wim Wenders"],
+        "Countries": ["DE", "US", "UK", "FR", "CU"]
+      },
+      {
+        "TitleId": "tt0096163",
+        "OriginalTitle": "Spoorloos",
+        "TitleIT": "Il mistero della donna scomparsa",
+        "Year": 1988,
+        "Directors": ["George Sluizer"],
+        "Countries": ["NL", "FR"]
+      },
+      {
+        "TitleId": "tt28607951",
+        "OriginalTitle": "Anora",
+        "Year": 2024,
+        "Directors": ["Sean Baker"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0050986",
+        "OriginalTitle": "Smultronstället",
+        "TitleIT": "Il posto delle fragole",
+        "Year": 1957,
+        "Directors": ["Ingmar Bergman"],
+        "Countries": ["SE"]
+      },
+      {
+        "TitleId": "tt1287878",
+        "OriginalTitle": "Si",
+        "TitleIT": "Poetry",
+        "Year": 2010,
+        "Directors": ["Lee Chang-dong"],
+        "Countries": ["KR", "FR"]
+      },
+      {
+        "TitleId": "tt0841046",
+        "OriginalTitle": "Walk Hard - La storia di Dewey Cox",
+        "TitleIT": "Walk Hard: The Dewey Cox Story",
+        "Year": 2007,
+        "Directors": ["Jake Kasdan"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt27403986",
+        "OriginalTitle": "Juror #2",
+        "TitleIT": "Giurato numero 2",
+        "Year": 2024,
+        "Directors": ["Clint Eastwood"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0061808",
+        "OriginalTitle": "L'immorale",
+        "Year": 1967,
+        "Directors": ["Pietro Germi"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt3078242",
+        "OriginalTitle": "Miss Violence",
+        "Year": 2013,
+        "Directors": ["Alexandros Avranas"],
+        "Countries": ["GR"]
+      },
+      {
+        "TitleId": "tt13654226",
+        "OriginalTitle": "The Gorge",
+        "TitleIT": "Misteri dal profondo",
+        "Year": 2025,
+        "Directors": ["Scott Derrickson"],
+        "Countries": ["GB", "US"]
+      },
+      {
+        "TitleId": "tt0062136",
+        "OriginalTitle": "Playtime",
+        "TitleIT": "Play Time - Tempo di divertimento",
+        "Year": 1967,
+        "Directors": ["Jacques Tati"],
+        "Countries": ["FR", "IT"]
+      },
+      {
+        "TitleId": "tt13957560",
+        "OriginalTitle": "Dumb Money",
+        "TitleIT": "Dumb Money: Non chiamateli sprovveduti",
+        "Year": 2023,
+        "Directors": ["Craig Gillespie"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt3169706",
+        "OriginalTitle": "Pride",
+        "Year": 2014,
+        "Directors": ["Matthew Warchus"],
+        "Countries": ["GB", "FR", "US"]
+      },
+      {
+        "TitleId": "tt0050825",
+        "OriginalTitle": "Paths of Glory",
+        "TitleIT": "Orizzonti di gloria",
+        "Year": 1957,
+        "Directors": ["Stanley Kubrick"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt4364194",
+        "OriginalTitle": "The Peanut Butter Falcon",
+        "TitleIT": "In viaggio verso un sogno - The Peanut Butter Falcon",
+        "Year": 2019,
+        "Directors": ["Tyler Nilson", "Michael Schwartz"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt10540510",
+        "OriginalTitle": "Inu-Ô",
+        "TitleIT": "Inu-Oh",
+        "Year": 2021,
+        "Directors": ["Fûga Yamashiro", "Masaaki Yuasa"],
+        "Countries": ["JP", "US"]
+      },
+      {
+        "TitleId": "tt0050783",
+        "OriginalTitle": "Le notti di Cabiria",
+        "Year": 1957,
+        "Directors": ["Ferico Fellini"],
+        "Countries": ["IT", "FR"]
+      },
+      {
+        "TitleId": "tt20215234",
+        "OriginalTitle": "Conclave",
+        "Year": 2024,
+        "Directors": ["Edward Berger"],
+        "Countries": ["UK", "US"]
+      },
+      {
+        "TitleId": "tt0042355",
+        "OriginalTitle": "Cronaca di un amore",
+        "Year": 1950,
+        "Directors": ["Michelangelo Antonioni"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt8430054",
+        "OriginalTitle": "Flugt",
+        "TitleIT": "Flee",
+        "Year": 2021,
+        "Directors": ["Jonas Poher Rasmussen"],
+        "Countries": ["DK", "FR", "NO", "SE", "NL", "UK", "US", "FI", "ES", "EE", "SI", "BE"]
+      },
+      {
+        "TitleId": "tt0373469",
+        "OriginalTitle": "Kiss Kiss Bang Bang",
+        "Year": 2005,
+        "Directors": ["Shane Black"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt8178634",
+        "OriginalTitle": "RRR (Rise Roar Revolt)",
+        "TitleIT": "RRR",
+        "Year": 2022,
+        "Directors": ["S.S. Rajamouli"],
+        "Countries": ["IN"]
+      },
+      {
+        "TitleId": "tt0112817",
+        "OriginalTitle": "Dead Man",
+        "Year": 1995,
+        "Directors": ["Jim Jarmusch"],
+        "Countries": ["DE", "JP", "US"]
+      },
+      {
+        "TitleId": "tt0103074",
+        "OriginalTitle": "Thelma & Louise",
+        "Year": 1991,
+        "Directors": ["Ridley Scott"],
+        "Countries": ["US", "GB", "FR"]
+      },
+      {
+        "TitleId": "tt0118845",
+        "OriginalTitle": "Chun gwong ja sit",
+        "TitleIT": "Happy Together",
+        "Year": 1997,
+        "Directors": ["Wong Kar-Wai"],
+        "Countries": ["HK", "KR", "JP"]
+      },
+      {
+        "TitleId": "tt0077465",
+        "OriginalTitle": "Dove vai in vacanza?",
+        "Year": 1978,
+        "Directors": ["Mauro Bolognini", "Luciano Salce", "Alberto Sordi"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt1450321",
+        "OriginalTitle": "Filth",
+        "Year": 2013,
+        "Directors": ["Jon S. Baird"],
+        "Countries": ["GB", "DE", "SE", "BE", "US"]
+      },
+      {
+        "TitleId": "tt27196021",
+        "OriginalTitle": "Small Things Like These",
+        "TitleIT": "Piccole cose come queste",
+        "Year": 2024,
+        "Directors": ["Tim Mielants"],
+        "Countries": ["IE", "BE", "US"]
+      },
+      {
+        "TitleId": "tt30953759",
+        "OriginalTitle": "No Other Land",
+        "Year": 2024,
+        "Directors": ["Yuval Abraham", "Basel Adra", "Hamdan Ballal"],
+        "Countries": ["PS", "NO", "DK", "FR", "DE", "BE"]
+      },
+      {
+        "TitleId": "tt1682180",
+        "OriginalTitle": "Stoker",
+        "Year": 2013,
+        "Directors": ["Park Chan-wook"],
+        "Countries": ["GB", "US"]
+      },
+      {
+        "TitleId": "tt11563598",
+        "OriginalTitle": "A Complete Unknown",
+        "Year": 2024,
+        "Directors": ["James Mangold"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt0075335",
+        "OriginalTitle": "Todo modo",
+        "Year": 1976,
+        "Directors": ["Elio Petri"],
+        "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0130827",
+        "OriginalTitle": "Lola rennt",
+        "TitleIT": "Lola corre",
+        "Year": 1998,
+        "Directors": ["Tom Tykwer"],
+        "Countries": ["DE"]
+      },
+      {
+        "TitleId": "tt4772188",
+        "OriginalTitle": "Straume",
+        "TitleIT": "Flow - Un mondo da salvare",
+        "Year": 2024,
+        "Directors": ["Gints Zilbalodis"],
+        "Countries": ["LV", "BE", "FR"]
+      },
+      {
+        "TitleId": "tt7057496",
+        "OriginalTitle": "Gi-eok-ui bam",
+        "TitleIT": "Forgotten",
+        "Year": 2017,
+        "Directors": ["Jang Hang-jun"],
+        "Countries": ["KR"]
+      },
+      {
+        "TitleId": "tt1312221",
+        "OriginalTitle": "Frankenstein",
+        "Year": 2025,
+        "Directors": ["Guillermo del Toro"],
+        "Countries": ["MX", "US"]
+      },
+      {
+        "TitleId": "tt1510938",
+        "OriginalTitle": "The Sunset Limited",
+        "Year": 2011,
+        "Directors": ["Tommy Lee Jones"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt5215952",
+        "OriginalTitle": "Gokseong",
+        "TitleIT": "Goksung - La presenza del diavolo",
+        "Year": 2016,
+        "Directors": ["Na Hong-jin"],
+        "Countries": ["KR"]
+      }
+    ]
+  },
+  {
+    "SeasonId": 18,
+    "Movies": [
+      {
+        "TitleId": "tt24950660",
+        "OriginalTitle": "Eternity",
+        "Year": 2025,
+        "Directors": ["David Freyne"],
+        "Countries": ["US", "CA"]
+      },
+      {
+        "TitleId": "tt9620288",
+        "OriginalTitle": "King Richard",
+        "TitleIT": "King Richard - Una famiglia vincente",
+        "Year": 2021,
+        "Directors": ["Reinaldo Marcus Green"],
+        "Countries": ["US", "AU"]
+      },
+      {
+        "TitleId": "tt18925334",
+        "OriginalTitle": "Pearl",
+        "Year": 2022,
+        "Directors": ["Ti West"],
+        "Countries": ["NZ", "US"]
+      },
+      {
+        "TitleId": "tt0117381",
+        "OriginalTitle": "Primal Fear",
+        "TitleIT": "Schegge di paura",
+        "Year": 1996,
+        "Directors": ["Gregory Hoblit"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt31711040",
+        "OriginalTitle": "Rukku Bakku",
+        "TitleIT": "Look Back",
+        "Year": 2024,
+        "Directors": ["Kiyotaka Oshiyama"],
+        "Countries": ["JP", "US"]
+      },
+      {
+        "TitleId": "tt0070723",
+        "OriginalTitle": "Soylent Green",
+        "TitleIT": "2022: i sopravvissuti",
+        "Year": 1973,
+        "Directors": ["Richard Fleischer"],
+        "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt36491632",
+        "OriginalTitle": "Le città di pianura",
+        "Year": 2025,
+        "Directors": ["Francesco Sossai"],
+        "Countries": ["IT", "DE"]
+      }
+    ]
+  }
+]
