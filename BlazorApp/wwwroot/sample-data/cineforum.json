@@ -4116,6 +4116,14 @@
         "Year": 1984,
         "Directors": ["Alberto Sordi"],
         "Countries": ["IT"]
+      },
+      {
+        "TitleId": "tt0070510",
+        "OriginalTitle": "Paper Moon",
+        "TitleIT": "Paper Moon - Luna di carta",
+        "Year": 1973,
+        "Directors": ["Peter Bogdanovich"],
+        "Countries": ["US"]
       }
     ]
   }
