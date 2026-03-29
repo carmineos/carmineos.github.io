@@ -4124,6 +4124,13 @@
         "Year": 1973,
         "Directors": ["Peter Bogdanovich"],
         "Countries": ["US"]
+      },
+      {
+        "TitleId": "tt12908150",
+        "OriginalTitle": "The Life of Chuck",
+        "Year": 2024,
+        "Directors": ["Mike Flanagan"],
+        "Countries": ["US"]
       }
     ]
   }
