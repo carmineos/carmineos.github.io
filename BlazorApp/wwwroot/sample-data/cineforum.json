@@ -4207,6 +4207,14 @@
         "Year": 2015,
         "Directors": ["Deniz Gamze Ergüven"],
         "Countries": ["TR", "FR", "DE", "QA"]
+      },
+      {
+        "TitleId": "tt0118843",
+        "OriginalTitle": "Mustang",
+        "TitleIT": "Crna macka, beli macor",
+        "Year": 1998,
+        "Directors": ["Emir Kusturica"],
+        "Countries": ["FR", "DE", "YUCS", "AT", "GR"]
       }
     ]
   }
