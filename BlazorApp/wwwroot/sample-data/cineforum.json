@@ -4230,6 +4230,13 @@
         "Year": 2016,
         "Directors": ["Nitesh Tiwari"],
         "Countries": ["IN","US"]
+      },
+      {
+        "TitleId": "tt9660502",
+        "OriginalTitle": "Close",
+        "Year": 2022,
+        "Directors": ["Lukas Dhont"],
+        "Countries": ["BE","NL","FR"]
       }
     ]
   }
