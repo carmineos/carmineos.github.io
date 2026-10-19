@@ -4275,6 +4275,14 @@
         "Year": 2016,
         "Directors": ["Maren Ade"],
         "Countries": ["DE", "AT", "MC", "RO", "FR", "CH", "BE"]
+      },
+      {
+        "TitleId": "tt0086066",
+        "OriginalTitle": "I ragazzi della 56ª strada",
+        "TitleIT": "The Outsiders",
+        "Year": 1983,
+        "Directors": ["Francis Ford Coppola"],
+        "Countries": ["US", "FR"]
       }
     ]
   }
